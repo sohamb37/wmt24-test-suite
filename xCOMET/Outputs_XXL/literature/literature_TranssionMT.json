@@ -1,0 +1,1233 @@
+[
+    [
+        {
+            "text": "छाया कर दिया",
+            "confidence": 0.6612593531608582,
+            "severity": "major",
+            "start": 20,
+            "end": 33
+        },
+        {
+            "text": "बनाई",
+            "confidence": 0.7321339845657349,
+            "severity": "major",
+            "start": 114,
+            "end": 119
+        }
+    ],
+    [],
+    [
+        {
+            "text": "जिसे उसने किया",
+            "confidence": 0.5952922105789185,
+            "severity": "major",
+            "start": 43,
+            "end": 58
+        }
+    ],
+    [],
+    [
+        {
+            "text": "ान",
+            "confidence": 0.5211957693099976,
+            "severity": "major",
+            "start": 40,
+            "end": 42
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "लाई से पहले भेजो",
+            "confidence": 0.5360142588615417,
+            "severity": "major",
+            "start": 53,
+            "end": 69
+        }
+    ],
+    [
+        {
+            "text": "हम",
+            "confidence": 0.5705676078796387,
+            "severity": "major",
+            "start": 50,
+            "end": 52
+        },
+        {
+            "text": "देख",
+            "confidence": 0.5449880361557007,
+            "severity": "major",
+            "start": 58,
+            "end": 62
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "मू",
+            "confidence": 0.5688296556472778,
+            "severity": "major",
+            "start": 51,
+            "end": 54
+        },
+        {
+            "text": "ख आत्मा",
+            "confidence": 0.7216455936431885,
+            "severity": "major",
+            "start": 56,
+            "end": 63
+        }
+    ],
+    [
+        {
+            "text": "छिपा लेती है",
+            "confidence": 0.7292218208312988,
+            "severity": "major",
+            "start": 69,
+            "end": 81
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "को पुकारो",
+            "confidence": 0.8348597884178162,
+            "severity": "major",
+            "start": 22,
+            "end": 32
+        },
+        {
+            "text": "ओ",
+            "confidence": 0.5145686864852905,
+            "severity": "major",
+            "start": 55,
+            "end": 56
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "ओर",
+            "confidence": 0.6190621852874756,
+            "severity": "major",
+            "start": 46,
+            "end": 49
+        }
+    ],
+    [],
+    [
+        {
+            "text": "जो",
+            "confidence": 0.7338186502456665,
+            "severity": "minor",
+            "start": 37,
+            "end": 40
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "पर",
+            "confidence": 0.6081109046936035,
+            "severity": "major",
+            "start": 14,
+            "end": 17
+        },
+        {
+            "text": "कार",
+            "confidence": 0.6013806462287903,
+            "severity": "major",
+            "start": 25,
+            "end": 28
+        },
+        {
+            "text": "वा",
+            "confidence": 0.6920808553695679,
+            "severity": "major",
+            "start": 105,
+            "end": 107
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "मँडरा रही थी",
+            "confidence": 0.6346147060394287,
+            "severity": "major",
+            "start": 93,
+            "end": 106
+        }
+    ],
+    [],
+    [
+        {
+            "text": "लाए हैं",
+            "confidence": 0.7244898676872253,
+            "severity": "major",
+            "start": 66,
+            "end": 74
+        },
+        {
+            "text": "मान",
+            "confidence": 0.5443105697631836,
+            "severity": "major",
+            "start": 99,
+            "end": 102
+        },
+        {
+            "text": "लाते",
+            "confidence": 0.8332662582397461,
+            "severity": "major",
+            "start": 107,
+            "end": 112
+        }
+    ],
+    [],
+    [
+        {
+            "text": "वाले",
+            "confidence": 0.5377311706542969,
+            "severity": "major",
+            "start": 64,
+            "end": 69
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "आकाश",
+            "confidence": 0.4992576241493225,
+            "severity": "major",
+            "start": 34,
+            "end": 39
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "मजदूर",
+            "confidence": 0.5590283870697021,
+            "severity": "major",
+            "start": 13,
+            "end": 19
+        },
+        {
+            "text": "कमा चुके",
+            "confidence": 0.6021708250045776,
+            "severity": "major",
+            "start": 20,
+            "end": 29
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "मैं ने",
+            "confidence": 0.6210452318191528,
+            "severity": "major",
+            "start": 106,
+            "end": 113
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "पुकारो",
+            "confidence": 0.8557451963424683,
+            "severity": "major",
+            "start": 35,
+            "end": 42
+        }
+    ],
+    [
+        {
+            "text": "गा",
+            "confidence": 0.6046212315559387,
+            "severity": "major",
+            "start": 33,
+            "end": 35
+        }
+    ],
+    [],
+    [
+        {
+            "text": "वे उत्पन्न हुए",
+            "confidence": 0.5596822500228882,
+            "severity": "major",
+            "start": 45,
+            "end": 60
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "उनके",
+            "confidence": 0.5723336935043335,
+            "severity": "major",
+            "start": 37,
+            "end": 42
+        }
+    ],
+    [],
+    [
+        {
+            "text": "प्रार्थना में",
+            "confidence": 0.5237448811531067,
+            "severity": "major",
+            "start": 8,
+            "end": 22
+        },
+        {
+            "text": "जो भारी और कठिन है",
+            "confidence": 0.618277907371521,
+            "severity": "major",
+            "start": 42,
+            "end": 61
+        },
+        {
+            "text": "लेकिन उन लोगों के लिए जो विनम्र और विनम्र हैं",
+            "confidence": 0.7260187864303589,
+            "severity": "major",
+            "start": 62,
+            "end": 108
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "बातचीत की",
+            "confidence": 0.596118152141571,
+            "severity": "major",
+            "start": 44,
+            "end": 54
+        },
+        {
+            "text": "ले लिया",
+            "confidence": 0.689844012260437,
+            "severity": "major",
+            "start": 92,
+            "end": 100
+        }
+    ],
+    [],
+    [
+        {
+            "text": "इसके पश्चात",
+            "confidence": 0.7314499020576477,
+            "severity": "major",
+            "start": 16,
+            "end": 28
+        },
+        {
+            "text": "कि",
+            "confidence": 0.8430455327033997,
+            "severity": "major",
+            "start": 39,
+            "end": 42
+        }
+    ],
+    [
+        {
+            "text": "ियों के जोड़े-जोड़े करके जहाज़ पर",
+            "confidence": 0.6998152732849121,
+            "severity": "major",
+            "start": 11,
+            "end": 44
+        },
+        {
+            "text": "के पास गए, जिनमें जीवन की साँस थी",
+            "confidence": 0.7372905611991882,
+            "severity": "major",
+            "start": 48,
+            "end": 82
+        }
+    ],
+    [
+        {
+            "text": "हो जा",
+            "confidence": 0.5587986707687378,
+            "severity": "major",
+            "start": 103,
+            "end": 108
+        }
+    ],
+    [],
+    [
+        {
+            "text": "बचाने वाला और बचाने वाला",
+            "confidence": 0.7829182744026184,
+            "severity": "major",
+            "start": 94,
+            "end": 119
+        }
+    ],
+    [],
+    [
+        {
+            "text": "अन्तर को",
+            "confidence": 0.7926217913627625,
+            "severity": "major",
+            "start": 11,
+            "end": 20
+        }
+    ],
+    [
+        {
+            "text": "सामने",
+            "confidence": 0.6293324828147888,
+            "severity": "major",
+            "start": 53,
+            "end": 59
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "परमेश्वर के पास",
+            "confidence": 0.4024837017059326,
+            "severity": "major",
+            "start": 0,
+            "end": 15
+        }
+    ],
+    [],
+    [
+        {
+            "text": "में",
+            "confidence": 0.48821136355400085,
+            "severity": "major",
+            "start": 53,
+            "end": 57
+        },
+        {
+            "text": "हो जाओ",
+            "confidence": 0.6434069871902466,
+            "severity": "major",
+            "start": 59,
+            "end": 66
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "ओ",
+            "confidence": 0.6924205422401428,
+            "severity": "major",
+            "start": 72,
+            "end": 73
+        }
+    ],
+    [
+        {
+            "text": "साथ",
+            "confidence": 0.6777744889259338,
+            "severity": "major",
+            "start": 54,
+            "end": 58
+        },
+        {
+            "text": "साथ चला,",
+            "confidence": 0.6842050552368164,
+            "severity": "major",
+            "start": 59,
+            "end": 67
+        }
+    ],
+    [
+        {
+            "text": "ओर घूमने",
+            "confidence": 0.6453531980514526,
+            "severity": "major",
+            "start": 131,
+            "end": 140
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "में",
+            "confidence": 0.5312647223472595,
+            "severity": "minor",
+            "start": 35,
+            "end": 39
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "तुम्हारा",
+            "confidence": 0.5080265998840332,
+            "severity": "major",
+            "start": 12,
+            "end": 21
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "कह दो",
+            "confidence": 0.5259153842926025,
+            "severity": "minor",
+            "start": 0,
+            "end": 5
+        }
+    ],
+    [
+        {
+            "text": "सूरा",
+            "confidence": 0.786042332649231,
+            "severity": "major",
+            "start": 80,
+            "end": 85
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "ऊपर",
+            "confidence": 0.5263239145278931,
+            "severity": "major",
+            "start": 33,
+            "end": 37
+        },
+        {
+            "text": "उठाया",
+            "confidence": 0.5677167177200317,
+            "severity": "major",
+            "start": 42,
+            "end": 48
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "के लिए",
+            "confidence": 0.6802181005477905,
+            "severity": "major",
+            "start": 41,
+            "end": 48
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "लिए",
+            "confidence": 0.6306654214859009,
+            "severity": "major",
+            "start": 24,
+            "end": 28
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "करे",
+            "confidence": 0.5380898714065552,
+            "severity": "major",
+            "start": 24,
+            "end": 28
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "ही बिजली गिरी",
+            "confidence": 0.6064161658287048,
+            "severity": "major",
+            "start": 132,
+            "end": 146
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "जल",
+            "confidence": 0.49520343542099,
+            "severity": "major",
+            "start": 49,
+            "end": 52
+        },
+        {
+            "text": "जल",
+            "confidence": 0.5744394063949585,
+            "severity": "major",
+            "start": 55,
+            "end": 58
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "झुको और झुको",
+            "confidence": 0.5766844749450684,
+            "severity": "critical",
+            "start": 57,
+            "end": 70
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "हर चीज़ और हर चीज़",
+            "confidence": 0.6046582460403442,
+            "severity": "major",
+            "start": 15,
+            "end": 34
+        }
+    ],
+    [
+        {
+            "text": "विस्तार",
+            "confidence": 0.5431735515594482,
+            "severity": "major",
+            "start": 14,
+            "end": 22
+        }
+    ],
+    [],
+    [
+        {
+            "text": "खिड़कियाँ",
+            "confidence": 0.7763971090316772,
+            "severity": "major",
+            "start": 25,
+            "end": 35
+        }
+    ],
+    [
+        {
+            "text": "ी",
+            "confidence": 0.5177954435348511,
+            "severity": "major",
+            "start": 11,
+            "end": 12
+        }
+    ],
+    [
+        {
+            "text": "खाना",
+            "confidence": 0.770667314529419,
+            "severity": "major",
+            "start": 56,
+            "end": 61
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "वह्यी",
+            "confidence": 0.7030763030052185,
+            "severity": "major",
+            "start": 17,
+            "end": 23
+        },
+        {
+            "text": "झु",
+            "confidence": 0.6622697114944458,
+            "severity": "major",
+            "start": 26,
+            "end": 29
+        }
+    ],
+    [
+        {
+            "text": "रेंग",
+            "confidence": 0.7058649063110352,
+            "severity": "major",
+            "start": 101,
+            "end": 106
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "तू",
+            "confidence": 0.5922703146934509,
+            "severity": "major",
+            "start": 27,
+            "end": 30
+        }
+    ],
+    [],
+    [
+        {
+            "text": "के कारण हों",
+            "confidence": 0.8366965651512146,
+            "severity": "major",
+            "start": 122,
+            "end": 134
+        }
+    ],
+    [
+        {
+            "text": "महिमा है",
+            "confidence": 0.6940358877182007,
+            "severity": "major",
+            "start": 29,
+            "end": 38
+        }
+    ],
+    [],
+    [
+        {
+            "text": "आदेश",
+            "confidence": 0.5402416586875916,
+            "severity": "major",
+            "start": 24,
+            "end": 29
+        },
+        {
+            "text": "उसकी ओर ध्यान दिया कि",
+            "confidence": 0.5153462290763855,
+            "severity": "major",
+            "start": 37,
+            "end": 59
+        },
+        {
+            "text": "दयावान, दयावान",
+            "confidence": 0.5888312458992004,
+            "severity": "major",
+            "start": 80,
+            "end": 95
+        }
+    ],
+    [
+        {
+            "text": "आवाज को दिन",
+            "confidence": 0.6282079219818115,
+            "severity": "major",
+            "start": 26,
+            "end": 38
+        },
+        {
+            "text": "ठण्डे",
+            "confidence": 0.6188044548034668,
+            "severity": "major",
+            "start": 41,
+            "end": 47
+        },
+        {
+            "text": "बगीचे में घूमते हुए सुना",
+            "confidence": 0.7615606784820557,
+            "severity": "major",
+            "start": 51,
+            "end": 76
+        },
+        {
+            "text": "से",
+            "confidence": 0.5326964855194092,
+            "severity": "major",
+            "start": 152,
+            "end": 155
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "उनकी जाति के अनुसार",
+            "confidence": 0.6667376160621643,
+            "severity": "major",
+            "start": 30,
+            "end": 50
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "देख",
+            "confidence": 0.8342753648757935,
+            "severity": "major",
+            "start": 1,
+            "end": 4
+        },
+        {
+            "text": "तेरे",
+            "confidence": 0.6986403465270996,
+            "severity": "major",
+            "start": 9,
+            "end": 14
+        }
+    ],
+    [
+        {
+            "text": "होकर न",
+            "confidence": 0.49050670862197876,
+            "severity": "critical",
+            "start": 63,
+            "end": 70
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "कह",
+            "confidence": 0.5139608383178711,
+            "severity": "minor",
+            "start": 0,
+            "end": 2
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "से जाना",
+            "confidence": 0.8310673236846924,
+            "severity": "major",
+            "start": 24,
+            "end": 32
+        },
+        {
+            "text": "बच्चा नियुक्त किया",
+            "confidence": 0.6081685423851013,
+            "severity": "major",
+            "start": 126,
+            "end": 145
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "तुम जानते हो और तुममे",
+            "confidence": 0.5926036834716797,
+            "severity": "major",
+            "start": 0,
+            "end": 21
+        },
+        {
+            "text": "कुछ",
+            "confidence": 0.6960520148277283,
+            "severity": "major",
+            "start": 25,
+            "end": 29
+        },
+        {
+            "text": "को जानते भी हो",
+            "confidence": 0.6324824094772339,
+            "severity": "major",
+            "start": 35,
+            "end": 50
+        }
+    ],
+    [],
+    [
+        {
+            "text": "जल भर दो",
+            "confidence": 0.824547529220581,
+            "severity": "major",
+            "start": 74,
+            "end": 83
+        },
+        {
+            "text": "पक्षी पृथ्वी पर बढ़ो",
+            "confidence": 0.8390876650810242,
+            "severity": "major",
+            "start": 87,
+            "end": 108
+        }
+    ],
+    [
+        {
+            "text": "न कि उनका जिन्ह",
+            "confidence": 0.6153510808944702,
+            "severity": "major",
+            "start": 46,
+            "end": 62
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "झुठलाया",
+            "confidence": 0.7848268747329712,
+            "severity": "major",
+            "start": 19,
+            "end": 27
+        },
+        {
+            "text": "झुठलाया",
+            "confidence": 0.801643967628479,
+            "severity": "major",
+            "start": 45,
+            "end": 53
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "बढ़",
+            "confidence": 0.5105768442153931,
+            "severity": "major",
+            "start": 32,
+            "end": 36
+        },
+        {
+            "text": "उसमें बढ़ो",
+            "confidence": 0.6686266660690308,
+            "severity": "major",
+            "start": 41,
+            "end": 52
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "भारी नींद में डाल",
+            "confidence": 0.5867030024528503,
+            "severity": "major",
+            "start": 27,
+            "end": 45
+        },
+        {
+            "text": "उसकी सन्ती",
+            "confidence": 0.5621392726898193,
+            "severity": "major",
+            "start": 94,
+            "end": 105
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "हृदय रोगी",
+            "confidence": 0.6194688081741333,
+            "severity": "major",
+            "start": 4,
+            "end": 14
+        },
+        {
+            "text": "परमेश्वर",
+            "confidence": 0.5211983323097229,
+            "severity": "major",
+            "start": 22,
+            "end": 31
+        },
+        {
+            "text": "बढ़ा देता है",
+            "confidence": 0.701224684715271,
+            "severity": "major",
+            "start": 49,
+            "end": 62
+        },
+        {
+            "text": "दुख",
+            "confidence": 0.5037421584129333,
+            "severity": "major",
+            "start": 72,
+            "end": 76
+        }
+    ],
+    [
+        {
+            "text": "खी",
+            "confidence": 0.4969539940357208,
+            "severity": "major",
+            "start": 39,
+            "end": 41
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "ठहराया",
+            "confidence": 0.5900920033454895,
+            "severity": "major",
+            "start": 70,
+            "end": 77
+        }
+    ],
+    [],
+    [
+        {
+            "text": "निकाल",
+            "confidence": 0.4642864465713501,
+            "severity": "major",
+            "start": 59,
+            "end": 65
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "पास",
+            "confidence": 0.5237765312194824,
+            "severity": "major",
+            "start": 84,
+            "end": 88
+        }
+    ],
+    [
+        {
+            "text": "लिए",
+            "confidence": 0.5091421008110046,
+            "severity": "major",
+            "start": 118,
+            "end": 122
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "ज़रीय",
+            "confidence": 0.49827954173088074,
+            "severity": "major",
+            "start": 35,
+            "end": 40
+        },
+        {
+            "text": "बिइ",
+            "confidence": 0.6248232126235962,
+            "severity": "major",
+            "start": 48,
+            "end": 51
+        }
+    ],
+    [
+        {
+            "text": "जाना",
+            "confidence": 0.8965258002281189,
+            "severity": "major",
+            "start": 26,
+            "end": 31
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "उलटबाँसी",
+            "confidence": 0.5561532974243164,
+            "severity": "critical",
+            "start": 17,
+            "end": 26
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "ते",
+            "confidence": 0.4609558880329132,
+            "severity": "major",
+            "start": 24,
+            "end": 27
+        },
+        {
+            "text": "शब्द",
+            "confidence": 0.4664885103702545,
+            "severity": "major",
+            "start": 29,
+            "end": 34
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "के",
+            "confidence": 0.34349524974823,
+            "severity": "major",
+            "start": 6,
+            "end": 9
+        }
+    ],
+    [
+        {
+            "text": "मांस समेत प्राण",
+            "confidence": 0.6628977656364441,
+            "severity": "major",
+            "start": 7,
+            "end": 22
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "भर",
+            "confidence": 0.5480808615684509,
+            "severity": "major",
+            "start": 125,
+            "end": 128
+        }
+    ],
+    [],
+    [
+        {
+            "text": "जाना",
+            "confidence": 0.8511171340942383,
+            "severity": "major",
+            "start": 20,
+            "end": 25
+        }
+    ],
+    [
+        {
+            "text": "मु",
+            "confidence": 0.5628834962844849,
+            "severity": "major",
+            "start": 63,
+            "end": 66
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "पहिना दि",
+            "confidence": 0.6708948016166687,
+            "severity": "major",
+            "start": 71,
+            "end": 79
+        }
+    ],
+    [],
+    [],
+    [],
+    []
+]

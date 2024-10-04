@@ -1,0 +1,5538 @@
+[
+    [
+        {
+            "text": "चला गया है कि स्मार्टफोन",
+            "confidence": 0.5674713253974915,
+            "severity": "major",
+            "start": 0,
+            "end": 24
+        },
+        {
+            "text": "जो कहते हैं कि के दिनों कर रहे हैं &",
+            "confidence": 0.47773417830467224,
+            "severity": "major",
+            "start": 33,
+            "end": 70
+        },
+        {
+            "text": "quot; भारत का स्मार्टफोन &",
+            "confidence": 0.4248921573162079,
+            "severity": "critical",
+            "start": 71,
+            "end": 97
+        },
+        {
+            "text": "quot",
+            "confidence": 0.429312527179718,
+            "severity": "critical",
+            "start": 98,
+            "end": 102
+        }
+    ],
+    [
+        {
+            "text": "एज डिटेक्शन",
+            "confidence": 0.6330466270446777,
+            "severity": "major",
+            "start": 47,
+            "end": 59
+        },
+        {
+            "text": "निशान तक हैं",
+            "confidence": 0.7837213277816772,
+            "severity": "major",
+            "start": 92,
+            "end": 105
+        }
+    ],
+    [],
+    [
+        {
+            "text": "15-20 मिनट",
+            "confidence": 0.5159374475479126,
+            "severity": "major",
+            "start": 118,
+            "end": 129
+        },
+        {
+            "text": "5% नाली",
+            "confidence": 0.5525540113449097,
+            "severity": "major",
+            "start": 138,
+            "end": 146
+        }
+    ],
+    [
+        {
+            "text": "बिना किसी अंतराल के",
+            "confidence": 0.8354347348213196,
+            "severity": "major",
+            "start": 0,
+            "end": 19
+        },
+        {
+            "text": "का उपयोग करना। विश्वसनीय ब्रांड एसयूएस",
+            "confidence": 0.7273905277252197,
+            "severity": "major",
+            "start": 29,
+            "end": 68
+        },
+        {
+            "text": "इसके लिए जाएं",
+            "confidence": 0.8803074359893799,
+            "severity": "major",
+            "start": 95,
+            "end": 109
+        },
+        {
+            "text": "than",
+            "confidence": 0.5189523696899414,
+            "severity": "minor",
+            "start": 110,
+            "end": 115
+        },
+        {
+            "text": "flip",
+            "confidence": 0.43203818798065186,
+            "severity": "minor",
+            "start": 116,
+            "end": 121
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "औसत",
+            "confidence": 0.5089203119277954,
+            "severity": "major",
+            "start": 26,
+            "end": 30
+        }
+    ],
+    [
+        {
+            "text": "sd636",
+            "confidence": 0.7688219547271729,
+            "severity": "minor",
+            "start": 8,
+            "end": 14
+        },
+        {
+            "text": "हीटिंग मुद्दे नहीं",
+            "confidence": 0.9109752178192139,
+            "severity": "major",
+            "start": 43,
+            "end": 62
+        },
+        {
+            "text": "जाते हैं",
+            "confidence": 0.9226678013801575,
+            "severity": "major",
+            "start": 66,
+            "end": 75
+        },
+        {
+            "text": "पबग",
+            "confidence": 0.8107059001922607,
+            "severity": "major",
+            "start": 87,
+            "end": 91
+        },
+        {
+            "text": "है",
+            "confidence": 0.6700570583343506,
+            "severity": "major",
+            "start": 108,
+            "end": 111
+        }
+    ],
+    [
+        {
+            "text": "जॉड्रॉपिंग बैटरी लाइफ (भारी उपयोग बैटरी के बाद दिन के अंत में 50% है) बिक्री अंक हैं",
+            "confidence": 0.8813285827636719,
+            "severity": "major",
+            "start": 18,
+            "end": 103
+        }
+    ],
+    [
+        {
+            "text": "कुछ करने के",
+            "confidence": 0.6342549920082092,
+            "severity": "major",
+            "start": 8,
+            "end": 20
+        },
+        {
+            "text": "है",
+            "confidence": 0.574432373046875,
+            "severity": "major",
+            "start": 78,
+            "end": 81
+        },
+        {
+            "text": "मैं हेवन & apos; टी प्रदर्शन के इस प्रकार को देखा",
+            "confidence": 0.7201524972915649,
+            "severity": "major",
+            "start": 86,
+            "end": 136
+        }
+    ],
+    [
+        {
+            "text": "बहुत",
+            "confidence": 0.49812912940979004,
+            "severity": "major",
+            "start": 0,
+            "end": 4
+        },
+        {
+            "text": "अच्छा यह उत्पाद कृपया हर समय खरीदते हैं",
+            "confidence": 0.856141209602356,
+            "severity": "major",
+            "start": 9,
+            "end": 49
+        }
+    ],
+    [
+        {
+            "text": "GPU pubg",
+            "confidence": 0.5645192861557007,
+            "severity": "major",
+            "start": 15,
+            "end": 24
+        },
+        {
+            "text": "HD ",
+            "confidence": 0.6044752597808838,
+            "severity": "major",
+            "start": 31,
+            "end": 35
+        },
+        {
+            "text": "साथ",
+            "confidence": 0.5222533941268921,
+            "severity": "major",
+            "start": 47,
+            "end": 51
+        },
+        {
+            "text": "से कार्य करता है",
+            "confidence": 0.6891365051269531,
+            "severity": "major",
+            "start": 61,
+            "end": 78
+        }
+    ],
+    [
+        {
+            "text": "है & apos; s नेटवर्क कनेक्शन और मेरे शब्दों को चिह्नित करें नेटवर्क कनेक्शन अब तक बहुत",
+            "confidence": 0.6623691916465759,
+            "severity": "major",
+            "start": 23,
+            "end": 110
+        },
+        {
+            "text": "है",
+            "confidence": 0.6624014377593994,
+            "severity": "major",
+            "start": 115,
+            "end": 118
+        }
+    ],
+    [
+        {
+            "text": "गिरता है",
+            "confidence": 0.6327569484710693,
+            "severity": "major",
+            "start": 54,
+            "end": 63
+        },
+        {
+            "text": "दोनों समय टूट जाता है",
+            "confidence": 0.6591343283653259,
+            "severity": "major",
+            "start": 66,
+            "end": 88
+        }
+    ],
+    [
+        {
+            "text": "यह & apos; s कई बार लटका भी",
+            "confidence": 0.5782672762870789,
+            "severity": "critical",
+            "start": 0,
+            "end": 27
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "भारी gamer",
+            "confidence": 0.9207092523574829,
+            "severity": "major",
+            "start": 6,
+            "end": 17
+        },
+        {
+            "text": "हूँ",
+            "confidence": 0.6082689166069031,
+            "severity": "major",
+            "start": 22,
+            "end": 26
+        },
+        {
+            "text": "क्षुधा स्थापित. paytm u",
+            "confidence": 0.6171044707298279,
+            "severity": "major",
+            "start": 65,
+            "end": 88
+        },
+        {
+            "text": "फ़",
+            "confidence": 0.6980897784233093,
+            "severity": "major",
+            "start": 108,
+            "end": 110
+        },
+        {
+            "text": "स्क्रीन",
+            "confidence": 0.5167468786239624,
+            "severity": "major",
+            "start": 115,
+            "end": 123
+        },
+        {
+            "text": "स्पर्श बहुत गरीब है",
+            "confidence": 0.7276065945625305,
+            "severity": "major",
+            "start": 124,
+            "end": 143
+        }
+    ],
+    [
+        {
+            "text": "राम प्रबंधन",
+            "confidence": 0.7115713953971863,
+            "severity": "major",
+            "start": 39,
+            "end": 51
+        },
+        {
+            "text": "कोई हीटिंग मुद्दों",
+            "confidence": 0.8973947763442993,
+            "severity": "major",
+            "start": 68,
+            "end": 87
+        },
+        {
+            "text": "कोई अंतराल",
+            "confidence": 0.7315537929534912,
+            "severity": "major",
+            "start": 88,
+            "end": 99
+        }
+    ],
+    [
+        {
+            "text": "15",
+            "confidence": 0.436124324798584,
+            "severity": "minor",
+            "start": 6,
+            "end": 9
+        }
+    ],
+    [
+        {
+            "text": "अजीब है",
+            "confidence": 0.5051532983779907,
+            "severity": "critical",
+            "start": 46,
+            "end": 54
+        }
+    ],
+    [
+        {
+            "text": "जब मोबाइल के लिए आता है, यह & apos; बैटरी",
+            "confidence": 0.7792611718177795,
+            "severity": "major",
+            "start": 0,
+            "end": 41
+        },
+        {
+            "text": "प्रो",
+            "confidence": 0.6013633608818054,
+            "severity": "major",
+            "start": 44,
+            "end": 49
+        },
+        {
+            "text": "सर",
+            "confidence": 0.5781065225601196,
+            "severity": "major",
+            "start": 51,
+            "end": 53
+        },
+        {
+            "text": "जबरदस्त",
+            "confidence": 0.5621306300163269,
+            "severity": "major",
+            "start": 73,
+            "end": 81
+        },
+        {
+            "text": "भयानक",
+            "confidence": 0.5619432926177979,
+            "severity": "major",
+            "start": 97,
+            "end": 103
+        }
+    ],
+    [
+        {
+            "text": "कर बहुत जोर से और जोर से संगीत खेलने के लिए अच्छा है",
+            "confidence": 0.8233553171157837,
+            "severity": "major",
+            "start": 4,
+            "end": 56
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "फोन प्रदर्शन",
+            "confidence": 0.874132513999939,
+            "severity": "major",
+            "start": 0,
+            "end": 12
+        }
+    ],
+    [
+        {
+            "text": "native vedio calling",
+            "confidence": 0.5973947644233704,
+            "severity": "major",
+            "start": 59,
+            "end": 80
+        }
+    ],
+    [
+        {
+            "text": "अच्छा बैटरी बैकअप अच्छा नहीं है",
+            "confidence": 0.77071613073349,
+            "severity": "major",
+            "start": 0,
+            "end": 31
+        },
+        {
+            "text": "खरीदना न करें",
+            "confidence": 0.7836244106292725,
+            "severity": "major",
+            "start": 82,
+            "end": 96
+        }
+    ],
+    [
+        {
+            "text": "इसे हरा करने के लिए कुछ भी नहीं",
+            "confidence": 0.7135494351387024,
+            "severity": "major",
+            "start": 0,
+            "end": 31
+        },
+        {
+            "text": "इसके लिए जाओ",
+            "confidence": 0.8147207498550415,
+            "severity": "major",
+            "start": 32,
+            "end": 45
+        },
+        {
+            "text": "भारी उपयोगकर्ता",
+            "confidence": 0.7029914855957031,
+            "severity": "major",
+            "start": 52,
+            "end": 68
+        },
+        {
+            "text": "डॉन और एपोस",
+            "confidence": 0.6771785020828247,
+            "severity": "critical",
+            "start": 100,
+            "end": 112
+        },
+        {
+            "text": "ले जाने की",
+            "confidence": 0.5189504623413086,
+            "severity": "major",
+            "start": 134,
+            "end": 145
+        }
+    ],
+    [
+        {
+            "text": "भयानक",
+            "confidence": 0.8528212308883667,
+            "severity": "major",
+            "start": 16,
+            "end": 22
+        }
+    ],
+    [
+        {
+            "text": "पब खेलने के बाद मैं बैटरी के 1day मिलता है",
+            "confidence": 0.8604119420051575,
+            "severity": "major",
+            "start": 38,
+            "end": 81
+        },
+        {
+            "text": "सभ्य",
+            "confidence": 0.7359525561332703,
+            "severity": "major",
+            "start": 82,
+            "end": 87
+        },
+        {
+            "text": "राम प्रबंधन",
+            "confidence": 0.716098427772522,
+            "severity": "major",
+            "start": 108,
+            "end": 120
+        },
+        {
+            "text": "पैसे बजट हत्यारा के लिए सिर्फ मूल्य",
+            "confidence": 0.9175405502319336,
+            "severity": "major",
+            "start": 121,
+            "end": 157
+        }
+    ],
+    [
+        {
+            "text": "कारण फांसी का मुद्दा इतना था",
+            "confidence": 0.5820424556732178,
+            "severity": "major",
+            "start": 28,
+            "end": 57
+        },
+        {
+            "text": "फ़ैक्टरी को फ़ोन रीस",
+            "confidence": 0.6421157717704773,
+            "severity": "major",
+            "start": 65,
+            "end": 86
+        }
+    ],
+    [
+        {
+            "text": "सिर्फ भयानक है. मोबाइल जानवर अपराजेय प्रदर्शन है",
+            "confidence": 0.853875994682312,
+            "severity": "major",
+            "start": 4,
+            "end": 53
+        },
+        {
+            "text": "ए",
+            "confidence": 0.5233906507492065,
+            "severity": "major",
+            "start": 82,
+            "end": 84
+        },
+        {
+            "text": "ेशन",
+            "confidence": 0.5152124166488647,
+            "severity": "major",
+            "start": 89,
+            "end": 92
+        },
+        {
+            "text": "है",
+            "confidence": 0.4979189932346344,
+            "severity": "major",
+            "start": 99,
+            "end": 102
+        },
+        {
+            "text": "दे देंगे यह सही हो जाएगा और प्रमुख के साथ प्रतिस्पर्धा",
+            "confidence": 0.8118931651115417,
+            "severity": "major",
+            "start": 117,
+            "end": 172
+        }
+    ],
+    [
+        {
+            "text": "तुलना मोबाइल",
+            "confidence": 0.9217134714126587,
+            "severity": "major",
+            "start": 45,
+            "end": 58
+        }
+    ],
+    [
+        {
+            "text": "नहीं थी",
+            "confidence": 0.9011706709861755,
+            "severity": "critical",
+            "start": 125,
+            "end": 133
+        }
+    ],
+    [],
+    [
+        {
+            "text": "शानदार बैटरी जीवन पूरे दिन काम करता है और व्हाट्सएप को देखना जारी रखता है, कॉल और वीडियो अभी भी 30% से अधिक रात में रहता है",
+            "confidence": 0.7901310324668884,
+            "severity": "major",
+            "start": 0,
+            "end": 123
+        }
+    ],
+    [
+        {
+            "text": "सभ्य कैमरे",
+            "confidence": 0.7798697352409363,
+            "severity": "major",
+            "start": 2,
+            "end": 13
+        },
+        {
+            "text": "xiami",
+            "confidence": 0.8809537887573242,
+            "severity": "major",
+            "start": 14,
+            "end": 20
+        },
+        {
+            "text": "realme सुनिश्चित करने के लिए बेहतर कैमरे हैं लेकिन इस एक भी",
+            "confidence": 0.7397541403770447,
+            "severity": "major",
+            "start": 23,
+            "end": 83
+        },
+        {
+            "text": "कैमरा",
+            "confidence": 0.49999409914016724,
+            "severity": "major",
+            "start": 89,
+            "end": 95
+        }
+    ],
+    [
+        {
+            "text": "मैं 10-dec-18 पर दिनांकित अपना मोबाइल खो दिया है तो मैं जीव्स को सूचित अब वे कह रहे हैं कि अपने मोबाइल सुरक्षा योजना केवल नुकसान सुरक्षा के लिए चोरी के लिए कवर नहीं है।",
+            "confidence": 0.8478391766548157,
+            "severity": "major",
+            "start": 0,
+            "end": 168
+        }
+    ],
+    [
+        {
+            "text": "लत नहीं पाता",
+            "confidence": 0.5163014531135559,
+            "severity": "major",
+            "start": 22,
+            "end": 35
+        }
+    ],
+    [
+        {
+            "text": "5000mah",
+            "confidence": 0.6384779810905457,
+            "severity": "minor",
+            "start": 3,
+            "end": 11
+        },
+        {
+            "text": "पैक",
+            "confidence": 0.6166616678237915,
+            "severity": "major",
+            "start": 24,
+            "end": 28
+        }
+    ],
+    [
+        {
+            "text": "के लिए",
+            "confidence": 0.7422204613685608,
+            "severity": "major",
+            "start": 19,
+            "end": 26
+        }
+    ],
+    [
+        {
+            "text": "चार्ज",
+            "confidence": 0.7183132171630859,
+            "severity": "major",
+            "start": 27,
+            "end": 33
+        },
+        {
+            "text": "अच्छा",
+            "confidence": 0.8188116550445557,
+            "severity": "major",
+            "start": 36,
+            "end": 42
+        },
+        {
+            "text": "-",
+            "confidence": 0.500969648361206,
+            "severity": "major",
+            "start": 70,
+            "end": 71
+        },
+        {
+            "text": "से",
+            "confidence": 0.6266645789146423,
+            "severity": "major",
+            "start": 74,
+            "end": 77
+        },
+        {
+            "text": "चार्ज कर सकता है",
+            "confidence": 0.5958911180496216,
+            "severity": "major",
+            "start": 78,
+            "end": 94
+        }
+    ],
+    [],
+    [
+        {
+            "text": "rs15000",
+            "confidence": 0.8066174983978271,
+            "severity": "major",
+            "start": 0,
+            "end": 7
+        },
+        {
+            "text": "अच्छा भीड़ के तहत। एनडी सबसे अच्छा बैटरी पावर बैकअप",
+            "confidence": 0.7926006317138672,
+            "severity": "major",
+            "start": 12,
+            "end": 64
+        }
+    ],
+    [
+        {
+            "text": "और जो इस फोन खरीदा मैं",
+            "confidence": 0.791999876499176,
+            "severity": "major",
+            "start": 41,
+            "end": 64
+        },
+        {
+            "text": "हूँ इस कीमत स्मृति प्रो",
+            "confidence": 0.6871915459632874,
+            "severity": "major",
+            "start": 82,
+            "end": 106
+        },
+        {
+            "text": "सर",
+            "confidence": 0.4954485595226288,
+            "severity": "major",
+            "start": 108,
+            "end": 110
+        },
+        {
+            "text": "रैम में एक महान फोन सभी आर महान",
+            "confidence": 0.7643992900848389,
+            "severity": "major",
+            "start": 111,
+            "end": 142
+        }
+    ],
+    [
+        {
+            "text": "एक महीने के लिए इस्तेमाल किया - और amp; जीटी; बहुत तेज़, बैटरी शानदार प्रसंस्करण, पबग, आधुनिक मुकाबला 5 जैसे खेल खेले गए खेल,",
+            "confidence": 0.8615814447402954,
+            "severity": "major",
+            "start": 0,
+            "end": 125
+        },
+        {
+            "text": "मे",
+            "confidence": 0.6311930418014526,
+            "severity": "major",
+            "start": 128,
+            "end": 131
+        },
+        {
+            "text": "री",
+            "confidence": 0.5227546691894531,
+            "severity": "major",
+            "start": 133,
+            "end": 135
+        },
+        {
+            "text": "के",
+            "confidence": 0.5035704374313354,
+            "severity": "major",
+            "start": 141,
+            "end": 144
+        },
+        {
+            "text": "सिम कार्ड का उपयोग करके कोई हीटिंग मुद्दा नहीं",
+            "confidence": 0.7411797642707825,
+            "severity": "major",
+            "start": 151,
+            "end": 198
+        }
+    ],
+    [
+        {
+            "text": "पीएच भयानक कैमरा अच्छा है, लेकिन बैटरी सबसे अच्छा ध्वनि भी सब से अधिक अच्छा है",
+            "confidence": 0.8378247022628784,
+            "severity": "major",
+            "start": 0,
+            "end": 78
+        }
+    ],
+    [
+        {
+            "text": "& apos कर सकते हैं; टी",
+            "confidence": 0.5832831263542175,
+            "severity": "critical",
+            "start": 5,
+            "end": 28
+        },
+        {
+            "text": "pubg खेलते हैं",
+            "confidence": 0.47855862975120544,
+            "severity": "critical",
+            "start": 63,
+            "end": 78
+        }
+    ],
+    [
+        {
+            "text": "चीन फोन",
+            "confidence": 0.9397357702255249,
+            "severity": "major",
+            "start": 65,
+            "end": 73
+        }
+    ],
+    [
+        {
+            "text": "फोन के साथ",
+            "confidence": 0.5987324118614197,
+            "severity": "major",
+            "start": 2,
+            "end": 13
+        },
+        {
+            "text": "दो समस्या कोई इनबिल्ट कॉल और स्क्रीनशॉट के बारे में नहीं है",
+            "confidence": 0.78487229347229,
+            "severity": "major",
+            "start": 18,
+            "end": 78
+        }
+    ],
+    [
+        {
+            "text": "िप",
+            "confidence": 0.503231406211853,
+            "severity": "major",
+            "start": 33,
+            "end": 35
+        },
+        {
+            "text": "र्ट धन्यवाद",
+            "confidence": 0.5808418989181519,
+            "severity": "major",
+            "start": 37,
+            "end": 48
+        },
+        {
+            "text": "बजट में",
+            "confidence": 0.6436212658882141,
+            "severity": "major",
+            "start": 72,
+            "end": 80
+        },
+        {
+            "text": "भयानक डिवाइस",
+            "confidence": 0.8246345520019531,
+            "severity": "major",
+            "start": 83,
+            "end": 96
+        },
+        {
+            "text": "asus",
+            "confidence": 0.5475451350212097,
+            "severity": "major",
+            "start": 118,
+            "end": 123
+        }
+    ],
+    [
+        {
+            "text": "पूर्ण चार्ज करने और अधिकतम सेटिंग्स पर 4 घंटे से अधिक समय तक पबग की तरह एक प्रदर्शन भूखे खेल खेला और कोई हीटिंग मुद्दे नहीं थे",
+            "confidence": 0.7451084852218628,
+            "severity": "major",
+            "start": 0,
+            "end": 126
+        }
+    ],
+    [
+        {
+            "text": "कचरा",
+            "confidence": 0.904021143913269,
+            "severity": "major",
+            "start": 13,
+            "end": 18
+        },
+        {
+            "text": "मेरा टुकड़ा बदल नहीं दिया",
+            "confidence": 0.7394251227378845,
+            "severity": "major",
+            "start": 30,
+            "end": 56
+        },
+        {
+            "text": "के लिए कहें",
+            "confidence": 0.7485917210578918,
+            "severity": "major",
+            "start": 83,
+            "end": 95
+        }
+    ],
+    [
+        {
+            "text": "ASUS",
+            "confidence": 0.7556241750717163,
+            "severity": "minor",
+            "start": 38,
+            "end": 43
+        }
+    ],
+    [
+        {
+            "text": "एसस",
+            "confidence": 0.5866094827651978,
+            "severity": "major",
+            "start": 3,
+            "end": 7
+        },
+        {
+            "text": "एम 1.सस के सभी कार्यों के प्रदर्शन",
+            "confidence": 0.7619849443435669,
+            "severity": "major",
+            "start": 26,
+            "end": 61
+        },
+        {
+            "text": "हूं",
+            "confidence": 0.6280795335769653,
+            "severity": "major",
+            "start": 73,
+            "end": 77
+        },
+        {
+            "text": "केवल लकुना कैमरा के साथ है। 2nd लकुना गोरिला ग्लास",
+            "confidence": 0.7091024518013,
+            "severity": "major",
+            "start": 78,
+            "end": 129
+        },
+        {
+            "text": "कोई प्रावधान",
+            "confidence": 0.6054517030715942,
+            "severity": "major",
+            "start": 132,
+            "end": 145
+        }
+    ],
+    [
+        {
+            "text": "चिकनी",
+            "confidence": 0.8015596866607666,
+            "severity": "major",
+            "start": 7,
+            "end": 13
+        },
+        {
+            "text": "चमक",
+            "confidence": 0.7549194693565369,
+            "severity": "major",
+            "start": 21,
+            "end": 25
+        },
+        {
+            "text": "पास इशारा नियंत्रण",
+            "confidence": 0.6217617392539978,
+            "severity": "major",
+            "start": 50,
+            "end": 69
+        },
+        {
+            "text": "जोड़ा गया",
+            "confidence": 0.5445914268493652,
+            "severity": "major",
+            "start": 86,
+            "end": 96
+        }
+    ],
+    [
+        {
+            "text": "& apos; मेरे",
+            "confidence": 0.7594547271728516,
+            "severity": "major",
+            "start": 2,
+            "end": 15
+        },
+        {
+            "text": "एक",
+            "confidence": 0.506842315196991,
+            "severity": "major",
+            "start": 19,
+            "end": 22
+        },
+        {
+            "text": "फायदेमंद उपकरण है, समग्र संतुष्ट प्रदर्शन",
+            "confidence": 0.7192860245704651,
+            "severity": "major",
+            "start": 30,
+            "end": 72
+        }
+    ],
+    [
+        {
+            "text": "asus",
+            "confidence": 0.6432934999465942,
+            "severity": "minor",
+            "start": 0,
+            "end": 4
+        },
+        {
+            "text": "pro m1 अच्छी बैटरी बैक अप",
+            "confidence": 0.7164206504821777,
+            "severity": "minor",
+            "start": 8,
+            "end": 33
+        },
+        {
+            "text": "स्टॉक एंड",
+            "confidence": 0.6292296648025513,
+            "severity": "major",
+            "start": 34,
+            "end": 44
+        },
+        {
+            "text": "ड एक्सपीरेंस",
+            "confidence": 0.7044228911399841,
+            "severity": "major",
+            "start": 48,
+            "end": 60
+        },
+        {
+            "text": "चिकनी प्रदर्शन",
+            "confidence": 0.735651433467865,
+            "severity": "major",
+            "start": 61,
+            "end": 76
+        }
+    ],
+    [
+        {
+            "text": "आइटम बैटरी निकासी समस्या है और यह भी हम & apos; टी कैमरा हर बार कभी कभी कैमरा मिल जाएगा मिलता है",
+            "confidence": 0.8250270485877991,
+            "severity": "major",
+            "start": 0,
+            "end": 96
+        },
+        {
+            "text": "है",
+            "confidence": 0.5221447348594666,
+            "severity": "major",
+            "start": 118,
+            "end": 121
+        },
+        {
+            "text": "filpcart करता है & apos; टी इस उत्पाद को बदलने",
+            "confidence": 0.7535075545310974,
+            "severity": "major",
+            "start": 124,
+            "end": 171
+        }
+    ],
+    [
+        {
+            "text": "और एपोस; सामान्य उपयोग में प्रभावित नहीं है",
+            "confidence": 0.697654664516449,
+            "severity": "major",
+            "start": 30,
+            "end": 74
+        },
+        {
+            "text": "पबग",
+            "confidence": 0.6593830585479736,
+            "severity": "major",
+            "start": 81,
+            "end": 85
+        },
+        {
+            "text": "भारी गेम",
+            "confidence": 0.5922259092330933,
+            "severity": "major",
+            "start": 90,
+            "end": 99
+        },
+        {
+            "text": "थोड़ा तेज़ी से नालियां",
+            "confidence": 0.6216604113578796,
+            "severity": "major",
+            "start": 109,
+            "end": 132
+        }
+    ],
+    [
+        {
+            "text": "ी भयानक",
+            "confidence": 0.84430992603302,
+            "severity": "major",
+            "start": 44,
+            "end": 51
+        },
+        {
+            "text": "बार उंगली",
+            "confidence": 0.5786106586456299,
+            "severity": "major",
+            "start": 92,
+            "end": 102
+        },
+        {
+            "text": "निशान",
+            "confidence": 0.6432273387908936,
+            "severity": "major",
+            "start": 105,
+            "end": 111
+        },
+        {
+            "text": "कर रहा है {lagaging}",
+            "confidence": 0.6632184982299805,
+            "severity": "major",
+            "start": 120,
+            "end": 141
+        },
+        {
+            "text": "बाद समीक्षा दे रही है",
+            "confidence": 0.8245598673820496,
+            "severity": "major",
+            "start": 153,
+            "end": 175
+        }
+    ],
+    [
+        {
+            "text": "एक आश्चर्यचकित था",
+            "confidence": 0.7456943392753601,
+            "severity": "major",
+            "start": 101,
+            "end": 119
+        }
+    ],
+    [
+        {
+            "text": "बार अन्य कॉलर और एपोस कर सकते हैं; मुझे सुनने में सक्षम नहीं है मेरे डिवाइस",
+            "confidence": 0.7948571443557739,
+            "severity": "major",
+            "start": 3,
+            "end": 79
+        },
+        {
+            "text": "कुछ",
+            "confidence": 0.49615129828453064,
+            "severity": "major",
+            "start": 86,
+            "end": 90
+        }
+    ],
+    [
+        {
+            "text": "24 hr में डिलीवरी",
+            "confidence": 0.8380107879638672,
+            "severity": "major",
+            "start": 36,
+            "end": 54
+        },
+        {
+            "text": "और इसलिए अद्भुत",
+            "confidence": 0.8103302717208862,
+            "severity": "major",
+            "start": 57,
+            "end": 73
+        },
+        {
+            "text": "मैं don.tike",
+            "confidence": 0.8925621509552002,
+            "severity": "major",
+            "start": 121,
+            "end": 134
+        }
+    ],
+    [
+        {
+            "text": "कोई गैली",
+            "confidence": 0.8792126774787903,
+            "severity": "major",
+            "start": 20,
+            "end": 29
+        },
+        {
+            "text": "ी",
+            "confidence": 0.5086502432823181,
+            "severity": "major",
+            "start": 71,
+            "end": 72
+        },
+        {
+            "text": "हम & एपोस; टी इस एक को स्वीकार करते हैं",
+            "confidence": 0.8460966944694519,
+            "severity": "major",
+            "start": 150,
+            "end": 190
+        },
+        {
+            "text": "समस्याओं को भी",
+            "confidence": 0.8978140354156494,
+            "severity": "major",
+            "start": 197,
+            "end": 212
+        },
+        {
+            "text": "कुछ समय कोई अंगूठी नहीं",
+            "confidence": 0.7419134378433228,
+            "severity": "major",
+            "start": 213,
+            "end": 237
+        }
+    ],
+    [
+        {
+            "text": "इस फोन को 25k",
+            "confidence": 0.6346437931060791,
+            "severity": "major",
+            "start": 0,
+            "end": 13
+        },
+        {
+            "text": "की रेंज के प्रमुख उत्पाद के साथ प्रतिस्पर्धा।",
+            "confidence": 0.6187017560005188,
+            "severity": "major",
+            "start": 16,
+            "end": 62
+        }
+    ],
+    [
+        {
+            "text": "सिस्टम ui बहुत गरीब वे उस पर भी थोड़ा काम नहीं किया है",
+            "confidence": 0.6969794034957886,
+            "severity": "major",
+            "start": 0,
+            "end": 54
+        }
+    ],
+    [
+        {
+            "text": "फ्लिपकार्ट धन्यवाद द्वारा किसी भी हालत में बहुत",
+            "confidence": 0.6490106582641602,
+            "severity": "major",
+            "start": 22,
+            "end": 70
+        },
+        {
+            "text": "समय पर वितरण द्वारा बहुत अच्छी तरह से काम करते हैं",
+            "confidence": 0.6949849724769592,
+            "severity": "major",
+            "start": 86,
+            "end": 137
+        }
+    ],
+    [
+        {
+            "text": "साथ",
+            "confidence": 0.7445870637893677,
+            "severity": "major",
+            "start": 8,
+            "end": 12
+        },
+        {
+            "text": "हूं & एपोस;",
+            "confidence": 0.8362764716148376,
+            "severity": "major",
+            "start": 21,
+            "end": 33
+        },
+        {
+            "text": "ऑल",
+            "confidence": 0.4951191544532776,
+            "severity": "major",
+            "start": 44,
+            "end": 47
+        }
+    ],
+    [
+        {
+            "text": "स्टॉक ऐप्स",
+            "confidence": 0.9051129221916199,
+            "severity": "major",
+            "start": 17,
+            "end": 28
+        },
+        {
+            "text": "चीज",
+            "confidence": 0.5928789973258972,
+            "severity": "major",
+            "start": 93,
+            "end": 97
+        }
+    ],
+    [
+        {
+            "text": "आप",
+            "confidence": 0.5738264322280884,
+            "severity": "major",
+            "start": 2,
+            "end": 5
+        },
+        {
+            "text": "सुझा",
+            "confidence": 0.7216256856918335,
+            "severity": "major",
+            "start": 9,
+            "end": 14
+        }
+    ],
+    [
+        {
+            "text": "बाजार",
+            "confidence": 0.5821753740310669,
+            "severity": "major",
+            "start": 0,
+            "end": 5
+        },
+        {
+            "text": "सभी सुविधाओं के साथ 15k के तहत",
+            "confidence": 0.6131240725517273,
+            "severity": "major",
+            "start": 9,
+            "end": 40
+        },
+        {
+            "text": "मेरी",
+            "confidence": 0.5561684370040894,
+            "severity": "major",
+            "start": 46,
+            "end": 51
+        },
+        {
+            "text": "यह & एपोस; एस की कीमत 500 कम हो गई इतनी थोड़ी निराश",
+            "confidence": 0.8674468398094177,
+            "severity": "major",
+            "start": 63,
+            "end": 115
+        }
+    ],
+    [
+        {
+            "text": "rs",
+            "confidence": 0.5605181455612183,
+            "severity": "minor",
+            "start": 9,
+            "end": 12
+        },
+        {
+            "text": "700",
+            "confidence": 0.49777549505233765,
+            "severity": "minor",
+            "start": 14,
+            "end": 17
+        }
+    ],
+    [
+        {
+            "text": ", डॉन और एपोस; अपने मोबाइल ग्लास खरोंच या फ्रैक्चरिंग के बारे में चिंता नहीं है,",
+            "confidence": 0.8359802961349487,
+            "severity": "major",
+            "start": 2,
+            "end": 82
+        },
+        {
+            "text": "टेम्पर्ड ग्लास के साथ आगे जाना चाहते हैं तो इसके लिए जाएं",
+            "confidence": 0.7112306356430054,
+            "severity": "major",
+            "start": 98,
+            "end": 156
+        }
+    ],
+    [
+        {
+            "text": "डॉन और एपोस; टी दो",
+            "confidence": 0.8101800084114075,
+            "severity": "major",
+            "start": 0,
+            "end": 18
+        },
+        {
+            "text": "सोचो",
+            "confidence": 0.680850088596344,
+            "severity": "major",
+            "start": 22,
+            "end": 27
+        },
+        {
+            "text": "लो",
+            "confidence": 0.6535278558731079,
+            "severity": "major",
+            "start": 38,
+            "end": 41
+        },
+        {
+            "text": "पायदान गायब",
+            "confidence": 0.687857985496521,
+            "severity": "major",
+            "start": 47,
+            "end": 59
+        },
+        {
+            "text": "मन बगलिंग बैटरी जीवन",
+            "confidence": 0.8004018664360046,
+            "severity": "major",
+            "start": 101,
+            "end": 122
+        },
+        {
+            "text": "एनडी",
+            "confidence": 0.6024754047393799,
+            "severity": "major",
+            "start": 140,
+            "end": 145
+        }
+    ],
+    [
+        {
+            "text": "उत्पाद की तरह",
+            "confidence": 0.7971792221069336,
+            "severity": "major",
+            "start": 0,
+            "end": 13
+        },
+        {
+            "text": "स्पर्श भावना में सुधार",
+            "confidence": 0.7280621528625488,
+            "severity": "major",
+            "start": 20,
+            "end": 42
+        },
+        {
+            "text": "है कि इसका केवल एचडी एफएचडी नहीं",
+            "confidence": 0.7264362573623657,
+            "severity": "major",
+            "start": 122,
+            "end": 155
+        }
+    ],
+    [],
+    [
+        {
+            "text": "मैं आज अपने फोन मिल गया. अभी भी अब अपने प्रदर्शन और इसकी बैटरी बैकअप भयानक है",
+            "confidence": 0.8318171501159668,
+            "severity": "major",
+            "start": 0,
+            "end": 77
+        },
+        {
+            "text": "कैमरा im संतुष्ट नहीं के साथ (",
+            "confidence": 0.8191730976104736,
+            "severity": "major",
+            "start": 84,
+            "end": 115
+        },
+        {
+            "text": "सुधार किया जा सकता है",
+            "confidence": 0.6516480445861816,
+            "severity": "major",
+            "start": 144,
+            "end": 166
+        }
+    ],
+    [
+        {
+            "text": "दूसरे के लिए जाएं",
+            "confidence": 0.7818200588226318,
+            "severity": "major",
+            "start": 62,
+            "end": 80
+        }
+    ],
+    [
+        {
+            "text": "पहुंच, पहुंच में आसान",
+            "confidence": 0.8529449701309204,
+            "severity": "major",
+            "start": 28,
+            "end": 50
+        },
+        {
+            "text": ", पर अच्छा है",
+            "confidence": 0.7664721012115479,
+            "severity": "major",
+            "start": 79,
+            "end": 92
+        },
+        {
+            "text": "इस मोबाइल में सबसे अच्छे हैं इसलिए इसे खरीदने का मौका दें",
+            "confidence": 0.7112367153167725,
+            "severity": "major",
+            "start": 93,
+            "end": 151
+        }
+    ],
+    [
+        {
+            "text": "द्वारा और गुणवत्ता की मांग पूर्णतावादियों के लिए बनाया गया है",
+            "confidence": 0.8487284779548645,
+            "severity": "major",
+            "start": 0,
+            "end": 61
+        }
+    ],
+    [],
+    [
+        {
+            "text": "दो मौत ड्रॉप टेस्ट से बच गया है",
+            "confidence": 0.7829152941703796,
+            "severity": "major",
+            "start": 102,
+            "end": 134
+        }
+    ],
+    [
+        {
+            "text": "आगे बढ़ने",
+            "confidence": 0.5160491466522217,
+            "severity": "major",
+            "start": 24,
+            "end": 34
+        }
+    ],
+    [
+        {
+            "text": "गुप्त विधि अग्रिम",
+            "confidence": 0.6940664649009705,
+            "severity": "major",
+            "start": 2,
+            "end": 20
+        },
+        {
+            "text": "सुविधा अनलॉक करने के लिए",
+            "confidence": 0.7422134876251221,
+            "severity": "major",
+            "start": 26,
+            "end": 51
+        },
+        {
+            "text": "सेटिंग एस",
+            "confidence": 0.7327136993408203,
+            "severity": "major",
+            "start": 55,
+            "end": 65
+        },
+        {
+            "text": "लाल आंखों में कमी विकल्प",
+            "confidence": 0.8414742946624756,
+            "severity": "major",
+            "start": 74,
+            "end": 99
+        }
+    ],
+    [
+        {
+            "text": "राम",
+            "confidence": 0.5462472438812256,
+            "severity": "major",
+            "start": 40,
+            "end": 44
+        },
+        {
+            "text": "आसानी",
+            "confidence": 0.5589195489883423,
+            "severity": "major",
+            "start": 49,
+            "end": 55
+        }
+    ],
+    [
+        {
+            "text": "एसस का मरने वाला",
+            "confidence": 0.6381242275238037,
+            "severity": "major",
+            "start": 35,
+            "end": 52
+        }
+    ],
+    [],
+    [
+        {
+            "text": "uttam singh और मैं & apos; m इस फोन का उपयोग करने के बाद एक सप्ताह की समीक्षा लिख रहा है",
+            "confidence": 0.6166001558303833,
+            "severity": "major",
+            "start": 8,
+            "end": 97
+        }
+    ],
+    [
+        {
+            "text": "महिंद्रा बैटरी प्रतियोगिता",
+            "confidence": 0.6020603179931641,
+            "severity": "critical",
+            "start": 16,
+            "end": 43
+        },
+        {
+            "text": "चिकना",
+            "confidence": 0.47778600454330444,
+            "severity": "critical",
+            "start": 61,
+            "end": 67
+        }
+    ],
+    [
+        {
+            "text": "प्रचार पर निर्भर करेगा",
+            "confidence": 0.6591091156005859,
+            "severity": "major",
+            "start": 63,
+            "end": 86
+        },
+        {
+            "text": "यह करता है & एपोस; टी",
+            "confidence": 0.8146045207977295,
+            "severity": "major",
+            "start": 104,
+            "end": 126
+        }
+    ],
+    [
+        {
+            "text": "जबकि क्षुधा बंद",
+            "confidence": 0.8372818827629089,
+            "severity": "major",
+            "start": 0,
+            "end": 15
+        },
+        {
+            "text": "यह करता है & एपोस; टी रैम उपयोग दिखा",
+            "confidence": 0.6833138465881348,
+            "severity": "major",
+            "start": 16,
+            "end": 53
+        },
+        {
+            "text": "जांच",
+            "confidence": 0.5554079413414001,
+            "severity": "major",
+            "start": 88,
+            "end": 93
+        }
+    ],
+    [
+        {
+            "text": "मोबाइल का लाभ है",
+            "confidence": 0.5793206691741943,
+            "severity": "major",
+            "start": 2,
+            "end": 19
+        },
+        {
+            "text": "मोबाइल",
+            "confidence": 0.49396076798439026,
+            "severity": "major",
+            "start": 23,
+            "end": 30
+        },
+        {
+            "text": "कोई नाच डिस्प्ले नहीं है, इस मोबाइल में कोई नाच",
+            "confidence": 0.497077077627182,
+            "severity": "major",
+            "start": 34,
+            "end": 82
+        },
+        {
+            "text": "नहीं है",
+            "confidence": 0.4593293368816376,
+            "severity": "major",
+            "start": 91,
+            "end": 99
+        },
+        {
+            "text": "गोर्रे",
+            "confidence": 0.5276488065719604,
+            "severity": "major",
+            "start": 120,
+            "end": 127
+        }
+    ],
+    [
+        {
+            "text": "यह और एपोस; यह देखना अच्छा है कि 15000 पर अच्छी विशिष्टताओं को प्रदान करने वाले एसयूएस, समग्र मोबाइल प्रदर्शन अभूतपूर्व है",
+            "confidence": 0.8155887722969055,
+            "severity": "major",
+            "start": 0,
+            "end": 122
+        },
+        {
+            "text": "केवल",
+            "confidence": 0.6163045167922974,
+            "severity": "major",
+            "start": 129,
+            "end": 134
+        },
+        {
+            "text": "चीज जो मुझे उल्लेख करने की आवश्यकता है",
+            "confidence": 0.7054468393325806,
+            "severity": "major",
+            "start": 137,
+            "end": 176
+        },
+        {
+            "text": "वह है कि मुझे काले रंग के लिए आदेश दिया गया था, लेकिन नीले रंग को वास्तव में असफल बना दिया गया था",
+            "confidence": 0.7352621555328369,
+            "severity": "major",
+            "start": 177,
+            "end": 275
+        }
+    ],
+    [
+        {
+            "text": "एसस द्वारा प्रदान की गई एंड्रॉइड पाई कीड़े से भरा है",
+            "confidence": 0.654339075088501,
+            "severity": "major",
+            "start": 0,
+            "end": 52
+        },
+        {
+            "text": "कि डिजिटल कल्याण जैसी विशेषताएं हैं और रात की रोशनी गायब है",
+            "confidence": 0.7040470242500305,
+            "severity": "major",
+            "start": 63,
+            "end": 123
+        }
+    ],
+    [
+        {
+            "text": "शक्ति प्रदर्शन जब",
+            "confidence": 0.5603174567222595,
+            "severity": "major",
+            "start": 0,
+            "end": 17
+        },
+        {
+            "text": "उच्च स्तर",
+            "confidence": 0.5553044080734253,
+            "severity": "major",
+            "start": 20,
+            "end": 30
+        },
+        {
+            "text": "हैं जैसे कि पबग भयानक",
+            "confidence": 0.7904387712478638,
+            "severity": "major",
+            "start": 43,
+            "end": 65
+        }
+    ],
+    [
+        {
+            "text": "हीटिंग मुद्दा नहीं है.i अब एक महीने के लिए उपयोग किया गया है",
+            "confidence": 0.9256828427314758,
+            "severity": "major",
+            "start": 15,
+            "end": 77
+        },
+        {
+            "text": "रे",
+            "confidence": 0.5331428050994873,
+            "severity": "major",
+            "start": 84,
+            "end": 86
+        },
+        {
+            "text": "कर यह & एपोस; बहुत अच्छा है",
+            "confidence": 0.779053270816803,
+            "severity": "major",
+            "start": 94,
+            "end": 121
+        }
+    ],
+    [
+        {
+            "text": "इसमें है",
+            "confidence": 0.5120183229446411,
+            "severity": "major",
+            "start": 88,
+            "end": 97
+        }
+    ],
+    [
+        {
+            "text": "यह & apos; एस एक सप्ताह अब asus zenfone अधिकतम प्रो m1 के साथ किया गया है ।",
+            "confidence": 0.849138617515564,
+            "severity": "major",
+            "start": 0,
+            "end": 75
+        }
+    ],
+    [
+        {
+            "text": "पसंद",
+            "confidence": 0.534814715385437,
+            "severity": "major",
+            "start": 46,
+            "end": 51
+        }
+    ],
+    [
+        {
+            "text": "स्लॉट आप एक 15k मोबाइल के लिए की जरूरत है",
+            "confidence": 0.7803041934967041,
+            "severity": "major",
+            "start": 49,
+            "end": 91
+        },
+        {
+            "text": "बदल सकता",
+            "confidence": 0.5434107184410095,
+            "severity": "major",
+            "start": 98,
+            "end": 107
+        }
+    ],
+    [
+        {
+            "text": "देखने",
+            "confidence": 0.6575479507446289,
+            "severity": "major",
+            "start": 45,
+            "end": 51
+        },
+        {
+            "text": "लिए आश्चर्यचकित था और दोनों चेहरे फिंगर",
+            "confidence": 0.7228235006332397,
+            "severity": "major",
+            "start": 54,
+            "end": 94
+        },
+        {
+            "text": "ंट से",
+            "confidence": 0.5833772420883179,
+            "severity": "major",
+            "start": 98,
+            "end": 103
+        },
+        {
+            "text": "सर",
+            "confidence": 0.6044809818267822,
+            "severity": "major",
+            "start": 104,
+            "end": 106
+        },
+        {
+            "text": "हैं",
+            "confidence": 0.6414491534233093,
+            "severity": "major",
+            "start": 123,
+            "end": 127
+        },
+        {
+            "text": "इससे संतु",
+            "confidence": 0.5502437353134155,
+            "severity": "major",
+            "start": 128,
+            "end": 138
+        }
+    ],
+    [],
+    [
+        {
+            "text": "देख सकता है",
+            "confidence": 0.9074591398239136,
+            "severity": "major",
+            "start": 111,
+            "end": 123
+        }
+    ],
+    [
+        {
+            "text": "सिर्फ ओसम",
+            "confidence": 0.6489460468292236,
+            "severity": "major",
+            "start": 3,
+            "end": 13
+        },
+        {
+            "text": "फीचर और एपोस; एस",
+            "confidence": 0.7581033706665039,
+            "severity": "major",
+            "start": 23,
+            "end": 40
+        },
+        {
+            "text": "आकर्षण की",
+            "confidence": 0.5276038646697998,
+            "severity": "major",
+            "start": 94,
+            "end": 104
+        }
+    ],
+    [
+        {
+            "text": "सेल",
+            "confidence": 0.8418327569961548,
+            "severity": "major",
+            "start": 0,
+            "end": 3
+        },
+        {
+            "text": "अच्छा",
+            "confidence": 0.5772659182548523,
+            "severity": "major",
+            "start": 8,
+            "end": 14
+        },
+        {
+            "text": "कैमरा",
+            "confidence": 0.5189778804779053,
+            "severity": "major",
+            "start": 20,
+            "end": 26
+        },
+        {
+            "text": "सभी उपद्रव गलत है",
+            "confidence": 0.8747269511222839,
+            "severity": "major",
+            "start": 38,
+            "end": 56
+        },
+        {
+            "text": "कैमरा लगभग समान है जैसे कि rn5pro केवल अंतर फ्र",
+            "confidence": 0.724532961845398,
+            "severity": "major",
+            "start": 62,
+            "end": 110
+        },
+        {
+            "text": "कैमरा है",
+            "confidence": 0.5847353935241699,
+            "severity": "major",
+            "start": 112,
+            "end": 121
+        },
+        {
+            "text": "केवल 16",
+            "confidence": 0.6057438254356384,
+            "severity": "major",
+            "start": 124,
+            "end": 132
+        },
+        {
+            "text": "20 से भिन्न होता है",
+            "confidence": 0.8305727243423462,
+            "severity": "major",
+            "start": 135,
+            "end": 155
+        }
+    ],
+    [
+        {
+            "text": "स्मार्टफोन",
+            "confidence": 0.5635079145431519,
+            "severity": "major",
+            "start": 6,
+            "end": 17
+        },
+        {
+            "text": "यह मेरे जीवन और ध्वनि की गुणवत्ता वास्तव में भयानक की अच्छी पसंद में से एक है",
+            "confidence": 0.7438792586326599,
+            "severity": "major",
+            "start": 28,
+            "end": 106
+        }
+    ],
+    [
+        {
+            "text": "कोई भी अच्छी कंपनी को छोड़कर Asus. तो मैं इस फोन से प्यार कर रहा हूँ. प्रदर्शन महान",
+            "confidence": 0.8003453016281128,
+            "severity": "major",
+            "start": 0,
+            "end": 83
+        },
+        {
+            "text": "लाउडस्पीकर बहुत उच्च मात्रा में अस्पष्ट ध्वनि है करने के लिए जाता है. पैसे के लिए सभी महान मूल्य से अधिक",
+            "confidence": 0.8069440722465515,
+            "severity": "major",
+            "start": 87,
+            "end": 192
+        }
+    ],
+    [
+        {
+            "text": "बै",
+            "confidence": 0.49572718143463135,
+            "severity": "major",
+            "start": 0,
+            "end": 2
+        },
+        {
+            "text": "ी बैकअप 2 / 5 मील फोन 4000 मह बैटरी की तुलना में",
+            "confidence": 0.7879618406295776,
+            "severity": "major",
+            "start": 4,
+            "end": 52
+        },
+        {
+            "text": "मह",
+            "confidence": 0.4991249442100525,
+            "severity": "major",
+            "start": 79,
+            "end": 82
+        },
+        {
+            "text": "जाने",
+            "confidence": 0.654053807258606,
+            "severity": "major",
+            "start": 143,
+            "end": 148
+        }
+    ],
+    [
+        {
+            "text": "स्क्रीन के साथ समस्या यह जमा हो जाती है और खोल",
+            "confidence": 0.7512693405151367,
+            "severity": "major",
+            "start": 10,
+            "end": 57
+        },
+        {
+            "text": "के",
+            "confidence": 0.6327019929885864,
+            "severity": "major",
+            "start": 59,
+            "end": 62
+        },
+        {
+            "text": "रा",
+            "confidence": 0.5201911330223083,
+            "severity": "major",
+            "start": 82,
+            "end": 84
+        },
+        {
+            "text": "भ करना होगा",
+            "confidence": 0.6715165376663208,
+            "severity": "major",
+            "start": 86,
+            "end": 97
+        }
+    ],
+    [
+        {
+            "text": "कैमरा है कि मैं डॉन और एपोस साफ नहीं है; टी पता है",
+            "confidence": 0.6943145990371704,
+            "severity": "major",
+            "start": 0,
+            "end": 50
+        },
+        {
+            "text": "ों के असली मेगापि",
+            "confidence": 0.5955874919891357,
+            "severity": "major",
+            "start": 61,
+            "end": 78
+        },
+        {
+            "text": "ल क्या है",
+            "confidence": 0.6739740371704102,
+            "severity": "major",
+            "start": 81,
+            "end": 90
+        },
+        {
+            "text": "लेकिन मैं बड़ा gamer हूँ और मैं अच्छा बैटरी",
+            "confidence": 0.7502020597457886,
+            "severity": "major",
+            "start": 91,
+            "end": 135
+        },
+        {
+            "text": "6gb के साथ बड़े राम के",
+            "confidence": 0.7057138681411743,
+            "severity": "major",
+            "start": 138,
+            "end": 161
+        },
+        {
+            "text": "अच्छा प्रोसेसर की जरूरत है",
+            "confidence": 0.6672287583351135,
+            "severity": "major",
+            "start": 165,
+            "end": 192
+        }
+    ],
+    [
+        {
+            "text": "गैजेट",
+            "confidence": 0.6758657693862915,
+            "severity": "major",
+            "start": 18,
+            "end": 24
+        },
+        {
+            "text": "सस्ती",
+            "confidence": 0.6365637183189392,
+            "severity": "major",
+            "start": 27,
+            "end": 33
+        },
+        {
+            "text": "के लिए",
+            "confidence": 0.7023983001708984,
+            "severity": "major",
+            "start": 67,
+            "end": 74
+        }
+    ],
+    [
+        {
+            "text": "& apos; टी तेजी से प्रकाश छूने का पता लगाने, मेरे zenfone 3 अधिक उत्तरदायी है",
+            "confidence": 0.7841606140136719,
+            "severity": "major",
+            "start": 19,
+            "end": 97
+        }
+    ],
+    [
+        {
+            "text": "मुझे पैसे के सौदे के लिए सबसे अच्छा मूल्य प्रदान करने में लगभग 11k पर",
+            "confidence": 0.7349066138267517,
+            "severity": "major",
+            "start": 0,
+            "end": 69
+        }
+    ],
+    [
+        {
+            "text": "के लिए",
+            "confidence": 0.9145686626434326,
+            "severity": "major",
+            "start": 18,
+            "end": 25
+        }
+    ],
+    [
+        {
+            "text": "पूरी तरह से",
+            "confidence": 0.8186385035514832,
+            "severity": "major",
+            "start": 0,
+            "end": 11
+        },
+        {
+            "text": "महान फोन",
+            "confidence": 0.5128349661827087,
+            "severity": "major",
+            "start": 14,
+            "end": 23
+        },
+        {
+            "text": "कभी ध्यान केंद्रित करने के साथ संघर्ष करता है",
+            "confidence": 0.7652430534362793,
+            "severity": "major",
+            "start": 40,
+            "end": 86
+        }
+    ],
+    [
+        {
+            "text": "दोष कैमरा था",
+            "confidence": 0.6140058040618896,
+            "severity": "major",
+            "start": 4,
+            "end": 17
+        },
+        {
+            "text": "आप",
+            "confidence": 0.8146196603775024,
+            "severity": "major",
+            "start": 44,
+            "end": 47
+        },
+        {
+            "text": "ऐप के लिए इस्तेमाल करने की जरूरत है",
+            "confidence": 0.9138147234916687,
+            "severity": "major",
+            "start": 53,
+            "end": 89
+        }
+    ],
+    [
+        {
+            "text": "हैं",
+            "confidence": 0.5938782691955566,
+            "severity": "major",
+            "start": 52,
+            "end": 56
+        },
+        {
+            "text": "सेक्शन",
+            "confidence": 0.6603198647499084,
+            "severity": "major",
+            "start": 92,
+            "end": 99
+        },
+        {
+            "text": "ाया जाता है",
+            "confidence": 0.8179232478141785,
+            "severity": "major",
+            "start": 138,
+            "end": 149
+        }
+    ],
+    [
+        {
+            "text": "bhailog",
+            "confidence": 0.5857055187225342,
+            "severity": "minor",
+            "start": 0,
+            "end": 7
+        },
+        {
+            "text": "k",
+            "confidence": 0.3368126451969147,
+            "severity": "major",
+            "start": 16,
+            "end": 18
+        },
+        {
+            "text": "gb",
+            "confidence": 0.6008298397064209,
+            "severity": "major",
+            "start": 27,
+            "end": 29
+        },
+        {
+            "text": "मिला है तीन महीने पहले",
+            "confidence": 0.6285570859909058,
+            "severity": "major",
+            "start": 37,
+            "end": 60
+        }
+    ],
+    [
+        {
+            "text": "अच्छा कस्टम लाइफ लेने के लिए b12 जैसे कैमरा ऐप डाउनलोड",
+            "confidence": 0.6050432920455933,
+            "severity": "major",
+            "start": 0,
+            "end": 54
+        },
+        {
+            "text": "जा",
+            "confidence": 0.5450360178947449,
+            "severity": "major",
+            "start": 59,
+            "end": 62
+        },
+        {
+            "text": "है",
+            "confidence": 0.595072865486145,
+            "severity": "major",
+            "start": 67,
+            "end": 70
+        }
+    ],
+    [
+        {
+            "text": "साफ और साफ",
+            "confidence": 0.6257842779159546,
+            "severity": "critical",
+            "start": 33,
+            "end": 44
+        }
+    ],
+    [],
+    [
+        {
+            "text": "ऑर्डर से",
+            "confidence": 0.6717416644096375,
+            "severity": "major",
+            "start": 2,
+            "end": 11
+        },
+        {
+            "text": "भीतर वि",
+            "confidence": 0.5374802350997925,
+            "severity": "major",
+            "start": 22,
+            "end": 30
+        },
+        {
+            "text": "गया था",
+            "confidence": 0.6446428298950195,
+            "severity": "major",
+            "start": 39,
+            "end": 46
+        },
+        {
+            "text": "हर बार यह कहता है कि \"कैमरा सर्वर बंद कैमरा मर गया\" नहीं है; Redmi",
+            "confidence": 0.7691701054573059,
+            "severity": "major",
+            "start": 53,
+            "end": 120
+        },
+        {
+            "text": "Asus",
+            "confidence": 0.4097669720649719,
+            "severity": "major",
+            "start": 131,
+            "end": 136
+        }
+    ],
+    [],
+    [
+        {
+            "text": "शरीर बहुत अच्छा है। पबग, डामर 8 जैसे उच्च अंत गेम खेलने में भी गर्म नहीं होता है।",
+            "confidence": 0.7357522249221802,
+            "severity": "major",
+            "start": 0,
+            "end": 81
+        },
+        {
+            "text": "आसानी से एक दिन और एपोस; 2 घंटे चार्ज में बैटरी और समय पर अद्भुत 9 घंटे स्क्रीन के बारे में। खरीदने के लायक ",
+            "confidence": 0.7767460942268372,
+            "severity": "major",
+            "start": 84,
+            "end": 193
+        }
+    ],
+    [
+        {
+            "text": "लोग",
+            "confidence": 0.9411972761154175,
+            "severity": "major",
+            "start": 0,
+            "end": 3
+        },
+        {
+            "text": "15gb",
+            "confidence": 0.8416305184364319,
+            "severity": "major",
+            "start": 11,
+            "end": 16
+        },
+        {
+            "text": "6gb के लिए 64k",
+            "confidence": 0.7244083285331726,
+            "severity": "major",
+            "start": 18,
+            "end": 33
+        },
+        {
+            "text": "फोन",
+            "confidence": 0.5913625955581665,
+            "severity": "major",
+            "start": 40,
+            "end": 44
+        },
+        {
+            "text": "कर",
+            "confidence": 0.49740615487098694,
+            "severity": "major",
+            "start": 52,
+            "end": 55
+        },
+        {
+            "text": "तो मी",
+            "confidence": 0.6000453233718872,
+            "severity": "major",
+            "start": 64,
+            "end": 70
+        },
+        {
+            "text": "प्रो 64gb के साथ तुलना में।",
+            "confidence": 0.7280768752098083,
+            "severity": "major",
+            "start": 76,
+            "end": 104
+        }
+    ],
+    [
+        {
+            "text": "सभ्य",
+            "confidence": 0.6723534464836121,
+            "severity": "major",
+            "start": 7,
+            "end": 12
+        }
+    ],
+    [
+        {
+            "text": "रिज़",
+            "confidence": 0.665355920791626,
+            "severity": "major",
+            "start": 11,
+            "end": 16
+        },
+        {
+            "text": "्यूशन के साथ पिक्स पर क्लिक करने के समय gr8 होगा लेकिन एक",
+            "confidence": 0.6670210361480713,
+            "severity": "major",
+            "start": 18,
+            "end": 75
+        },
+        {
+            "text": "जब आप खोले गए पिक्स गुणवत्ता को चिह्न तक नहीं ले जायेंगे",
+            "confidence": 0.6752868294715881,
+            "severity": "major",
+            "start": 79,
+            "end": 136
+        }
+    ],
+    [],
+    [
+        {
+            "text": "& एपोस; टी मोबाइल में",
+            "confidence": 0.8148000240325928,
+            "severity": "major",
+            "start": 2,
+            "end": 24
+        },
+        {
+            "text": "श",
+            "confidence": 0.5597721934318542,
+            "severity": "major",
+            "start": 29,
+            "end": 30
+        },
+        {
+            "text": "सकते हैं जबकि वस्तु पास है",
+            "confidence": 0.804977536201477,
+            "severity": "major",
+            "start": 42,
+            "end": 69
+        }
+    ],
+    [
+        {
+            "text": "नाली समस्या",
+            "confidence": 0.6015917658805847,
+            "severity": "critical",
+            "start": 57,
+            "end": 69
+        }
+    ],
+    [
+        {
+            "text": "कोई फांसी",
+            "confidence": 0.5707950592041016,
+            "severity": "major",
+            "start": 24,
+            "end": 34
+        },
+        {
+            "text": "बिल्कुल नहीं धीमी गति से",
+            "confidence": 0.7905210852622986,
+            "severity": "major",
+            "start": 35,
+            "end": 60
+        },
+        {
+            "text": "सबसे अच्छा कमाल कैमरा में से एक",
+            "confidence": 0.6781207919120789,
+            "severity": "major",
+            "start": 67,
+            "end": 99
+        },
+        {
+            "text": "फोन",
+            "confidence": 0.5947721004486084,
+            "severity": "major",
+            "start": 110,
+            "end": 114
+        },
+        {
+            "text": "कभी इस कीमत सीमा में शर्त लगा सकते हैं",
+            "confidence": 0.6536305546760559,
+            "severity": "major",
+            "start": 117,
+            "end": 156
+        }
+    ],
+    [
+        {
+            "text": "टुकड़ा क्यों",
+            "confidence": 0.5105572938919067,
+            "severity": "major",
+            "start": 53,
+            "end": 66
+        },
+        {
+            "text": "सकते हैं",
+            "confidence": 0.5443451404571533,
+            "severity": "critical",
+            "start": 69,
+            "end": 78
+        }
+    ],
+    [
+        {
+            "text": "फांसी पर लटका दिया गया",
+            "confidence": 0.9579979777336121,
+            "severity": "critical",
+            "start": 36,
+            "end": 59
+        }
+    ],
+    [
+        {
+            "text": "कौन",
+            "confidence": 0.6986339092254639,
+            "severity": "major",
+            "start": 0,
+            "end": 3
+        }
+    ],
+    [
+        {
+            "text": "अपने आप को",
+            "confidence": 0.7009328603744507,
+            "severity": "major",
+            "start": 38,
+            "end": 49
+        },
+        {
+            "text": "ों",
+            "confidence": 0.5924650430679321,
+            "severity": "major",
+            "start": 111,
+            "end": 113
+        },
+        {
+            "text": "करने के",
+            "confidence": 0.5983786582946777,
+            "severity": "major",
+            "start": 129,
+            "end": 137
+        }
+    ],
+    [],
+    [
+        {
+            "text": "थोड़ा और आशावादी",
+            "confidence": 0.8177888989448547,
+            "severity": "major",
+            "start": 0,
+            "end": 16
+        },
+        {
+            "text": "इस फोन में",
+            "confidence": 0.5980201959609985,
+            "severity": "major",
+            "start": 23,
+            "end": 34
+        },
+        {
+            "text": "अच्छी लड़ाई होने की क्षमता है",
+            "confidence": 0.7163509130477905,
+            "severity": "major",
+            "start": 116,
+            "end": 146
+        }
+    ],
+    [
+        {
+            "text": "को धड़कता है",
+            "confidence": 0.74029541015625,
+            "severity": "major",
+            "start": 166,
+            "end": 179
+        }
+    ],
+    [
+        {
+            "text": "5 सेकंड डिस्कनेक्ट",
+            "confidence": 0.7321764230728149,
+            "severity": "major",
+            "start": 55,
+            "end": 74
+        }
+    ],
+    [
+        {
+            "text": "बैटरी",
+            "confidence": 0.6085018515586853,
+            "severity": "major",
+            "start": 0,
+            "end": 5
+        },
+        {
+            "text": "तरह का सबसे अच्छा है",
+            "confidence": 0.6309669017791748,
+            "severity": "major",
+            "start": 10,
+            "end": 31
+        },
+        {
+            "text": "बहुत धाराप्रवाह है",
+            "confidence": 0.7029468417167664,
+            "severity": "major",
+            "start": 61,
+            "end": 80
+        }
+    ],
+    [
+        {
+            "text": "con",
+            "confidence": 0.5810350179672241,
+            "severity": "major",
+            "start": 0,
+            "end": 3
+        },
+        {
+            "text": "1.looks",
+            "confidence": 0.6910592913627625,
+            "severity": "major",
+            "start": 4,
+            "end": 12
+        },
+        {
+            "text": "2.bettery प्रदर्शन 3 वजन और पुराने मॉडल 4.screen नहीं गोरिल्ला ग्लास 3",
+            "confidence": 0.7799345850944519,
+            "severity": "major",
+            "start": 13,
+            "end": 84
+        }
+    ],
+    [
+        {
+            "text": "थोड़ा सा होता है",
+            "confidence": 0.6835888624191284,
+            "severity": "major",
+            "start": 17,
+            "end": 34
+        },
+        {
+            "text": "इसमें",
+            "confidence": 0.5447667837142944,
+            "severity": "major",
+            "start": 40,
+            "end": 46
+        },
+        {
+            "text": "पकड़",
+            "confidence": 0.635793924331665,
+            "severity": "major",
+            "start": 69,
+            "end": 74
+        },
+        {
+            "text": "तक सुनहरी-ग्रे",
+            "confidence": 0.7116050720214844,
+            "severity": "major",
+            "start": 90,
+            "end": 105
+        },
+        {
+            "text": "और बाहर खड़ा होता है",
+            "confidence": 0.8525886535644531,
+            "severity": "major",
+            "start": 108,
+            "end": 129
+        }
+    ],
+    [
+        {
+            "text": "5000mah के साथ बैटरी, आपको 2 दिन स्टैंडबाय देगा",
+            "confidence": 0.7933247685432434,
+            "severity": "major",
+            "start": 0,
+            "end": 47
+        }
+    ],
+    [
+        {
+            "text": "5000 महिंद्रा 10hours प्लस सोट के साथ मध्यम उपयोग और हल्के गेमिंग के साथ",
+            "confidence": 0.829334557056427,
+            "severity": "major",
+            "start": 8,
+            "end": 81
+        }
+    ],
+    [
+        {
+            "text": "2.1hr से अधिक के लिए पब खेलने के बाद भी बहुत कम हीटिंग।",
+            "confidence": 0.7706193327903748,
+            "severity": "major",
+            "start": 0,
+            "end": 55
+        }
+    ],
+    [
+        {
+            "text": "एक ही नुकसान है क्योंकि यह एक गोरिल्ला ग्लास नहीं है",
+            "confidence": 0.6275504231452942,
+            "severity": "major",
+            "start": 35,
+            "end": 88
+        },
+        {
+            "text": "ओं",
+            "confidence": 0.524915337562561,
+            "severity": "major",
+            "start": 109,
+            "end": 111
+        },
+        {
+            "text": "प्रदर्शन भयानक है पैसे के लिए पूर्ण मूल्य अच्छी बैटरी जीवन",
+            "confidence": 0.7622121572494507,
+            "severity": "major",
+            "start": 129,
+            "end": 188
+        }
+    ],
+    [
+        {
+            "text": "लंबी बैटरी जीवन",
+            "confidence": 0.720927894115448,
+            "severity": "major",
+            "start": 0,
+            "end": 15
+        },
+        {
+            "text": "सबसे अच्छा समर्थक है।",
+            "confidence": 0.6970962882041931,
+            "severity": "major",
+            "start": 38,
+            "end": 60
+        }
+    ],
+    [
+        {
+            "text": "तीसरे ग्रेड के चीनी उत्पाद जैसे कि मी",
+            "confidence": 0.7266465425491333,
+            "severity": "major",
+            "start": 0,
+            "end": 37
+        },
+        {
+            "text": "हुवाई लोग हमेशा इस उत्पाद को खरीद सकते हैं और पैसे के लिए इसका मूल्य खरीद सकते हैं",
+            "confidence": 0.7329677939414978,
+            "severity": "major",
+            "start": 49,
+            "end": 132
+        }
+    ],
+    [
+        {
+            "text": "बेहतर बोलते हुए",
+            "confidence": 0.8174573183059692,
+            "severity": "major",
+            "start": 76,
+            "end": 92
+        },
+        {
+            "text": "आँख बंद करके इसके लिए जाते हैं",
+            "confidence": 0.8547075986862183,
+            "severity": "major",
+            "start": 93,
+            "end": 124
+        },
+        {
+            "text": "gb ramand64",
+            "confidence": 0.6654652953147888,
+            "severity": "major",
+            "start": 133,
+            "end": 144
+        },
+        {
+            "text": "र",
+            "confidence": 0.5519519448280334,
+            "severity": "major",
+            "start": 158,
+            "end": 159
+        },
+        {
+            "text": "िए",
+            "confidence": 0.5060057640075684,
+            "severity": "major",
+            "start": 163,
+            "end": 165
+        },
+        {
+            "text": "बस",
+            "confidence": 0.6450822353363037,
+            "severity": "major",
+            "start": 177,
+            "end": 180
+        },
+        {
+            "text": "रंग से प्यार करते हैं",
+            "confidence": 0.7550482749938965,
+            "severity": "major",
+            "start": 185,
+            "end": 207
+        },
+        {
+            "text": "एंड",
+            "confidence": 0.5710985064506531,
+            "severity": "major",
+            "start": 208,
+            "end": 212
+        },
+        {
+            "text": "ॉइड के साथ प्यार",
+            "confidence": 0.6278504133224487,
+            "severity": "major",
+            "start": 214,
+            "end": 230
+        }
+    ],
+    [
+        {
+            "text": "बेहतर के साथ",
+            "confidence": 0.6847090721130371,
+            "severity": "major",
+            "start": 55,
+            "end": 68
+        }
+    ],
+    [
+        {
+            "text": "ता हूं",
+            "confidence": 0.7046881914138794,
+            "severity": "major",
+            "start": 23,
+            "end": 29
+        },
+        {
+            "text": "किया",
+            "confidence": 0.599825918674469,
+            "severity": "major",
+            "start": 102,
+            "end": 107
+        }
+    ],
+    [
+        {
+            "text": "की मोबाइल स्थिति के बाद",
+            "confidence": 0.8030073046684265,
+            "severity": "major",
+            "start": 46,
+            "end": 70
+        }
+    ],
+    [],
+    [
+        {
+            "text": "asus zenfone अधिकतम प्रो m1",
+            "confidence": 0.6410477161407471,
+            "severity": "minor",
+            "start": 0,
+            "end": 27
+        },
+        {
+            "text": "ओं",
+            "confidence": 0.49237123131752014,
+            "severity": "major",
+            "start": 43,
+            "end": 45
+        },
+        {
+            "text": "अगले जनरल",
+            "confidence": 0.9346238374710083,
+            "severity": "major",
+            "start": 64,
+            "end": 74
+        },
+        {
+            "text": "है",
+            "confidence": 0.5053925514221191,
+            "severity": "major",
+            "start": 91,
+            "end": 94
+        },
+        {
+            "text": "इसके लिए तेजी से & apos; एस 6 जीबी रैम",
+            "confidence": 0.8122148513793945,
+            "severity": "major",
+            "start": 95,
+            "end": 134
+        }
+    ],
+    [],
+    [
+        {
+            "text": "बॉटन इतना कष्टप्र",
+            "confidence": 0.6200581789016724,
+            "severity": "major",
+            "start": 46,
+            "end": 64
+        }
+    ],
+    [
+        {
+            "text": "एसस को इनबिल्ट",
+            "confidence": 0.7810068130493164,
+            "severity": "major",
+            "start": 0,
+            "end": 14
+        },
+        {
+            "text": "गैलरी",
+            "confidence": 0.5602543950080872,
+            "severity": "major",
+            "start": 15,
+            "end": 21
+        },
+        {
+            "text": "ॉकेट क्लीनर देना चाहिए",
+            "confidence": 0.7379281520843506,
+            "severity": "major",
+            "start": 74,
+            "end": 96
+        }
+    ],
+    [],
+    [
+        {
+            "text": "चेहरा ताला",
+            "confidence": 0.5056689977645874,
+            "severity": "major",
+            "start": 35,
+            "end": 46
+        }
+    ],
+    [
+        {
+            "text": "भयानक",
+            "confidence": 0.5853710770606995,
+            "severity": "major",
+            "start": 8,
+            "end": 14
+        },
+        {
+            "text": "सत्रों",
+            "confidence": 0.6048989295959473,
+            "severity": "major",
+            "start": 29,
+            "end": 36
+        },
+        {
+            "text": "िंग",
+            "confidence": 0.5110123753547668,
+            "severity": "major",
+            "start": 47,
+            "end": 50
+        },
+        {
+            "text": "कुछ फ्रेम बूंदों को देखा",
+            "confidence": 0.7257950901985168,
+            "severity": "major",
+            "start": 57,
+            "end": 82
+        },
+        {
+            "text": "थोड़ा हीटिंग भी",
+            "confidence": 0.7341168522834778,
+            "severity": "major",
+            "start": 83,
+            "end": 99
+        }
+    ],
+    [
+        {
+            "text": "कार्य",
+            "confidence": 0.455802321434021,
+            "severity": "major",
+            "start": 17,
+            "end": 23
+        },
+        {
+            "text": "माध्यम से उस पर फेंकता है",
+            "confidence": 0.6103476285934448,
+            "severity": "critical",
+            "start": 26,
+            "end": 52
+        }
+    ],
+    [
+        {
+            "text": "बॉक्स",
+            "confidence": 0.6916579008102417,
+            "severity": "major",
+            "start": 15,
+            "end": 21
+        },
+        {
+            "text": "टिक करता",
+            "confidence": 0.6792856454849243,
+            "severity": "major",
+            "start": 24,
+            "end": 33
+        }
+    ],
+    [
+        {
+            "text": "प्रदर्शन गुणवत्ता",
+            "confidence": 0.6570383906364441,
+            "severity": "major",
+            "start": 33,
+            "end": 51
+        },
+        {
+            "text": "ऑटो चमक समारोह उचित",
+            "confidence": 0.7919999361038208,
+            "severity": "major",
+            "start": 66,
+            "end": 86
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "उत्पाद के बाद पूरी",
+            "confidence": 0.7855643630027771,
+            "severity": "major",
+            "start": 2,
+            "end": 21
+        },
+        {
+            "text": "से संतुष्ट",
+            "confidence": 0.6238638162612915,
+            "severity": "major",
+            "start": 25,
+            "end": 36
+        },
+        {
+            "text": "के लिए बाहर खड़ा है",
+            "confidence": 0.924460232257843,
+            "severity": "major",
+            "start": 75,
+            "end": 95
+        },
+        {
+            "text": "का एक अतिरिक्त केक पर एक चेरी जोड़ देगा",
+            "confidence": 0.8240852355957031,
+            "severity": "major",
+            "start": 172,
+            "end": 212
+        }
+    ],
+    [
+        {
+            "text": "प्रदर्शन शो और एपोस; पीले रंग की टिंट मूल रूप से यह और एपोस कर सकते हैं; टी सटीक सफेद",
+            "confidence": 0.8164170384407043,
+            "severity": "major",
+            "start": 2,
+            "end": 88
+        },
+        {
+            "text": "का उत्पादन",
+            "confidence": 0.6847701072692871,
+            "severity": "major",
+            "start": 92,
+            "end": 103
+        }
+    ],
+    [
+        {
+            "text": "15 कश्मीर यू डॉन और एपोस में; टी भी दो बार सोचते हैं बस इसके लिए जाना और मैं शर्त यू जीता और एपोस; टी regret.i",
+            "confidence": 0.5380601286888123,
+            "severity": "critical",
+            "start": 0,
+            "end": 110
+        },
+        {
+            "text": "22 कश्मीर के लिए",
+            "confidence": 0.4950788617134094,
+            "severity": "critical",
+            "start": 131,
+            "end": 148
+        },
+        {
+            "text": "करते",
+            "confidence": 0.5159533023834229,
+            "severity": "major",
+            "start": 176,
+            "end": 181
+        }
+    ],
+    [
+        {
+            "text": "- & amp; जीटी; दोहरी 4g volte का समर्थन करें (यू",
+            "confidence": 0.820672869682312,
+            "severity": "major",
+            "start": 0,
+            "end": 48
+        },
+        {
+            "text": "फोन",
+            "confidence": 0.5257730484008789,
+            "severity": "major",
+            "start": 51,
+            "end": 55
+        },
+        {
+            "text": "ियो",
+            "confidence": 0.609637439250946,
+            "severity": "major",
+            "start": 62,
+            "end": 65
+        },
+        {
+            "text": "हैं",
+            "confidence": 0.6174474358558655,
+            "severity": "major",
+            "start": 86,
+            "end": 90
+        },
+        {
+            "text": "यू",
+            "confidence": 0.8051009178161621,
+            "severity": "major",
+            "start": 93,
+            "end": 96
+        },
+        {
+            "text": "g volte",
+            "confidence": 0.7940317392349243,
+            "severity": "major",
+            "start": 108,
+            "end": 115
+        },
+        {
+            "text": "ियो 4g volte",
+            "confidence": 0.6628243327140808,
+            "severity": "major",
+            "start": 123,
+            "end": 135
+        },
+        {
+            "text": "हैं",
+            "confidence": 0.5414235591888428,
+            "severity": "major",
+            "start": 152,
+            "end": 156
+        }
+    ],
+    [
+        {
+            "text": "& एपोस; एक अच्छा उपकरण अच्छा प्रदर्शन उच्च प्रदर्शन बैटरी अच्छी लग रही है",
+            "confidence": 0.7723634839057922,
+            "severity": "major",
+            "start": 2,
+            "end": 76
+        },
+        {
+            "text": "कैमरा शानदार दोहरी कैमरा सेटअप है ossam है",
+            "confidence": 0.8022665977478027,
+            "severity": "major",
+            "start": 77,
+            "end": 120
+        },
+        {
+            "text": "मैं इसे पसंद है",
+            "confidence": 0.777605414390564,
+            "severity": "major",
+            "start": 121,
+            "end": 137
+        },
+        {
+            "text": "सिर्फ के लिए 14499",
+            "confidence": 0.7103143930435181,
+            "severity": "major",
+            "start": 138,
+            "end": 157
+        }
+    ],
+    [
+        {
+            "text": "महिंद्रा",
+            "confidence": 0.7061547636985779,
+            "severity": "critical",
+            "start": 4,
+            "end": 13
+        },
+        {
+            "text": "लिए पिछले चाहिए",
+            "confidence": 0.5507946014404297,
+            "severity": "major",
+            "start": 33,
+            "end": 49
+        },
+        {
+            "text": "किसी भी अन्य फोन आप दे देंगे देता है",
+            "confidence": 0.5903253555297852,
+            "severity": "major",
+            "start": 82,
+            "end": 119
+        }
+    ],
+    [
+        {
+            "text": "इसके प्रोफेसर अच्छी गति इंटरनेट पर काम करता है लेकिन मुख्य problum ntwork के दौरान कॉल इंटरनेट नेटवर्क कनेक्शन छोड़ने और कॉल नेटवर्क भी ठीक से समर्थन नहीं है की तरह है, स्पीकर कॉल समर्थन आदि नहीं है",
+            "confidence": 0.8258779048919678,
+            "severity": "major",
+            "start": 0,
+            "end": 198
+        }
+    ],
+    [
+        {
+            "text": "कोई",
+            "confidence": 0.49443018436431885,
+            "severity": "major",
+            "start": 16,
+            "end": 20
+        },
+        {
+            "text": "इस Asus Zenfone अधिकतम प्रो m1 खरीद सकता है क्योंकि बदले में",
+            "confidence": 0.6641128659248352,
+            "severity": "major",
+            "start": 23,
+            "end": 84
+        },
+        {
+            "text": "in",
+            "confidence": 0.5365171432495117,
+            "severity": "major",
+            "start": 97,
+            "end": 100
+        },
+        {
+            "text": "की कीमतों में है",
+            "confidence": 0.7357915043830872,
+            "severity": "major",
+            "start": 110,
+            "end": 127
+        },
+        {
+            "text": "बुरा विनिमय",
+            "confidence": 0.6118981838226318,
+            "severity": "major",
+            "start": 138,
+            "end": 150
+        },
+        {
+            "text": "ध",
+            "confidence": 0.6445357799530029,
+            "severity": "major",
+            "start": 176,
+            "end": 177
+        },
+        {
+            "text": "प्रो",
+            "confidence": 0.5736204385757446,
+            "severity": "major",
+            "start": 200,
+            "end": 205
+        }
+    ],
+    [
+        {
+            "text": "इसके बाद के क्षेत्र",
+            "confidence": 0.8657341003417969,
+            "severity": "major",
+            "start": 45,
+            "end": 65
+        }
+    ],
+    [
+        {
+            "text": "डॉन और एपोस; टी खरीदा 3or 4 जीबी रैम संस्करण केवल 6gb रैम",
+            "confidence": 0.779387354850769,
+            "severity": "major",
+            "start": 0,
+            "end": 57
+        },
+        {
+            "text": "के लिए जाना है क्योंकि मैं",
+            "confidence": 0.7501604557037354,
+            "severity": "major",
+            "start": 65,
+            "end": 92
+        },
+        {
+            "text": "4gb संस्करण",
+            "confidence": 0.6503245830535889,
+            "severity": "major",
+            "start": 103,
+            "end": 115
+        },
+        {
+            "text": "भी उपयोग करता हूं",
+            "confidence": 0.7467619180679321,
+            "severity": "major",
+            "start": 118,
+            "end": 136
+        }
+    ],
+    [
+        {
+            "text": "नेटवर्क कनेक्टिविटी समस्या है कि & apos की वजह से; टी भी खेलने pubg.",
+            "confidence": 0.7035968899726868,
+            "severity": "major",
+            "start": 0,
+            "end": 68
+        }
+    ],
+    [
+        {
+            "text": "दोहरी volte",
+            "confidence": 0.6748795509338379,
+            "severity": "major",
+            "start": 55,
+            "end": 67
+        }
+    ],
+    [],
+    [
+        {
+            "text": "की स्क्रीन पर समय",
+            "confidence": 0.7162860035896301,
+            "severity": "major",
+            "start": 55,
+            "end": 73
+        },
+        {
+            "text": "स्टैंड",
+            "confidence": 0.5371973514556885,
+            "severity": "major",
+            "start": 84,
+            "end": 91
+        },
+        {
+            "text": "एकल",
+            "confidence": 0.6448841094970703,
+            "severity": "major",
+            "start": 94,
+            "end": 98
+        },
+        {
+            "text": "हमेशा पर",
+            "confidence": 0.7317272424697876,
+            "severity": "major",
+            "start": 123,
+            "end": 132
+        }
+    ],
+    [
+        {
+            "text": "महीने",
+            "confidence": 0.5083702802658081,
+            "severity": "major",
+            "start": 14,
+            "end": 20
+        },
+        {
+            "text": "बाद कोई समस्या पूरी",
+            "confidence": 0.7752511501312256,
+            "severity": "major",
+            "start": 32,
+            "end": 52
+        },
+        {
+            "text": "से संतु",
+            "confidence": 0.5751805901527405,
+            "severity": "major",
+            "start": 56,
+            "end": 64
+        }
+    ],
+    [],
+    [
+        {
+            "text": "कैप्",
+            "confidence": 0.7278428077697754,
+            "severity": "major",
+            "start": 24,
+            "end": 29
+        }
+    ],
+    [
+        {
+            "text": "समस्या",
+            "confidence": 0.5671201348304749,
+            "severity": "major",
+            "start": 39,
+            "end": 46
+        }
+    ],
+    [
+        {
+            "text": "हर चीज सबसे अच्छा",
+            "confidence": 0.7268519401550293,
+            "severity": "major",
+            "start": 32,
+            "end": 50
+        }
+    ],
+    [],
+    [
+        {
+            "text": "कभी",
+            "confidence": 0.8734399080276489,
+            "severity": "major",
+            "start": 10,
+            "end": 14
+        },
+        {
+            "text": "बी फोन फोन",
+            "confidence": 0.7458544969558716,
+            "severity": "major",
+            "start": 19,
+            "end": 29
+        },
+        {
+            "text": "चिकनी प्रदर्शन",
+            "confidence": 0.920245885848999,
+            "severity": "major",
+            "start": 30,
+            "end": 45
+        },
+        {
+            "text": "यह & एपोस; अद्भुत",
+            "confidence": 0.7591397762298584,
+            "severity": "major",
+            "start": 65,
+            "end": 83
+        }
+    ],
+    [
+        {
+            "text": "ने से नफर",
+            "confidence": 0.696448564529419,
+            "severity": "major",
+            "start": 21,
+            "end": 30
+        },
+        {
+            "text": "है",
+            "confidence": 0.5548089742660522,
+            "severity": "major",
+            "start": 31,
+            "end": 34
+        }
+    ],
+    [
+        {
+            "text": "यह & apos; इस कीमत पर फोन का एक मणि तरह है। कोई अंतराल नहीं गर्मी। सभ्य कैमरा",
+            "confidence": 0.8072367906570435,
+            "severity": "major",
+            "start": 0,
+            "end": 77
+        }
+    ],
+    [
+        {
+            "text": "सुंदर लग रही है",
+            "confidence": 0.9402808547019958,
+            "severity": "major",
+            "start": 18,
+            "end": 34
+        },
+        {
+            "text": "भयानक सुविधा",
+            "confidence": 0.8644879460334778,
+            "severity": "major",
+            "start": 35,
+            "end": 48
+        },
+        {
+            "text": "पैसे के लिए मूल्य",
+            "confidence": 0.7568193674087524,
+            "severity": "major",
+            "start": 49,
+            "end": 67
+        }
+    ],
+    [],
+    [
+        {
+            "text": "कॉल रिकॉर्ड और सम्मेलन",
+            "confidence": 0.6378827095031738,
+            "severity": "major",
+            "start": 0,
+            "end": 22
+        },
+        {
+            "text": "नहीं है",
+            "confidence": 0.5112372040748596,
+            "severity": "major",
+            "start": 45,
+            "end": 53
+        }
+    ],
+    [
+        {
+            "text": "Asus Zenfone अधिकतम प्रो",
+            "confidence": 0.6937965750694275,
+            "severity": "major",
+            "start": 16,
+            "end": 41
+        },
+        {
+            "text": "जी",
+            "confidence": 0.5876665711402893,
+            "severity": "major",
+            "start": 43,
+            "end": 46
+        }
+    ],
+    [
+        {
+            "text": "है",
+            "confidence": 0.5390242338180542,
+            "severity": "major",
+            "start": 32,
+            "end": 35
+        },
+        {
+            "text": "तलाश",
+            "confidence": 0.6849069595336914,
+            "severity": "major",
+            "start": 46,
+            "end": 51
+        }
+    ],
+    [
+        {
+            "text": "पुरस्कार के",
+            "confidence": 0.7495319843292236,
+            "severity": "major",
+            "start": 9,
+            "end": 21
+        },
+        {
+            "text": "pub",
+            "confidence": 0.5325450301170349,
+            "severity": "major",
+            "start": 42,
+            "end": 46
+        },
+        {
+            "text": "Asus Zenfone अधिकतम प्रो m1 6gb",
+            "confidence": 0.744834303855896,
+            "severity": "major",
+            "start": 67,
+            "end": 99
+        },
+        {
+            "text": "रैम",
+            "confidence": 0.674868106842041,
+            "severity": "major",
+            "start": 100,
+            "end": 103
+        }
+    ],
+    [],
+    [
+        {
+            "text": "मिनट के लिए पबग",
+            "confidence": 0.7574589252471924,
+            "severity": "major",
+            "start": 25,
+            "end": 41
+        },
+        {
+            "text": "गेम",
+            "confidence": 0.7053869962692261,
+            "severity": "major",
+            "start": 46,
+            "end": 50
+        },
+        {
+            "text": "गर्मी",
+            "confidence": 0.6751248836517334,
+            "severity": "major",
+            "start": 64,
+            "end": 70
+        }
+    ],
+    [
+        {
+            "text": "plz नेटवर्क के बाद मदद की देखभाल करें। कारण itz नहीं पैसे फोन के लिए सबसे अच्छा मूल्य जब तक यह & एपोस; s नेटवर्किंग तय हो गया है",
+            "confidence": 0.7943297028541565,
+            "severity": "major",
+            "start": 0,
+            "end": 128
+        }
+    ],
+    [
+        {
+            "text": "सप्ताह बिंदु",
+            "confidence": 0.7989503145217896,
+            "severity": "major",
+            "start": 17,
+            "end": 30
+        },
+        {
+            "text": "मुझे यह गलत नहीं है & एपोस; हालांकि एक सौदा ब्रेकर नहीं है",
+            "confidence": 0.7315855622291565,
+            "severity": "major",
+            "start": 46,
+            "end": 105
+        }
+    ],
+    [
+        {
+            "text": "कार्ट यह कर रही है और उचित व्यापार नहीं है",
+            "confidence": 0.8187005519866943,
+            "severity": "major",
+            "start": 5,
+            "end": 47
+        },
+        {
+            "text": "एक्सचेंज",
+            "confidence": 0.7742020487785339,
+            "severity": "major",
+            "start": 122,
+            "end": 131
+        },
+        {
+            "text": "रिफंड समय समाप्त होने के बाद यू आर भेजने के लिए क्षमा विक्रेता को छोड़कर यू आर अनुरोध नहीं है",
+            "confidence": 0.7226644158363342,
+            "severity": "major",
+            "start": 133,
+            "end": 227
+        }
+    ],
+    [
+        {
+            "text": "& apos; एक बैटरी जानवर",
+            "confidence": 0.8333948254585266,
+            "severity": "major",
+            "start": 41,
+            "end": 64
+        }
+    ],
+    [
+        {
+            "text": "जीवन भयानक है, यह उच्च फ्रेमरेट्स पर पबग वास्तव में अच्छी तरह से मेड सेटिंग्स को संभाल सकता है",
+            "confidence": 0.8105210065841675,
+            "severity": "major",
+            "start": 5,
+            "end": 100
+        },
+        {
+            "text": "अधिकतम सेटिंग्स",
+            "confidence": 0.6083018183708191,
+            "severity": "major",
+            "start": 101,
+            "end": 117
+        },
+        {
+            "text": "हल्का खेल चला",
+            "confidence": 0.7760909795761108,
+            "severity": "major",
+            "start": 120,
+            "end": 134
+        },
+        {
+            "text": "जा सकता है",
+            "confidence": 0.5854282379150391,
+            "severity": "major",
+            "start": 136,
+            "end": 147
+        },
+        {
+            "text": "एस सिर्फ बेरबोन है",
+            "confidence": 0.7461647391319275,
+            "severity": "major",
+            "start": 150,
+            "end": 168
+        },
+        {
+            "text": "कई सेटिंग्स",
+            "confidence": 0.6612187027931213,
+            "severity": "major",
+            "start": 169,
+            "end": 181
+        },
+        {
+            "text": "कस्टमाइज़ेशन नहीं, यह तरल पदार्थ नहीं है",
+            "confidence": 0.6069230437278748,
+            "severity": "major",
+            "start": 184,
+            "end": 225
+        }
+    ],
+    [
+        {
+            "text": "varrient",
+            "confidence": 0.7289260625839233,
+            "severity": "major",
+            "start": 25,
+            "end": 34
+        }
+    ],
+    [
+        {
+            "text": "एसयूएस",
+            "confidence": 0.5949224829673767,
+            "severity": "major",
+            "start": 6,
+            "end": 13
+        },
+        {
+            "text": "बैटरी जीवन",
+            "confidence": 0.6403375864028931,
+            "severity": "major",
+            "start": 16,
+            "end": 27
+        },
+        {
+            "text": "अनुकूलित",
+            "confidence": 0.5582899451255798,
+            "severity": "major",
+            "start": 30,
+            "end": 39
+        },
+        {
+            "text": "प्रदान करना चाहता हूं ताकि समग्र प्रणाली के लिए तेजी से निकासी और नियमित सिस्टम अपडेट से बचें जिससे",
+            "confidence": 0.7021785378456116,
+            "severity": "major",
+            "start": 67,
+            "end": 167
+        },
+        {
+            "text": "सके",
+            "confidence": 0.5196725130081177,
+            "severity": "major",
+            "start": 193,
+            "end": 197
+        }
+    ],
+    [
+        {
+            "text": "फ्राउड",
+            "confidence": 0.8832082748413086,
+            "severity": "major",
+            "start": 70,
+            "end": 77
+        }
+    ],
+    [
+        {
+            "text": "चिकना",
+            "confidence": 0.5161684155464172,
+            "severity": "major",
+            "start": 28,
+            "end": 34
+        },
+        {
+            "text": "था",
+            "confidence": 0.7585904598236084,
+            "severity": "major",
+            "start": 43,
+            "end": 46
+        }
+    ],
+    [
+        {
+            "text": "हर घंटे के लिए बैटरी प्रतिशत गिरावट 5% पर नियमित उपयोग पर गेमिंग के भारी उपयोग पर 10% हर घंटे गिरावट",
+            "confidence": 0.8477815985679626,
+            "severity": "major",
+            "start": 0,
+            "end": 100
+        }
+    ],
+    [
+        {
+            "text": "पैसे के लिए मूल्य",
+            "confidence": 0.7355664968490601,
+            "severity": "major",
+            "start": 0,
+            "end": 17
+        },
+        {
+            "text": "आदर्श alrounder",
+            "confidence": 0.6365566253662109,
+            "severity": "major",
+            "start": 24,
+            "end": 40
+        },
+        {
+            "text": "प्रत्येक",
+            "confidence": 0.5023896098136902,
+            "severity": "major",
+            "start": 44,
+            "end": 53
+        },
+        {
+            "text": "तन फोन के प्रदर्शन में सुधार",
+            "confidence": 0.7692627906799316,
+            "severity": "major",
+            "start": 58,
+            "end": 86
+        },
+        {
+            "text": "अद्भुत प्रदर्शन गुणवत्ता",
+            "confidence": 0.5742077827453613,
+            "severity": "major",
+            "start": 87,
+            "end": 112
+        }
+    ],
+    [],
+    [
+        {
+            "text": "करते हैं",
+            "confidence": 0.5890288352966309,
+            "severity": "major",
+            "start": 91,
+            "end": 100
+        }
+    ],
+    [
+        {
+            "text": "एक मौका है कि यह अच्छा शॉट नहीं मिल सकता है",
+            "confidence": 0.7811388373374939,
+            "severity": "major",
+            "start": 34,
+            "end": 78
+        }
+    ],
+    [
+        {
+            "text": "10%",
+            "confidence": 0.6926088333129883,
+            "severity": "major",
+            "start": 10,
+            "end": 14
+        },
+        {
+            "text": "6hrs",
+            "confidence": 0.9087573289871216,
+            "severity": "major",
+            "start": 17,
+            "end": 22
+        },
+        {
+            "text": "लिए",
+            "confidence": 0.6730903387069702,
+            "severity": "major",
+            "start": 25,
+            "end": 29
+        },
+        {
+            "text": "pubg",
+            "confidence": 0.6481426954269409,
+            "severity": "major",
+            "start": 36,
+            "end": 41
+        }
+    ],
+    [
+        {
+            "text": "ी आसानी से सूखा है",
+            "confidence": 0.763584315776825,
+            "severity": "major",
+            "start": 25,
+            "end": 43
+        },
+        {
+            "text": "यह और एपोस; 3h हमारे चार्ज करने के लिए ले जा रहा है",
+            "confidence": 0.8275507688522339,
+            "severity": "major",
+            "start": 44,
+            "end": 96
+        },
+        {
+            "text": "जल्दी निर्वहन कर रहा है",
+            "confidence": 0.6191997528076172,
+            "severity": "major",
+            "start": 104,
+            "end": 128
+        }
+    ],
+    [
+        {
+            "text": "मुद्दा ASUS अधिकतम प्रो एम 1 में हैं",
+            "confidence": 0.8376467227935791,
+            "severity": "major",
+            "start": 40,
+            "end": 77
+        },
+        {
+            "text": "ASUS",
+            "confidence": 0.476190984249115,
+            "severity": "major",
+            "start": 84,
+            "end": 89
+        },
+        {
+            "text": "ASUS कुछ भी पसंद करता है",
+            "confidence": 0.8494235277175903,
+            "severity": "major",
+            "start": 121,
+            "end": 146
+        }
+    ],
+    [
+        {
+            "text": "टर",
+            "confidence": 0.5236315131187439,
+            "severity": "major",
+            "start": 11,
+            "end": 13
+        },
+        {
+            "text": "Asus बैटरी का दावा है कि यह 5000mah",
+            "confidence": 0.8055319786071777,
+            "severity": "major",
+            "start": 15,
+            "end": 51
+        },
+        {
+            "text": "यह अच्छा",
+            "confidence": 0.6141296029090881,
+            "severity": "major",
+            "start": 57,
+            "end": 66
+        },
+        {
+            "text": "और एपोस के साथ तुलना में है; एस 4100mah दोनों में एक ही बैकअप है",
+            "confidence": 0.7401946783065796,
+            "severity": "major",
+            "start": 101,
+            "end": 166
+        },
+        {
+            "text": "आप भी नहीं करेंगे और एपोस; टी इसे नोटिस करता है",
+            "confidence": 0.7257858514785767,
+            "severity": "major",
+            "start": 169,
+            "end": 217
+        }
+    ],
+    [
+        {
+            "text": "वह और pubg उसके ग्राफिक्स के लिए अपडेट का वादा करता है में",
+            "confidence": 0.7466766834259033,
+            "severity": "major",
+            "start": 0,
+            "end": 58
+        },
+        {
+            "text": "pubg",
+            "confidence": 0.6516111493110657,
+            "severity": "major",
+            "start": 80,
+            "end": 85
+        }
+    ],
+    [
+        {
+            "text": "Asus zenfone अधिकतम प्रो m1 बैटरी",
+            "confidence": 0.7624210715293884,
+            "severity": "major",
+            "start": 0,
+            "end": 33
+        },
+        {
+            "text": "प्रदर्शन",
+            "confidence": 0.7682540416717529,
+            "severity": "major",
+            "start": 36,
+            "end": 45
+        },
+        {
+            "text": "लिए अच्छा बजट फोन में से एक है",
+            "confidence": 0.8099809885025024,
+            "severity": "major",
+            "start": 48,
+            "end": 79
+        }
+    ],
+    [
+        {
+            "text": "फोन रॉक होगा",
+            "confidence": 0.7071830034255981,
+            "severity": "major",
+            "start": 35,
+            "end": 48
+        }
+    ],
+    [
+        {
+            "text": "के बिना",
+            "confidence": 0.642677366733551,
+            "severity": "major",
+            "start": 50,
+            "end": 58
+        },
+        {
+            "text": "और एपोस;",
+            "confidence": 0.8457827568054199,
+            "severity": "major",
+            "start": 63,
+            "end": 72
+        },
+        {
+            "text": "यान",
+            "confidence": 0.6953705549240112,
+            "severity": "major",
+            "start": 116,
+            "end": 119
+        }
+    ],
+    [
+        {
+            "text": "इसके अलावा कीमत में मैंने 11,700 लाया था",
+            "confidence": 0.8101246953010559,
+            "severity": "major",
+            "start": 42,
+            "end": 83
+        }
+    ],
+    [
+        {
+            "text": "वास्तव में, वास्तव में",
+            "confidence": 0.7357751131057739,
+            "severity": "major",
+            "start": 0,
+            "end": 22
+        },
+        {
+            "text": "इसके लिए बहुत नशे की लत बन गया, घंटों बिताया",
+            "confidence": 0.64613938331604,
+            "severity": "major",
+            "start": 45,
+            "end": 90
+        }
+    ],
+    [
+        {
+            "text": "चीज",
+            "confidence": 0.6907162666320801,
+            "severity": "major",
+            "start": 7,
+            "end": 11
+        },
+        {
+            "text": "को कैस्ट",
+            "confidence": 0.7584824562072754,
+            "severity": "major",
+            "start": 30,
+            "end": 39
+        }
+    ],
+    [
+        {
+            "text": "विकल्प अन्य की तरह वहाँ केवल",
+            "confidence": 0.6866111755371094,
+            "severity": "major",
+            "start": 5,
+            "end": 34
+        },
+        {
+            "text": "के रूप में उपलब्ध नहीं",
+            "confidence": 0.6176060438156128,
+            "severity": "major",
+            "start": 48,
+            "end": 71
+        }
+    ],
+    [
+        {
+            "text": "कब्जा करने के लिए",
+            "confidence": 0.49931031465530396,
+            "severity": "major",
+            "start": 77,
+            "end": 95
+        },
+        {
+            "text": "सीमा में",
+            "confidence": 0.6997565031051636,
+            "severity": "major",
+            "start": 231,
+            "end": 240
+        }
+    ],
+    [
+        {
+            "text": "पेशेवरों",
+            "confidence": 0.8282995223999023,
+            "severity": "major",
+            "start": 0,
+            "end": 8
+        },
+        {
+            "text": "उत्तम दर्जे का",
+            "confidence": 0.6133830547332764,
+            "severity": "major",
+            "start": 29,
+            "end": 44
+        },
+        {
+            "text": "स्पर्श",
+            "confidence": 0.605372428894043,
+            "severity": "major",
+            "start": 45,
+            "end": 51
+        },
+        {
+            "text": "636",
+            "confidence": 0.4771946966648102,
+            "severity": "major",
+            "start": 57,
+            "end": 60
+        },
+        {
+            "text": "द्वंद्वयुद्ध भयानक",
+            "confidence": 0.900117039680481,
+            "severity": "major",
+            "start": 61,
+            "end": 79
+        },
+        {
+            "text": "टरी जीवन महान है जो भारी 6 के लिए 1.5 दिन के लिए 3 दिन तक रहता है)",
+            "confidence": 0.7219589352607727,
+            "severity": "major",
+            "start": 123,
+            "end": 189
+        },
+        {
+            "text": "ॉक",
+            "confidence": 0.5823990106582642,
+            "severity": "major",
+            "start": 193,
+            "end": 195
+        }
+    ],
+    [
+        {
+            "text": "तेजी से मैं & apos पर; एम भ्रमित कौन सा फोन मैं खरीदते हैं तो जब मैं asus zenfone अधिकतम प्रो m1 खरीदने और उपयोग मैं कहा कि यह & apos; से बेहतर है & quot; मील नोट 5 समर्थक & quot;",
+            "confidence": 0.6916150450706482,
+            "severity": "major",
+            "start": 0,
+            "end": 179
+        },
+        {
+            "text": "इसे प्यार",
+            "confidence": 0.4772811233997345,
+            "severity": "major",
+            "start": 182,
+            "end": 192
+        }
+    ],
+    [
+        {
+            "text": "उंगली",
+            "confidence": 0.6858654022216797,
+            "severity": "major",
+            "start": 0,
+            "end": 5
+        },
+        {
+            "text": "चेहरा अनलॉक काम अच्छी तरह से 6gb राम महान अनुभव दे",
+            "confidence": 0.785505473613739,
+            "severity": "major",
+            "start": 8,
+            "end": 59
+        }
+    ],
+    [
+        {
+            "text": "प्रदर्शन",
+            "confidence": 0.5178238153457642,
+            "severity": "major",
+            "start": 5,
+            "end": 14
+        },
+        {
+            "text": "प्रदर्शन गुणवत्ता",
+            "confidence": 0.7892069816589355,
+            "severity": "major",
+            "start": 15,
+            "end": 33
+        }
+    ],
+    [
+        {
+            "text": "भयानक. मैं समझाने के लिए शब्द नहीं है.",
+            "confidence": 0.8511316776275635,
+            "severity": "major",
+            "start": 21,
+            "end": 60
+        }
+    ],
+    [],
+    [
+        {
+            "text": "क्या एक तस्वीर मैं Asus मैं मैं Asus",
+            "confidence": 0.4850957691669464,
+            "severity": "major",
+            "start": 30,
+            "end": 67
+        },
+        {
+            "text": "ROG इंतजार कर प्यार",
+            "confidence": 0.5732994079589844,
+            "severity": "critical",
+            "start": 68,
+            "end": 87
+        }
+    ],
+    [
+        {
+            "text": "केवल मोबाइल जो",
+            "confidence": 0.7411808371543884,
+            "severity": "major",
+            "start": 0,
+            "end": 14
+        },
+        {
+            "text": "प्रदर्शन",
+            "confidence": 0.5268734693527222,
+            "severity": "major",
+            "start": 25,
+            "end": 34
+        },
+        {
+            "text": "राम के 6gb",
+            "confidence": 0.8712931275367737,
+            "severity": "major",
+            "start": 35,
+            "end": 46
+        },
+        {
+            "text": "स्",
+            "confidence": 0.559264063835144,
+            "severity": "major",
+            "start": 86,
+            "end": 89
+        },
+        {
+            "text": "दोहरी 4g volte",
+            "confidence": 0.8349243998527527,
+            "severity": "major",
+            "start": 93,
+            "end": 108
+        },
+        {
+            "text": "उंगली प्रिंट",
+            "confidence": 0.8043910264968872,
+            "severity": "major",
+            "start": 109,
+            "end": 122
+        },
+        {
+            "text": "चेहरा अनलॉक",
+            "confidence": 0.6818106174468994,
+            "severity": "major",
+            "start": 123,
+            "end": 135
+        },
+        {
+            "text": "15,000",
+            "confidence": 0.5752811431884766,
+            "severity": "major",
+            "start": 138,
+            "end": 145
+        },
+        {
+            "text": "कास्ट स्क्रीन",
+            "confidence": 0.6787729263305664,
+            "severity": "major",
+            "start": 152,
+            "end": 166
+        }
+    ],
+    [
+        {
+            "text": "अच्छा",
+            "confidence": 0.5418871641159058,
+            "severity": "major",
+            "start": 66,
+            "end": 72
+        }
+    ],
+    [
+        {
+            "text": "हरी volte",
+            "confidence": 0.5243021249771118,
+            "severity": "critical",
+            "start": 5,
+            "end": 14
+        },
+        {
+            "text": "एक",
+            "confidence": 0.40596771240234375,
+            "severity": "major",
+            "start": 30,
+            "end": 33
+        }
+    ],
+    [
+        {
+            "text": "राम प्रबंधन",
+            "confidence": 0.677726149559021,
+            "severity": "major",
+            "start": 63,
+            "end": 75
+        }
+    ],
+    [
+        {
+            "text": "1st",
+            "confidence": 0.7669237852096558,
+            "severity": "major",
+            "start": 0,
+            "end": 3
+        },
+        {
+            "text": "कहना",
+            "confidence": 0.4747644364833832,
+            "severity": "major",
+            "start": 10,
+            "end": 15
+        },
+        {
+            "text": "ूंगा",
+            "confidence": 0.6089374423027039,
+            "severity": "major",
+            "start": 19,
+            "end": 23
+        },
+        {
+            "text": "एक भयानक उपकरण है",
+            "confidence": 0.6658490300178528,
+            "severity": "major",
+            "start": 29,
+            "end": 47
+        },
+        {
+            "text": "स्टाइल",
+            "confidence": 0.588127851486206,
+            "severity": "major",
+            "start": 69,
+            "end": 76
+        },
+        {
+            "text": "अद्यतन नहीं है",
+            "confidence": 0.7626040577888489,
+            "severity": "major",
+            "start": 81,
+            "end": 96
+        }
+    ],
+    [
+        {
+            "text": "इसके लिए जाएं यदि आपके पास दो दिमाग हैं, तो यह कम दर",
+            "confidence": 0.870954155921936,
+            "severity": "major",
+            "start": 0,
+            "end": 52
+        },
+        {
+            "text": "प्रदर्शन",
+            "confidence": 0.5414156913757324,
+            "severity": "major",
+            "start": 58,
+            "end": 67
+        },
+        {
+            "text": "गुणवत्ता आश्वासन है",
+            "confidence": 0.836828887462616,
+            "severity": "major",
+            "start": 70,
+            "end": 90
+        },
+        {
+            "text": "के",
+            "confidence": 0.5499961972236633,
+            "severity": "major",
+            "start": 98,
+            "end": 101
+        },
+        {
+            "text": "केवल कुछ मतलब 2 बग्स 1 - बैटरी ड्रेनिंग मुद्दा, 2- कैमरा गुणवत्ता है",
+            "confidence": 0.8879051208496094,
+            "severity": "major",
+            "start": 111,
+            "end": 180
+        }
+    ],
+    [
+        {
+            "text": "मैं",
+            "confidence": 0.4875936806201935,
+            "severity": "major",
+            "start": 0,
+            "end": 3
+        },
+        {
+            "text": "दे रहा हूं & एपोस; एस 2 स्टार की बिक्री रणनीति के कारण कि वे इसे",
+            "confidence": 0.8134730458259583,
+            "severity": "major",
+            "start": 7,
+            "end": 72
+        },
+        {
+            "text": "ने के बाद 500 ₹दे रहे हैं",
+            "confidence": 0.6745879650115967,
+            "severity": "major",
+            "start": 77,
+            "end": 102
+        }
+    ],
+    [
+        {
+            "text": "लिए बनाया",
+            "confidence": 0.7936888933181763,
+            "severity": "major",
+            "start": 165,
+            "end": 175
+        }
+    ],
+    [
+        {
+            "text": "asus",
+            "confidence": 0.6258171796798706,
+            "severity": "minor",
+            "start": 31,
+            "end": 36
+        }
+    ],
+    [
+        {
+            "text": "awesom",
+            "confidence": 0.7018916606903076,
+            "severity": "major",
+            "start": 6,
+            "end": 13
+        }
+    ],
+    [
+        {
+            "text": "यह & apos है; एक सच दोहरी 4g volte स्मार्टफोन है",
+            "confidence": 0.8019967675209045,
+            "severity": "major",
+            "start": 77,
+            "end": 126
+        },
+        {
+            "text": "तो आप 15k इसके लिए जाना है:",
+            "confidence": 0.7423689961433411,
+            "severity": "major",
+            "start": 127,
+            "end": 155
+        }
+    ],
+    [
+        {
+            "text": "बड़े अरब दिन में खरीदा अच्छा ऑल-राउंड प्रदर्शन मोबाइल के लिए एक लंबे शोध के बाद",
+            "confidence": 0.8035513758659363,
+            "severity": "major",
+            "start": 7,
+            "end": 87
+        }
+    ],
+    [
+        {
+            "text": "अद्भुत सुविधा है",
+            "confidence": 0.7880002856254578,
+            "severity": "major",
+            "start": 4,
+            "end": 21
+        },
+        {
+            "text": "मोबाइल",
+            "confidence": 0.5121867656707764,
+            "severity": "major",
+            "start": 32,
+            "end": 39
+        },
+        {
+            "text": "है में",
+            "confidence": 0.7314028739929199,
+            "severity": "major",
+            "start": 54,
+            "end": 61
+        },
+        {
+            "text": "&",
+            "confidence": 0.6733144521713257,
+            "severity": "major",
+            "start": 73,
+            "end": 75
+        },
+        {
+            "text": "apos;",
+            "confidence": 0.5986184477806091,
+            "severity": "major",
+            "start": 76,
+            "end": 81
+        },
+        {
+            "text": "कन",
+            "confidence": 0.5796030759811401,
+            "severity": "major",
+            "start": 107,
+            "end": 109
+        },
+        {
+            "text": "िविटी",
+            "confidence": 0.5700364112854004,
+            "severity": "major",
+            "start": 113,
+            "end": 118
+        }
+    ],
+    [
+        {
+            "text": "सुविधाओं के पीछे छोड़ दिया asus कंपनी",
+            "confidence": 0.8686966300010681,
+            "severity": "major",
+            "start": 14,
+            "end": 52
+        },
+        {
+            "text": "उदाहरण applock यहाँ नहीं है",
+            "confidence": 0.7331733703613281,
+            "severity": "major",
+            "start": 53,
+            "end": 81
+        },
+        {
+            "text": "बंद",
+            "confidence": 0.5774120688438416,
+            "severity": "major",
+            "start": 102,
+            "end": 106
+        },
+        {
+            "text": "है जब उपयोग में कोई नहीं है",
+            "confidence": 0.661888837814331,
+            "severity": "major",
+            "start": 111,
+            "end": 139
+        },
+        {
+            "text": "समारोह",
+            "confidence": 0.8530351519584656,
+            "severity": "major",
+            "start": 155,
+            "end": 162
+        },
+        {
+            "text": "फोन में याद आती है",
+            "confidence": 0.8331843614578247,
+            "severity": "major",
+            "start": 168,
+            "end": 187
+        }
+    ],
+    [
+        {
+            "text": "क्या और एपोस; किसी भी मुद्दे का सामना नहीं करना पड़ता है",
+            "confidence": 0.7790326476097107,
+            "severity": "major",
+            "start": 0,
+            "end": 56
+        },
+        {
+            "text": "स्पष्ट मामला",
+            "confidence": 0.9185783863067627,
+            "severity": "major",
+            "start": 75,
+            "end": 88
+        },
+        {
+            "text": "र्ड",
+            "confidence": 0.5384244918823242,
+            "severity": "major",
+            "start": 107,
+            "end": 110
+        },
+        {
+            "text": "है क्योंकि यह और एपोस; एक गोरिल्ला ग्लास नहीं है",
+            "confidence": 0.7456574440002441,
+            "severity": "major",
+            "start": 148,
+            "end": 197
+        }
+    ],
+    [
+        {
+            "text": "एक बात है कि कमी थीम विकल्प है वहाँ नहीं है आप विषय के लिए अन्य सॉफ्टवेयर की जरूरत है",
+            "confidence": 0.8446235656738281,
+            "severity": "major",
+            "start": 0,
+            "end": 85
+        }
+    ],
+    [
+        {
+            "text": "मूल्य",
+            "confidence": 0.6046276092529297,
+            "severity": "major",
+            "start": 27,
+            "end": 33
+        },
+        {
+            "text": "और एपोस;",
+            "confidence": 0.8766115307807922,
+            "severity": "major",
+            "start": 93,
+            "end": 102
+        },
+        {
+            "text": "पबग",
+            "confidence": 0.809666097164154,
+            "severity": "major",
+            "start": 137,
+            "end": 141
+        },
+        {
+            "text": "पर बटररी चिकनी",
+            "confidence": 0.8138177394866943,
+            "severity": "major",
+            "start": 181,
+            "end": 196
+        },
+        {
+            "text": "बेहतर चलता है",
+            "confidence": 0.6815535426139832,
+            "severity": "major",
+            "start": 199,
+            "end": 213
+        },
+        {
+            "text": "करते हैं",
+            "confidence": 0.5626132488250732,
+            "severity": "major",
+            "start": 230,
+            "end": 239
+        }
+    ],
+    [
+        {
+            "text": "भयानक फोन और",
+            "confidence": 0.7609240412712097,
+            "severity": "major",
+            "start": 88,
+            "end": 101
+        },
+        {
+            "text": "अच्छा हिस्सा 5000 मह बैटरी है",
+            "confidence": 0.7992134094238281,
+            "severity": "major",
+            "start": 106,
+            "end": 136
+        }
+    ],
+    [
+        {
+            "text": "एन",
+            "confidence": 0.4075852334499359,
+            "severity": "minor",
+            "start": 16,
+            "end": 19
+        }
+    ],
+    [],
+    [
+        {
+            "text": "5000mah",
+            "confidence": 0.5927813053131104,
+            "severity": "minor",
+            "start": 0,
+            "end": 7
+        },
+        {
+            "text": "सू",
+            "confidence": 0.45104166865348816,
+            "severity": "major",
+            "start": 65,
+            "end": 68
+        },
+        {
+            "text": "asus",
+            "confidence": 0.6061320900917053,
+            "severity": "minor",
+            "start": 76,
+            "end": 81
+        }
+    ],
+    [
+        {
+            "text": "भयानक",
+            "confidence": 0.6531396508216858,
+            "severity": "major",
+            "start": 39,
+            "end": 45
+        },
+        {
+            "text": "बार",
+            "confidence": 0.8569999933242798,
+            "severity": "major",
+            "start": 88,
+            "end": 92
+        }
+    ],
+    [
+        {
+            "text": "प्रदर्शन चित्र मोड के मामले में बहुत खराब भी स्वत: नहीं है हम",
+            "confidence": 0.8197799921035767,
+            "severity": "major",
+            "start": 42,
+            "end": 104
+        },
+        {
+            "text": "मैन्युअ",
+            "confidence": 0.6109956502914429,
+            "severity": "major",
+            "start": 109,
+            "end": 116
+        },
+        {
+            "text": "समायोजित",
+            "confidence": 0.6074166297912598,
+            "severity": "major",
+            "start": 124,
+            "end": 133
+        },
+        {
+            "text": "की जरूरत है कि & apos; एक चोर है",
+            "confidence": 0.8692389726638794,
+            "severity": "major",
+            "start": 138,
+            "end": 171
+        }
+    ],
+    [
+        {
+            "text": "यह & apos; पैसे के लायक है",
+            "confidence": 0.8338346481323242,
+            "severity": "major",
+            "start": 0,
+            "end": 26
+        },
+        {
+            "text": "कैमरा एप्लिकेशन",
+            "confidence": 0.8072784543037415,
+            "severity": "major",
+            "start": 40,
+            "end": 56
+        },
+        {
+            "text": "अधिक कुशल बना दिया था",
+            "confidence": 0.7822466492652893,
+            "severity": "major",
+            "start": 59,
+            "end": 81
+        },
+        {
+            "text": "है",
+            "confidence": 0.5812111496925354,
+            "severity": "major",
+            "start": 92,
+            "end": 95
+        },
+        {
+            "text": "दोहरी कैमरा के",
+            "confidence": 0.8313860893249512,
+            "severity": "major",
+            "start": 105,
+            "end": 120
+        },
+        {
+            "text": "Asus pixelmaster स्थापित किया था तो",
+            "confidence": 0.6567093133926392,
+            "severity": "major",
+            "start": 124,
+            "end": 160
+        },
+        {
+            "text": "रे",
+            "confidence": 0.6366392970085144,
+            "severity": "major",
+            "start": 167,
+            "end": 169
+        },
+        {
+            "text": "वास्तविक शक्ति बाहर",
+            "confidence": 0.7599942088127136,
+            "severity": "major",
+            "start": 172,
+            "end": 192
+        },
+        {
+            "text": "खींच सकते हैं",
+            "confidence": 0.8522491455078125,
+            "severity": "major",
+            "start": 193,
+            "end": 206
+        }
+    ],
+    [
+        {
+            "text": "बहुत बहुत",
+            "confidence": 0.637900710105896,
+            "severity": "major",
+            "start": 13,
+            "end": 23
+        }
+    ],
+    [
+        {
+            "text": "जिनमें",
+            "confidence": 0.6498113870620728,
+            "severity": "major",
+            "start": 0,
+            "end": 6
+        },
+        {
+            "text": "मैं उल्लेख करना चाहूंगा, कोई कंपन",
+            "confidence": 0.6804233193397522,
+            "severity": "major",
+            "start": 9,
+            "end": 43
+        },
+        {
+            "text": "मूक मोड शॉर्टकट कुंजी, जो",
+            "confidence": 0.697382390499115,
+            "severity": "major",
+            "start": 46,
+            "end": 72
+        },
+        {
+            "text": "है",
+            "confidence": 0.6716467142105103,
+            "severity": "major",
+            "start": 102,
+            "end": 105
+        }
+    ],
+    [
+        {
+            "text": "बराबर",
+            "confidence": 0.6061775088310242,
+            "severity": "major",
+            "start": 28,
+            "end": 34
+        },
+        {
+            "text": "है",
+            "confidence": 0.5051661133766174,
+            "severity": "major",
+            "start": 42,
+            "end": 45
+        }
+    ],
+    [
+        {
+            "text": "बैटरी जीवन इतना अच्छा है और शरीर के डिजाइन",
+            "confidence": 0.7875534892082214,
+            "severity": "major",
+            "start": 0,
+            "end": 42
+        }
+    ],
+    [
+        {
+            "text": "की विश्वसनीयता",
+            "confidence": 0.6437792181968689,
+            "severity": "major",
+            "start": 44,
+            "end": 59
+        }
+    ],
+    [
+        {
+            "text": "दोहरी",
+            "confidence": 0.9026759266853333,
+            "severity": "major",
+            "start": 34,
+            "end": 40
+        },
+        {
+            "text": "रियर कैम भयानक से अधिक है",
+            "confidence": 0.769970715045929,
+            "severity": "major",
+            "start": 41,
+            "end": 66
+        }
+    ],
+    [
+        {
+            "text": "डॉन & एपोस; इस पहलुओं के बारे में चिंता नहीं है क्योंकि मैं & एपोस; 3 महीने के बाद से इस फोन",
+            "confidence": 0.8546526432037354,
+            "severity": "major",
+            "start": 0,
+            "end": 92
+        },
+        {
+            "text": "उपयोग कर रहा हूं लेकिन",
+            "confidence": 0.6253822445869446,
+            "severity": "major",
+            "start": 95,
+            "end": 118
+        },
+        {
+            "text": "मरम्मत के तहत नहीं मिला",
+            "confidence": 0.8161413073539734,
+            "severity": "major",
+            "start": 146,
+            "end": 170
+        }
+    ],
+    [
+        {
+            "text": "आपको धन्यवाद और समय के लिए अच्छा वितरण समय",
+            "confidence": 0.8053340911865234,
+            "severity": "major",
+            "start": 12,
+            "end": 55
+        }
+    ],
+    [
+        {
+            "text": "फोन यह अच्छा है और एपोस; एस बैटरी भयानक",
+            "confidence": 0.829676628112793,
+            "severity": "major",
+            "start": 0,
+            "end": 39
+        },
+        {
+            "text": "कैमरा",
+            "confidence": 0.5267815589904785,
+            "severity": "major",
+            "start": 45,
+            "end": 51
+        },
+        {
+            "text": "इस फोन के साथ खुश एक अच्छा प्रोसेसर",
+            "confidence": 0.6714677214622498,
+            "severity": "major",
+            "start": 60,
+            "end": 96
+        },
+        {
+            "text": "आता है अब तक इतना अच्छा",
+            "confidence": 0.6960098743438721,
+            "severity": "major",
+            "start": 103,
+            "end": 127
+        },
+        {
+            "text": "तरह के एक",
+            "confidence": 0.6550040245056152,
+            "severity": "major",
+            "start": 138,
+            "end": 148
+        }
+    ],
+    [
+        {
+            "text": "ए जाने के लिए एचवी",
+            "confidence": 0.575133204460144,
+            "severity": "major",
+            "start": 80,
+            "end": 98
+        }
+    ],
+    [
+        {
+            "text": "& apos; 6gb राम",
+            "confidence": 0.5325495004653931,
+            "severity": "major",
+            "start": 27,
+            "end": 43
+        }
+    ],
+    [
+        {
+            "text": "यह भी कुछ है लेकिन बहुत महत्वपूर्ण कमियां",
+            "confidence": 0.6180915832519531,
+            "severity": "major",
+            "start": 12,
+            "end": 54
+        }
+    ],
+    [],
+    [
+        {
+            "text": "मैं भी सबसे अच्छा में से एक कहूंगा भले ही उच्च कीमत रेंज फोन की तुलना में 20-25 के आसपास रेंज।",
+            "confidence": 0.7899645566940308,
+            "severity": "major",
+            "start": 0,
+            "end": 94
+        }
+    ],
+    [
+        {
+            "text": "और apos मिला; एस जब 3gb और 4gb संस्करण फोन के साथ तुलना में",
+            "confidence": 0.8455779552459717,
+            "severity": "major",
+            "start": 11,
+            "end": 71
+        },
+        {
+            "text": "कैमरा और apos में सबसे अच्छी गुणवत्ता; एस दोनों सामने और दुर्लभ potrait शॉट्स भयानक हैं",
+            "confidence": 0.7902777194976807,
+            "severity": "major",
+            "start": 72,
+            "end": 160
+        }
+    ],
+    [
+        {
+            "text": "की 2 संख्या डालता हूं",
+            "confidence": 0.5502506494522095,
+            "severity": "major",
+            "start": 22,
+            "end": 44
+        },
+        {
+            "text": "2-3 टाइम्स पूर्ण",
+            "confidence": 0.6304912567138672,
+            "severity": "major",
+            "start": 52,
+            "end": 69
+        },
+        {
+            "text": "चार्ज की आवश्यकता है",
+            "confidence": 0.5823162794113159,
+            "severity": "major",
+            "start": 70,
+            "end": 90
+        }
+    ],
+    [
+        {
+            "text": "परफॉर्म",
+            "confidence": 0.6440776586532593,
+            "severity": "major",
+            "start": 27,
+            "end": 35
+        }
+    ],
+    [
+        {
+            "text": "asus znfone अधिकतम प्रो m1 (ग्रे).i 13 दिनों के बाद मेरी समीक्षा",
+            "confidence": 0.7509952783584595,
+            "severity": "major",
+            "start": 0,
+            "end": 65
+        },
+        {
+            "text": "रहा हूँ",
+            "confidence": 0.6780467629432678,
+            "severity": "major",
+            "start": 69,
+            "end": 77
+        },
+        {
+            "text": "अद्भुत और दिमाग में स्मार्ट फोन उड़ाने वाला & एपोस; एस रेंज",
+            "confidence": 0.7791249752044678,
+            "severity": "major",
+            "start": 78,
+            "end": 138
+        }
+    ],
+    [
+        {
+            "text": "& amp; जीटी; कैमरा ओएमजी क्या एक कैमरा यू कर सकते हैं & एपीओएस; टी विश्वास यह वास्तव में 15000 फोन है",
+            "confidence": 0.7454996109008789,
+            "severity": "major",
+            "start": 1,
+            "end": 103
+        },
+        {
+            "text": "दोनों कैमरा सामने और पीछे शानदार",
+            "confidence": 0.6396545171737671,
+            "severity": "major",
+            "start": 104,
+            "end": 137
+        }
+    ],
+    [
+        {
+            "text": "n",
+            "confidence": 0.5199015736579895,
+            "severity": "major",
+            "start": 41,
+            "end": 43
+        },
+        {
+            "text": "करते हैं तो करीबी तस्वीरें लेती हैं, यह",
+            "confidence": 0.7680833339691162,
+            "severity": "major",
+            "start": 52,
+            "end": 92
+        },
+        {
+            "text": "उज्ज्वल",
+            "confidence": 0.7634472846984863,
+            "severity": "major",
+            "start": 104,
+            "end": 112
+        },
+        {
+            "text": "जाता है n तस्वीरें",
+            "confidence": 0.7108303308486938,
+            "severity": "major",
+            "start": 115,
+            "end": 134
+        },
+        {
+            "text": "हैं",
+            "confidence": 0.5749368071556091,
+            "severity": "major",
+            "start": 142,
+            "end": 146
+        }
+    ],
+    [],
+    [
+        {
+            "text": "रुपये के लिए - आप सब कुछ",
+            "confidence": 0.6101541519165039,
+            "severity": "major",
+            "start": 88,
+            "end": 113
+        }
+    ],
+    [
+        {
+            "text": "15k के लिए पैसे डिवाइस के लिए सबसे अच्छा मूल्य",
+            "confidence": 0.7844404578208923,
+            "severity": "major",
+            "start": 6,
+            "end": 53
+        },
+        {
+            "text": "हैं",
+            "confidence": 0.5965110659599304,
+            "severity": "major",
+            "start": 115,
+            "end": 119
+        }
+    ],
+    [
+        {
+            "text": "शिष्ट",
+            "confidence": 0.5039182901382446,
+            "severity": "major",
+            "start": 2,
+            "end": 7
+        },
+        {
+            "text": "भी",
+            "confidence": 0.5606986284255981,
+            "severity": "major",
+            "start": 18,
+            "end": 21
+        },
+        {
+            "text": "ASUS उत्पाद में मोबाइल की तरह की खरीद",
+            "confidence": 0.7250553369522095,
+            "severity": "major",
+            "start": 29,
+            "end": 67
+        }
+    ],
+    [
+        {
+            "text": "वास्तविक रंग छवि की तरह तो इसके लिए बिना किसी सं",
+            "confidence": 0.7412328720092773,
+            "severity": "major",
+            "start": 30,
+            "end": 79
+        },
+        {
+            "text": "के जाओ",
+            "confidence": 0.8195912837982178,
+            "severity": "major",
+            "start": 82,
+            "end": 89
+        },
+        {
+            "text": "सं",
+            "confidence": 0.4911709427833557,
+            "severity": "major",
+            "start": 103,
+            "end": 106
+        },
+        {
+            "text": "पर अप्र",
+            "confidence": 0.6233214139938354,
+            "severity": "major",
+            "start": 119,
+            "end": 127
+        },
+        {
+            "text": "क",
+            "confidence": 0.6246860027313232,
+            "severity": "major",
+            "start": 132,
+            "end": 133
+        },
+        {
+            "text": "संपादित करना",
+            "confidence": 0.775300145149231,
+            "severity": "major",
+            "start": 134,
+            "end": 146
+        },
+        {
+            "text": "दोस्तों",
+            "confidence": 0.7327299118041992,
+            "severity": "major",
+            "start": 163,
+            "end": 171
+        }
+    ],
+    [
+        {
+            "text": "अगर मुद्दा तय हो गया है यह & apos; कीमत और हुड के तहत चश्मा पर विचार पैसे स्मार्ट फोन के लिए सबसे अच्छा मूल्य है",
+            "confidence": 0.7909498810768127,
+            "severity": "major",
+            "start": 0,
+            "end": 112
+        }
+    ],
+    [
+        {
+            "text": "नहीं कर सकते सक्षम LTE",
+            "confidence": 0.7327626347541809,
+            "severity": "major",
+            "start": 14,
+            "end": 37
+        },
+        {
+            "text": "ी नाली 4 घंटे समय पर scren",
+            "confidence": 0.646286129951477,
+            "severity": "major",
+            "start": 43,
+            "end": 69
+        }
+    ],
+    [
+        {
+            "text": "कैमरा",
+            "confidence": 0.5273593068122864,
+            "severity": "major",
+            "start": 2,
+            "end": 8
+        },
+        {
+            "text": "समर्थन के",
+            "confidence": 0.7112643718719482,
+            "severity": "major",
+            "start": 25,
+            "end": 35
+        },
+        {
+            "text": "सबसे अच्छे रूप में",
+            "confidence": 0.6871109008789062,
+            "severity": "major",
+            "start": 44,
+            "end": 63
+        }
+    ],
+    [
+        {
+            "text": "प करने के लिए",
+            "confidence": 0.7254921197891235,
+            "severity": "major",
+            "start": 20,
+            "end": 33
+        },
+        {
+            "text": "कर रहा",
+            "confidence": 0.5257991552352905,
+            "severity": "major",
+            "start": 49,
+            "end": 56
+        },
+        {
+            "text": "नहीं करता & apos; टी काम",
+            "confidence": 0.7328059673309326,
+            "severity": "major",
+            "start": 96,
+            "end": 121
+        }
+    ],
+    [
+        {
+            "text": "में बैटरी भयानक कैमरा बहुत बुरा सुधार होना चाहिए है",
+            "confidence": 0.8312304615974426,
+            "severity": "major",
+            "start": 8,
+            "end": 60
+        }
+    ],
+    [
+        {
+            "text": "प्रतिस्थापन के",
+            "confidence": 0.6343084573745728,
+            "severity": "major",
+            "start": 2,
+            "end": 17
+        },
+        {
+            "text": "बुलाया गया, खा",
+            "confidence": 0.6063189506530762,
+            "severity": "major",
+            "start": 35,
+            "end": 50
+        },
+        {
+            "text": "गया",
+            "confidence": 0.5980314016342163,
+            "severity": "major",
+            "start": 61,
+            "end": 65
+        }
+    ],
+    [
+        {
+            "text": "इस में केवल बड़ा चोर बैटरी जल निकासी 15 दिनों का उपयोग करने के बाद तेजी से होता है और यहां तक कि 5000mah बड़े पैमाने पर बैटरी उस का प्रबंधन करने में विफल रहता है। इसके बारे में सोचने के बिना इसके लिए खरीदना चाहिए",
+            "confidence": 0.8481637239456177,
+            "severity": "major",
+            "start": 0,
+            "end": 212
+        }
+    ],
+    [],
+    [
+        {
+            "text": "टोरियल इसके बारे में & एपोस; एस ग्लास देखने के",
+            "confidence": 0.8104365468025208,
+            "severity": "major",
+            "start": 20,
+            "end": 66
+        },
+        {
+            "text": "सिर्फ टूट जाता है",
+            "confidence": 0.7346652746200562,
+            "severity": "major",
+            "start": 89,
+            "end": 107
+        }
+    ],
+    [
+        {
+            "text": "2",
+            "confidence": 0.6707577705383301,
+            "severity": "major",
+            "start": 9,
+            "end": 11
+        },
+        {
+            "text": "इस फोन मिलाnd",
+            "confidence": 0.8352639079093933,
+            "severity": "major",
+            "start": 14,
+            "end": 28
+        },
+        {
+            "text": "कर रहा था, के बारे में फोन का उपयोग करने के बाद समीक्षा 2 महीने",
+            "confidence": 0.776984691619873,
+            "severity": "major",
+            "start": 84,
+            "end": 148
+        }
+    ],
+    [
+        {
+            "text": "मोबाइल यू इसके लिए जाना चाहिए Asus zenfone अधिकतम प्रो m",
+            "confidence": 0.7935031652450562,
+            "severity": "major",
+            "start": 5,
+            "end": 62
+        },
+        {
+            "text": "जीबी",
+            "confidence": 0.5703299045562744,
+            "severity": "major",
+            "start": 65,
+            "end": 70
+        },
+        {
+            "text": "रै",
+            "confidence": 0.5902531147003174,
+            "severity": "major",
+            "start": 71,
+            "end": 73
+        },
+        {
+            "text": "5",
+            "confidence": 0.5323285460472107,
+            "severity": "major",
+            "start": 89,
+            "end": 91
+        },
+        {
+            "text": "को",
+            "confidence": 0.6268268823623657,
+            "severity": "major",
+            "start": 95,
+            "end": 98
+        },
+        {
+            "text": "रेट करूंगा",
+            "confidence": 0.6629422307014465,
+            "severity": "major",
+            "start": 99,
+            "end": 109
+        },
+        {
+            "text": "और एपोस; सभी दोनों कैमरे",
+            "confidence": 0.7286446690559387,
+            "severity": "major",
+            "start": 120,
+            "end": 145
+        },
+        {
+            "text": "लिए अच्छा है",
+            "confidence": 0.6592147946357727,
+            "severity": "major",
+            "start": 148,
+            "end": 161
+        },
+        {
+            "text": "प्रदर्शन एनडी बैटरी सभी",
+            "confidence": 0.7404645085334778,
+            "severity": "major",
+            "start": 162,
+            "end": 186
+        },
+        {
+            "text": "अच्छा है",
+            "confidence": 0.6034351587295532,
+            "severity": "major",
+            "start": 197,
+            "end": 206
+        }
+    ],
+    [
+        {
+            "text": "गर्म है",
+            "confidence": 0.707061767578125,
+            "severity": "major",
+            "start": 38,
+            "end": 46
+        },
+        {
+            "text": "कर से प्यार था",
+            "confidence": 0.7332581281661987,
+            "severity": "major",
+            "start": 85,
+            "end": 99
+        },
+        {
+            "text": "कुरकुरा",
+            "confidence": 0.5764620304107666,
+            "severity": "major",
+            "start": 108,
+            "end": 116
+        }
+    ],
+    [
+        {
+            "text": "05-oct-18 पर",
+            "confidence": 0.48077917098999023,
+            "severity": "major",
+            "start": 3,
+            "end": 16
+        }
+    ],
+    [],
+    [
+        {
+            "text": "अच्छा राम प्रबंधन",
+            "confidence": 0.760028064250946,
+            "severity": "major",
+            "start": 0,
+            "end": 17
+        },
+        {
+            "text": "12k",
+            "confidence": 0.8504027128219604,
+            "severity": "major",
+            "start": 37,
+            "end": 41
+        },
+        {
+            "text": ", मनी के लिए मूल्य",
+            "confidence": 0.9143507480621338,
+            "severity": "major",
+            "start": 47,
+            "end": 65
+        }
+    ],
+    [
+        {
+            "text": "3.i कम",
+            "confidence": 0.7127770185470581,
+            "severity": "major",
+            "start": 0,
+            "end": 6
+        },
+        {
+            "text": "औसत और भारी उपयोग की कोशिश की: सभी हालत बैटरी में 36 बजे बेंचमार्क",
+            "confidence": 0.786368727684021,
+            "severity": "major",
+            "start": 7,
+            "end": 74
+        },
+        {
+            "text": "4 जी",
+            "confidence": 0.510025143623352,
+            "severity": "major",
+            "start": 83,
+            "end": 88
+        },
+        {
+            "text": "पार कर गया",
+            "confidence": 0.7476454973220825,
+            "severity": "major",
+            "start": 92,
+            "end": 103
+        }
+    ],
+    [
+        {
+            "text": "बार",
+            "confidence": 0.5102027058601379,
+            "severity": "major",
+            "start": 46,
+            "end": 50
+        }
+    ],
+    [
+        {
+            "text": "asus zenfone अधिकतम प्रो m1 के प्रदर्शन से बहुत खुश।",
+            "confidence": 0.8153041005134583,
+            "severity": "major",
+            "start": 0,
+            "end": 52
+        }
+    ]
+]

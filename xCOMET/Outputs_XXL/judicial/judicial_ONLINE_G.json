@@ -1,0 +1,3314 @@
+[
+    [],
+    [
+        {
+            "text": "अवलोकन",
+            "confidence": 0.6105555891990662,
+            "severity": "major",
+            "start": 9,
+            "end": 16
+        }
+    ],
+    [
+        {
+            "text": "और प्रभाव",
+            "confidence": 0.781684160232544,
+            "severity": "major",
+            "start": 61,
+            "end": 71
+        }
+    ],
+    [
+        {
+            "text": "इस तरह के आदेश जारी किए गए-",
+            "confidence": 0.8119447231292725,
+            "severity": "critical",
+            "start": 0,
+            "end": 27
+        }
+    ],
+    [
+        {
+            "text": "खिलाफ सख्ती से",
+            "confidence": 0.47207093238830566,
+            "severity": "critical",
+            "start": 99,
+            "end": 114
+        },
+        {
+            "text": "ंगी",
+            "confidence": 0.4441992938518524,
+            "severity": "major",
+            "start": 121,
+            "end": 124
+        }
+    ],
+    [
+        {
+            "text": "साथ आगे",
+            "confidence": 0.6461692452430725,
+            "severity": "major",
+            "start": 19,
+            "end": 27
+        },
+        {
+            "text": "पाठ्यक्रम में",
+            "confidence": 0.80450439453125,
+            "severity": "major",
+            "start": 43,
+            "end": 57
+        }
+    ],
+    [
+        {
+            "text": "कमीशन",
+            "confidence": 0.5321674346923828,
+            "severity": "critical",
+            "start": 114,
+            "end": 120
+        }
+    ],
+    [],
+    [
+        {
+            "text": "उन्होंने प्रस्तुत किया",
+            "confidence": 0.6705293655395508,
+            "severity": "major",
+            "start": 0,
+            "end": 22
+        },
+        {
+            "text": "कथित शिकायत",
+            "confidence": 0.6958960294723511,
+            "severity": "major",
+            "start": 25,
+            "end": 37
+        },
+        {
+            "text": "त्मक है",
+            "confidence": 0.5880082845687866,
+            "severity": "major",
+            "start": 48,
+            "end": 55
+        },
+        {
+            "text": "इसे पैरा-आई-मकसद के साथ स्थापित",
+            "confidence": 0.7772201299667358,
+            "severity": "major",
+            "start": 58,
+            "end": 90
+        },
+        {
+            "text": "गया",
+            "confidence": 0.4860178828239441,
+            "severity": "major",
+            "start": 95,
+            "end": 99
+        }
+    ],
+    [
+        {
+            "text": "वृत्ति",
+            "confidence": 0.6133220195770264,
+            "severity": "major",
+            "start": 0,
+            "end": 6
+        },
+        {
+            "text": "लिए",
+            "confidence": 0.5845378637313843,
+            "severity": "major",
+            "start": 9,
+            "end": 13
+        }
+    ],
+    [
+        {
+            "text": "02 की देरी से हुई है । 03. 2012 जिसके",
+            "confidence": 0.605603039264679,
+            "severity": "major",
+            "start": 44,
+            "end": 84
+        },
+        {
+            "text": "शिकायत",
+            "confidence": 0.48746612668037415,
+            "severity": "major",
+            "start": 88,
+            "end": 95
+        }
+    ],
+    [],
+    [
+        {
+            "text": "होती",
+            "confidence": 0.41741782426834106,
+            "severity": "major",
+            "start": 53,
+            "end": 58
+        },
+        {
+            "text": "प्रतिवादी नहीं । सत्त्व अधिकार अन्याय",
+            "confidence": 0.6775501370429993,
+            "severity": "critical",
+            "start": 65,
+            "end": 104
+        }
+    ],
+    [
+        {
+            "text": "बिं",
+            "confidence": 0.4838363528251648,
+            "severity": "major",
+            "start": 13,
+            "end": 17
+        }
+    ],
+    [
+        {
+            "text": "छोटी 'प्राथमिकी' के लिए",
+            "confidence": 0.6112066507339478,
+            "severity": "critical",
+            "start": 46,
+            "end": 70
+        }
+    ],
+    [
+        {
+            "text": "निपटा",
+            "confidence": 0.5489886999130249,
+            "severity": "major",
+            "start": 199,
+            "end": 205
+        }
+    ],
+    [],
+    [
+        {
+            "text": "जाती",
+            "confidence": 0.4952661991119385,
+            "severity": "major",
+            "start": 39,
+            "end": 44
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "लॉग",
+            "confidence": 0.6213139295578003,
+            "severity": "major",
+            "start": 35,
+            "end": 39
+        }
+    ],
+    [
+        {
+            "text": "में",
+            "confidence": 0.7301459312438965,
+            "severity": "major",
+            "start": 40,
+            "end": 44
+        },
+        {
+            "text": "री हुई 02 / 03 / 2012 जिसके लिए शिकायत",
+            "confidence": 0.7829052805900574,
+            "severity": "major",
+            "start": 47,
+            "end": 85
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "होती",
+            "confidence": 0.5648990273475647,
+            "severity": "major",
+            "start": 35,
+            "end": 40
+        },
+        {
+            "text": "किया जाता",
+            "confidence": 0.5367534160614014,
+            "severity": "major",
+            "start": 79,
+            "end": 89
+        }
+    ],
+    [
+        {
+            "text": "163 के एलपीए नंबर 2006 में लिए गए दृष्टिकोण के कारण, हम पाते हैं कि डिवीजन बेंच",
+            "confidence": 0.7731987833976746,
+            "severity": "major",
+            "start": 9,
+            "end": 89
+        },
+        {
+            "text": "आदेश वारंट नहीं है",
+            "confidence": 0.7727046012878418,
+            "severity": "major",
+            "start": 92,
+            "end": 111
+        }
+    ],
+    [],
+    [
+        {
+            "text": "लगा",
+            "confidence": 0.6308299899101257,
+            "severity": "major",
+            "start": 54,
+            "end": 58
+        }
+    ],
+    [
+        {
+            "text": "तरीके",
+            "confidence": 0.6448111534118652,
+            "severity": "major",
+            "start": 24,
+            "end": 30
+        },
+        {
+            "text": "निष्",
+            "confidence": 0.6110436916351318,
+            "severity": "major",
+            "start": 73,
+            "end": 78
+        },
+        {
+            "text": "ित करने के",
+            "confidence": 0.567321240901947,
+            "severity": "major",
+            "start": 81,
+            "end": 91
+        }
+    ],
+    [],
+    [
+        {
+            "text": "हैं",
+            "confidence": 0.5382620692253113,
+            "severity": "major",
+            "start": 10,
+            "end": 14
+        },
+        {
+            "text": "ठोस",
+            "confidence": 0.758560299873352,
+            "severity": "major",
+            "start": 35,
+            "end": 39
+        },
+        {
+            "text": "चित्य",
+            "confidence": 0.5377609729766846,
+            "severity": "major",
+            "start": 61,
+            "end": 66
+        },
+        {
+            "text": "हैं जिनके लिए",
+            "confidence": 0.6295102834701538,
+            "severity": "major",
+            "start": 75,
+            "end": 89
+        },
+        {
+            "text": "फैसले",
+            "confidence": 0.597885251045227,
+            "severity": "major",
+            "start": 95,
+            "end": 101
+        },
+        {
+            "text": "समान शक्तियों",
+            "confidence": 0.6252672672271729,
+            "severity": "major",
+            "start": 104,
+            "end": 118
+        },
+        {
+            "text": "पीठ को बांधने की आवश्यकता है",
+            "confidence": 0.6493077874183655,
+            "severity": "major",
+            "start": 124,
+            "end": 153
+        }
+    ],
+    [
+        {
+            "text": "तरह",
+            "confidence": 0.4098173677921295,
+            "severity": "major",
+            "start": 34,
+            "end": 38
+        }
+    ],
+    [],
+    [
+        {
+            "text": "निष्कर्ष की ओर ले जाने के लिए लगाए गए आदेश",
+            "confidence": 0.5797557830810547,
+            "severity": "major",
+            "start": 21,
+            "end": 64
+        }
+    ],
+    [
+        {
+            "text": "उत्",
+            "confidence": 0.5976434350013733,
+            "severity": "major",
+            "start": 107,
+            "end": 110
+        },
+        {
+            "text": "न",
+            "confidence": 0.5442479848861694,
+            "severity": "major",
+            "start": 113,
+            "end": 114
+        }
+    ],
+    [
+        {
+            "text": "पैकेट",
+            "confidence": 0.7258768081665039,
+            "severity": "major",
+            "start": 43,
+            "end": 49
+        },
+        {
+            "text": "सील",
+            "confidence": 0.7253206968307495,
+            "severity": "major",
+            "start": 60,
+            "end": 64
+        }
+    ],
+    [],
+    [
+        {
+            "text": "दिया गया",
+            "confidence": 0.39862433075904846,
+            "severity": "major",
+            "start": 57,
+            "end": 66
+        }
+    ],
+    [],
+    [
+        {
+            "text": "शिकायत",
+            "confidence": 0.6103618144989014,
+            "severity": "major",
+            "start": 21,
+            "end": 28
+        },
+        {
+            "text": "विपरीत पार्टी",
+            "confidence": 0.7243866324424744,
+            "severity": "major",
+            "start": 31,
+            "end": 45
+        },
+        {
+            "text": "स्थापित किया",
+            "confidence": 0.6725178956985474,
+            "severity": "major",
+            "start": 69,
+            "end": 82
+        }
+    ],
+    [
+        {
+            "text": "उचित",
+            "confidence": 0.4300950765609741,
+            "severity": "critical",
+            "start": 53,
+            "end": 58
+        }
+    ],
+    [
+        {
+            "text": "आरोप",
+            "confidence": 0.48442748188972473,
+            "severity": "major",
+            "start": 0,
+            "end": 4
+        },
+        {
+            "text": "श्रेय",
+            "confidence": 0.5691993832588196,
+            "severity": "major",
+            "start": 17,
+            "end": 23
+        }
+    ],
+    [
+        {
+            "text": "िट",
+            "confidence": 0.6537497043609619,
+            "severity": "major",
+            "start": 19,
+            "end": 21
+        },
+        {
+            "text": "कोई योग्यता",
+            "confidence": 0.6554014682769775,
+            "severity": "major",
+            "start": 31,
+            "end": 43
+        }
+    ],
+    [
+        {
+            "text": "दो आधारों पर सीखे गए वकील ने",
+            "confidence": 0.7699057459831238,
+            "severity": "major",
+            "start": 20,
+            "end": 49
+        },
+        {
+            "text": "बुरा",
+            "confidence": 0.7238492965698242,
+            "severity": "major",
+            "start": 66,
+            "end": 71
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "बि",
+            "confidence": 0.5017512440681458,
+            "severity": "major",
+            "start": 30,
+            "end": 33
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "आयोजित",
+            "confidence": 0.4589534401893616,
+            "severity": "major",
+            "start": 12,
+            "end": 19
+        },
+        {
+            "text": "गया था",
+            "confidence": 0.45274144411087036,
+            "severity": "major",
+            "start": 24,
+            "end": 31
+        },
+        {
+            "text": "करुणा के लिए",
+            "confidence": 0.6976966857910156,
+            "severity": "major",
+            "start": 38,
+            "end": 51
+        },
+        {
+            "text": "ांत इतने तैयार किए जा",
+            "confidence": 0.5129740834236145,
+            "severity": "major",
+            "start": 80,
+            "end": 101
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "है",
+            "confidence": 0.467915803194046,
+            "severity": "major",
+            "start": 54,
+            "end": 57
+        },
+        {
+            "text": "इसे इस तथ्य पर ले जाकर कि",
+            "confidence": 0.7328153848648071,
+            "severity": "major",
+            "start": 58,
+            "end": 84
+        }
+    ],
+    [
+        {
+            "text": "इसलिए",
+            "confidence": 0.6673904061317444,
+            "severity": "major",
+            "start": 0,
+            "end": 5
+        },
+        {
+            "text": "यह इस प्रकार है",
+            "confidence": 0.6969138383865356,
+            "severity": "major",
+            "start": 6,
+            "end": 22
+        },
+        {
+            "text": "देह में है",
+            "confidence": 0.5360746383666992,
+            "severity": "major",
+            "start": 64,
+            "end": 74
+        }
+    ],
+    [
+        {
+            "text": "रिट रखरखाव योग्य",
+            "confidence": 0.5205423831939697,
+            "severity": "major",
+            "start": 20,
+            "end": 37
+        }
+    ],
+    [],
+    [
+        {
+            "text": "यह कहकर प्रेतवाधित थे",
+            "confidence": 0.6646611094474792,
+            "severity": "critical",
+            "start": 2,
+            "end": 24
+        }
+    ],
+    [],
+    [
+        {
+            "text": "डिवी",
+            "confidence": 0.5586085319519043,
+            "severity": "major",
+            "start": 86,
+            "end": 91
+        }
+    ],
+    [
+        {
+            "text": "आवेदन",
+            "confidence": 0.6182483434677124,
+            "severity": "major",
+            "start": 11,
+            "end": 17
+        },
+        {
+            "text": "लेख",
+            "confidence": 0.6231246590614319,
+            "severity": "major",
+            "start": 26,
+            "end": 30
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "री",
+            "confidence": 0.395336776971817,
+            "severity": "minor",
+            "start": 2,
+            "end": 4
+        },
+        {
+            "text": "अन्य ।",
+            "confidence": 0.47910207509994507,
+            "severity": "major",
+            "start": 16,
+            "end": 23
+        },
+        {
+            "text": "है",
+            "confidence": 0.5392935872077942,
+            "severity": "major",
+            "start": 144,
+            "end": 147
+        },
+        {
+            "text": "रिट कब होगी",
+            "confidence": 0.687227189540863,
+            "severity": "major",
+            "start": 161,
+            "end": 173
+        }
+    ],
+    [],
+    [
+        {
+            "text": "के लिए सभ्य समाज की कोई आवश्यकता नहीं है",
+            "confidence": 0.7051092386245728,
+            "severity": "major",
+            "start": 35,
+            "end": 76
+        }
+    ],
+    [
+        {
+            "text": "बनाम बिहार राज्य और ओआरएस । Cri.J.No. 692 की 2015. 23 फरवरी, 2017 को निर्णय लिया गया ।",
+            "confidence": 0.8626441359519958,
+            "severity": "critical",
+            "start": 0,
+            "end": 88
+        }
+    ],
+    [
+        {
+            "text": "व्यापक रूप",
+            "confidence": 0.5856785774230957,
+            "severity": "major",
+            "start": 2,
+            "end": 13
+        },
+        {
+            "text": "आम तौर",
+            "confidence": 0.6356146335601807,
+            "severity": "major",
+            "start": 19,
+            "end": 26
+        },
+        {
+            "text": "अपीलार्थी",
+            "confidence": 0.6198111772537231,
+            "severity": "major",
+            "start": 29,
+            "end": 39
+        },
+        {
+            "text": "लिए विद्वान वकील द्वारा उन्नत प्रस्तुतियाँ के साथ",
+            "confidence": 0.7003220319747925,
+            "severity": "major",
+            "start": 42,
+            "end": 92
+        }
+    ],
+    [],
+    [
+        {
+            "text": "रिट आवेदन की अनुमति है",
+            "confidence": 0.7510883212089539,
+            "severity": "major",
+            "start": 47,
+            "end": 70
+        }
+    ],
+    [
+        {
+            "text": "विचार",
+            "confidence": 0.7596995830535889,
+            "severity": "major",
+            "start": 13,
+            "end": 19
+        },
+        {
+            "text": "लिए",
+            "confidence": 0.6037640571594238,
+            "severity": "major",
+            "start": 22,
+            "end": 26
+        },
+        {
+            "text": "प्रश्न उठता है",
+            "confidence": 0.5309313535690308,
+            "severity": "major",
+            "start": 40,
+            "end": 55
+        },
+        {
+            "text": "अधिनियम, 3 की धारा 4",
+            "confidence": 0.5227131247520447,
+            "severity": "major",
+            "start": 73,
+            "end": 94
+        },
+        {
+            "text": "1988 के तहत बनाया गया निषेध",
+            "confidence": 0.5443418025970459,
+            "severity": "major",
+            "start": 97,
+            "end": 125
+        },
+        {
+            "text": "पूर्वव्यापी कार्रवाई द्वारा लागू होगा",
+            "confidence": 0.6566566824913025,
+            "severity": "major",
+            "start": 143,
+            "end": 181
+        }
+    ],
+    [
+        {
+            "text": "सजा और सजा का फैसला अलग रखा गया है",
+            "confidence": 0.4791809618473053,
+            "severity": "critical",
+            "start": 30,
+            "end": 65
+        }
+    ],
+    [],
+    [
+        {
+            "text": "नमूने",
+            "confidence": 0.7834355235099792,
+            "severity": "major",
+            "start": 113,
+            "end": 119
+        },
+        {
+            "text": "सुरक्षित हिरासत",
+            "confidence": 0.6856628656387329,
+            "severity": "major",
+            "start": 164,
+            "end": 180
+        }
+    ],
+    [],
+    [
+        {
+            "text": "स्पष्ट ",
+            "confidence": 0.6029802560806274,
+            "severity": "critical",
+            "start": 51,
+            "end": 59
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "बनाम बिहार राज्य",
+            "confidence": 0.5967804193496704,
+            "severity": "critical",
+            "start": 0,
+            "end": 16
+        },
+        {
+            "text": "राधिक अपील (जे ) सं",
+            "confidence": 0.5999340415000916,
+            "severity": "critical",
+            "start": 19,
+            "end": 38
+        },
+        {
+            "text": ". 97 की 2015",
+            "confidence": 0.8349395990371704,
+            "severity": "critical",
+            "start": 39,
+            "end": 51
+        },
+        {
+            "text": ". 14",
+            "confidence": 0.5837411880493164,
+            "severity": "critical",
+            "start": 52,
+            "end": 56
+        },
+        {
+            "text": ", 2017 को निर्णय लिया गया",
+            "confidence": 0.6797370314598083,
+            "severity": "critical",
+            "start": 63,
+            "end": 88
+        }
+    ],
+    [
+        {
+            "text": "जियान नंबर",
+            "confidence": 0.6800979375839233,
+            "severity": "major",
+            "start": 26,
+            "end": 37
+        },
+        {
+            "text": "में सीखा न्यायिक मजिस्ट्रेट",
+            "confidence": 0.6558326482772827,
+            "severity": "major",
+            "start": 41,
+            "end": 69
+        },
+        {
+            "text": "पारित 2012 के आदेश",
+            "confidence": 0.6648741960525513,
+            "severity": "major",
+            "start": 95,
+            "end": 114
+        }
+    ],
+    [
+        {
+            "text": "गुण",
+            "confidence": 0.6577911972999573,
+            "severity": "major",
+            "start": 28,
+            "end": 32
+        }
+    ],
+    [
+        {
+            "text": "आदेश 2010 को",
+            "confidence": 0.712027907371521,
+            "severity": "major",
+            "start": 73,
+            "end": 86
+        },
+        {
+            "text": "अनुमति दी",
+            "confidence": 0.6368895769119263,
+            "severity": "major",
+            "start": 148,
+            "end": 158
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "आरोप के साथ",
+            "confidence": 0.5629457235336304,
+            "severity": "major",
+            "start": 51,
+            "end": 63
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "एक कारण एक क्वेरी और एक आदेश के बाद दिए जाने का अवसर होना चाहिए",
+            "confidence": 0.6928955316543579,
+            "severity": "major",
+            "start": 0,
+            "end": 63
+        }
+    ],
+    [],
+    [
+        {
+            "text": "सह-अधिकार क्षेत्र",
+            "confidence": 0.8283057808876038,
+            "severity": "major",
+            "start": 3,
+            "end": 21
+        },
+        {
+            "text": "लिए खुद को समझाने",
+            "confidence": 0.5169448256492615,
+            "severity": "major",
+            "start": 67,
+            "end": 85
+        },
+        {
+            "text": "असम",
+            "confidence": 0.43636515736579895,
+            "severity": "major",
+            "start": 89,
+            "end": 93
+        }
+    ],
+    [
+        {
+            "text": "बाधा नहीं है",
+            "confidence": 0.5824496746063232,
+            "severity": "major",
+            "start": 86,
+            "end": 99
+        },
+        {
+            "text": "नीचे चला जाता है",
+            "confidence": 0.8245882391929626,
+            "severity": "major",
+            "start": 139,
+            "end": 156
+        }
+    ],
+    [],
+    [
+        {
+            "text": "और",
+            "confidence": 0.5902055501937866,
+            "severity": "major",
+            "start": 66,
+            "end": 69
+        }
+    ],
+    [
+        {
+            "text": "रिट",
+            "confidence": 0.7446267604827881,
+            "severity": "major",
+            "start": 93,
+            "end": 97
+        }
+    ],
+    [],
+    [
+        {
+            "text": "था",
+            "confidence": 0.4791625142097473,
+            "severity": "major",
+            "start": 89,
+            "end": 92
+        },
+        {
+            "text": "&उद्धरण",
+            "confidence": 0.5318074822425842,
+            "severity": "major",
+            "start": 95,
+            "end": 103
+        }
+    ],
+    [],
+    [
+        {
+            "text": "सामग्री",
+            "confidence": 0.5979467630386353,
+            "severity": "major",
+            "start": 123,
+            "end": 131
+        }
+    ],
+    [
+        {
+            "text": "दायरे",
+            "confidence": 0.46817833185195923,
+            "severity": "major",
+            "start": 28,
+            "end": 34
+        },
+        {
+            "text": "\"",
+            "confidence": 0.5417376756668091,
+            "severity": "major",
+            "start": 44,
+            "end": 45
+        },
+        {
+            "text": "। एक रिट एक कार्रवाई की कमान जो विशेष",
+            "confidence": 0.5476513504981995,
+            "severity": "major",
+            "start": 49,
+            "end": 87
+        },
+        {
+            "text": "से कानून",
+            "confidence": 0.4704246520996094,
+            "severity": "major",
+            "start": 91,
+            "end": 100
+        },
+        {
+            "text": "विश्वास",
+            "confidence": 0.5805929899215698,
+            "severity": "major",
+            "start": 111,
+            "end": 119
+        },
+        {
+            "text": "बनाती",
+            "confidence": 0.4055657982826233,
+            "severity": "major",
+            "start": 177,
+            "end": 183
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "दृष्टिकोण में",
+            "confidence": 0.6342182755470276,
+            "severity": "major",
+            "start": 14,
+            "end": 28
+        }
+    ],
+    [
+        {
+            "text": "पूर्वव्यापी के खिलाफ अनुमान से बाहर निकलता है",
+            "confidence": 0.7781781554222107,
+            "severity": "major",
+            "start": 22,
+            "end": 68
+        },
+        {
+            "text": "की आवश्यकता",
+            "confidence": 0.538346529006958,
+            "severity": "major",
+            "start": 153,
+            "end": 165
+        },
+        {
+            "text": "है",
+            "confidence": 0.5252466201782227,
+            "severity": "major",
+            "start": 170,
+            "end": 173
+        },
+        {
+            "text": "थीं",
+            "confidence": 0.6237595677375793,
+            "severity": "major",
+            "start": 204,
+            "end": 208
+        }
+    ],
+    [],
+    [
+        {
+            "text": "बनाया",
+            "confidence": 0.5113573670387268,
+            "severity": "major",
+            "start": 39,
+            "end": 45
+        }
+    ],
+    [
+        {
+            "text": "रेलवे गिटमैन है",
+            "confidence": 0.7655494809150696,
+            "severity": "major",
+            "start": 13,
+            "end": 29
+        },
+        {
+            "text": "वसूली",
+            "confidence": 0.5276212692260742,
+            "severity": "major",
+            "start": 35,
+            "end": 41
+        },
+        {
+            "text": "पर अपदस्थ",
+            "confidence": 0.6423089504241943,
+            "severity": "major",
+            "start": 49,
+            "end": 59
+        },
+        {
+            "text": "किया है",
+            "confidence": 0.4574918746948242,
+            "severity": "major",
+            "start": 64,
+            "end": 72
+        },
+        {
+            "text": "स",
+            "confidence": 0.4956258237361908,
+            "severity": "major",
+            "start": 85,
+            "end": 87
+        },
+        {
+            "text": "त वसूली के बिंदु पर व्यर्थ",
+            "confidence": 0.7094050645828247,
+            "severity": "major",
+            "start": 89,
+            "end": 115
+        },
+        {
+            "text": "हैं",
+            "confidence": 0.5712718963623047,
+            "severity": "major",
+            "start": 124,
+            "end": 128
+        }
+    ],
+    [
+        {
+            "text": "बेनामी के बेनामी लेनदेन का प्रश्न",
+            "confidence": 0.7804197072982788,
+            "severity": "major",
+            "start": 6,
+            "end": 40
+        },
+        {
+            "text": "एक प्रत्यक्ष स्वामी",
+            "confidence": 0.5765355229377747,
+            "severity": "major",
+            "start": 45,
+            "end": 65
+        },
+        {
+            "text": "में",
+            "confidence": 0.516531765460968,
+            "severity": "major",
+            "start": 77,
+            "end": 81
+        },
+        {
+            "text": "से किया जा सकता है",
+            "confidence": 0.5952336192131042,
+            "severity": "major",
+            "start": 89,
+            "end": 108
+        }
+    ],
+    [
+        {
+            "text": "ाधिकार",
+            "confidence": 0.6896395087242126,
+            "severity": "major",
+            "start": 15,
+            "end": 21
+        },
+        {
+            "text": "कार्यवाही",
+            "confidence": 0.7190274000167847,
+            "severity": "major",
+            "start": 44,
+            "end": 54
+        }
+    ],
+    [
+        {
+            "text": ", स्वतंत्र और जोड़ा गया है,",
+            "confidence": 0.799487829208374,
+            "severity": "major",
+            "start": 38,
+            "end": 65
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "पारस",
+            "confidence": 0.6186307072639465,
+            "severity": "major",
+            "start": 9,
+            "end": 14
+        },
+        {
+            "text": "\"",
+            "confidence": 0.5712330341339111,
+            "severity": "major",
+            "start": 58,
+            "end": 60
+        }
+    ],
+    [
+        {
+            "text": "डी",
+            "confidence": 0.6314274072647095,
+            "severity": "major",
+            "start": 92,
+            "end": 94
+        },
+        {
+            "text": "जी",
+            "confidence": 0.511206865310669,
+            "severity": "major",
+            "start": 95,
+            "end": 98
+        },
+        {
+            "text": "सी",
+            "confidence": 0.4800950884819031,
+            "severity": "major",
+            "start": 99,
+            "end": 102
+        }
+    ],
+    [
+        {
+            "text": "अलग किया जाता है",
+            "confidence": 0.6741164326667786,
+            "severity": "major",
+            "start": 76,
+            "end": 93
+        }
+    ],
+    [
+        {
+            "text": "पी",
+            "confidence": 0.5082727074623108,
+            "severity": "major",
+            "start": 54,
+            "end": 57
+        },
+        {
+            "text": "वसूली के तथ्य",
+            "confidence": 0.5781570672988892,
+            "severity": "major",
+            "start": 74,
+            "end": 88
+        },
+        {
+            "text": "जिस पर",
+            "confidence": 0.6025838255882263,
+            "severity": "major",
+            "start": 112,
+            "end": 119
+        },
+        {
+            "text": "शत्रुतापूर्ण",
+            "confidence": 0.800675094127655,
+            "severity": "major",
+            "start": 126,
+            "end": 139
+        }
+    ],
+    [
+        {
+            "text": "रिट",
+            "confidence": 0.7553335428237915,
+            "severity": "major",
+            "start": 10,
+            "end": 14
+        },
+        {
+            "text": "दावा",
+            "confidence": 0.5099501609802246,
+            "severity": "major",
+            "start": 28,
+            "end": 33
+        },
+        {
+            "text": "को मंजूरी दे दी जाती है",
+            "confidence": 0.4709070920944214,
+            "severity": "major",
+            "start": 76,
+            "end": 100
+        },
+        {
+            "text": "निर्दिष्ट किया जाता है",
+            "confidence": 0.4798576533794403,
+            "severity": "major",
+            "start": 103,
+            "end": 126
+        }
+    ],
+    [
+        {
+            "text": "जुड़वां किशोर",
+            "confidence": 0.6344299912452698,
+            "severity": "major",
+            "start": 2,
+            "end": 15
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "के",
+            "confidence": 0.5552409291267395,
+            "severity": "major",
+            "start": 35,
+            "end": 38
+        }
+    ],
+    [
+        {
+            "text": "के भूखंड में",
+            "confidence": 0.5651764869689941,
+            "severity": "major",
+            "start": 28,
+            "end": 41
+        }
+    ],
+    [
+        {
+            "text": "तत्काल मामले",
+            "confidence": 0.7064080834388733,
+            "severity": "major",
+            "start": 0,
+            "end": 12
+        },
+        {
+            "text": "प्रस्तुत किए जाते हैं",
+            "confidence": 0.546273946762085,
+            "severity": "major",
+            "start": 97,
+            "end": 119
+        }
+    ],
+    [
+        {
+            "text": "और आकस्मिकता",
+            "confidence": 0.8082470297813416,
+            "severity": "major",
+            "start": 2,
+            "end": 15
+        },
+        {
+            "text": "हालांकि",
+            "confidence": 0.5518711805343628,
+            "severity": "major",
+            "start": 16,
+            "end": 24
+        },
+        {
+            "text": "मान्यता प्राप्त है, जहां भूमि धारक",
+            "confidence": 0.6162979602813721,
+            "severity": "major",
+            "start": 27,
+            "end": 62
+        },
+        {
+            "text": "देते हैं",
+            "confidence": 0.6287476420402527,
+            "severity": "major",
+            "start": 114,
+            "end": 123
+        },
+        {
+            "text": "प्रदान करते हैं",
+            "confidence": 0.7741570472717285,
+            "severity": "major",
+            "start": 199,
+            "end": 215
+        }
+    ],
+    [],
+    [
+        {
+            "text": "26-",
+            "confidence": 0.5118247270584106,
+            "severity": "major",
+            "start": 0,
+            "end": 3
+        },
+        {
+            "text": "आधिकारिक प्रस्ताव से",
+            "confidence": 0.7646578550338745,
+            "severity": "major",
+            "start": 11,
+            "end": 32
+        },
+        {
+            "text": "पर",
+            "confidence": 0.5326535701751709,
+            "severity": "major",
+            "start": 50,
+            "end": 53
+        },
+        {
+            "text": "देश",
+            "confidence": 0.544463038444519,
+            "severity": "major",
+            "start": 55,
+            "end": 58
+        },
+        {
+            "text": "रिट के लिए",
+            "confidence": 0.6688508987426758,
+            "severity": "major",
+            "start": 69,
+            "end": 80
+        },
+        {
+            "text": "दायित्व मौजूद",
+            "confidence": 0.5419015288352966,
+            "severity": "major",
+            "start": 105,
+            "end": 119
+        },
+        {
+            "text": "निकाय पर एक विचलन है",
+            "confidence": 0.5477970242500305,
+            "severity": "major",
+            "start": 147,
+            "end": 168
+        },
+        {
+            "text": "रिट निर्देशित",
+            "confidence": 0.5481233596801758,
+            "severity": "major",
+            "start": 180,
+            "end": 194
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "रयोट",
+            "confidence": 0.6748498678207397,
+            "severity": "major",
+            "start": 56,
+            "end": 61
+        }
+    ],
+    [
+        {
+            "text": "लेखों",
+            "confidence": 0.6272502541542053,
+            "severity": "major",
+            "start": 4,
+            "end": 10
+        },
+        {
+            "text": "पूर्णता के लिए",
+            "confidence": 0.6445714235305786,
+            "severity": "major",
+            "start": 29,
+            "end": 44
+        }
+    ],
+    [
+        {
+            "text": "पूर्व",
+            "confidence": 0.5444028377532959,
+            "severity": "major",
+            "start": 71,
+            "end": 77
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "में निपटाया",
+            "confidence": 0.6519451141357422,
+            "severity": "major",
+            "start": 83,
+            "end": 95
+        }
+    ],
+    [
+        {
+            "text": "2 करोड़पी. सी.",
+            "confidence": 0.5452777147293091,
+            "severity": "major",
+            "start": 10,
+            "end": 25
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "िट",
+            "confidence": 0.41122227907180786,
+            "severity": "major",
+            "start": 67,
+            "end": 69
+        },
+        {
+            "text": "जमीन का अस्तित्व",
+            "confidence": 0.47044309973716736,
+            "severity": "critical",
+            "start": 93,
+            "end": 110
+        },
+        {
+            "text": "अस्तित्व में",
+            "confidence": 0.551753580570221,
+            "severity": "major",
+            "start": 118,
+            "end": 131
+        }
+    ],
+    [],
+    [
+        {
+            "text": "लगाए गए",
+            "confidence": 0.6544442176818848,
+            "severity": "critical",
+            "start": 16,
+            "end": 24
+        }
+    ],
+    [],
+    [
+        {
+            "text": "नीचे दी गई विद्वत अदालत",
+            "confidence": 0.7900916337966919,
+            "severity": "major",
+            "start": 0,
+            "end": 23
+        },
+        {
+            "text": "मामले",
+            "confidence": 0.6562861800193787,
+            "severity": "major",
+            "start": 43,
+            "end": 49
+        },
+        {
+            "text": "देन",
+            "confidence": 0.536727786064148,
+            "severity": "major",
+            "start": 93,
+            "end": 96
+        },
+        {
+            "text": "याचिका को प्रभावित करने के लिए कार्यवाही के तहत",
+            "confidence": 0.677609384059906,
+            "severity": "major",
+            "start": 99,
+            "end": 147
+        }
+    ],
+    [
+        {
+            "text": "उसी तरह से रहता है",
+            "confidence": 0.8105533719062805,
+            "severity": "major",
+            "start": 27,
+            "end": 46
+        },
+        {
+            "text": "सेवा की जा",
+            "confidence": 0.7187425494194031,
+            "severity": "major",
+            "start": 70,
+            "end": 81
+        }
+    ],
+    [
+        {
+            "text": "से",
+            "confidence": 0.6973872184753418,
+            "severity": "major",
+            "start": 18,
+            "end": 21
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "- याचिकाकर्ता और राज्य के लिए सीखा वकील सुना",
+            "confidence": 0.9088900685310364,
+            "severity": "critical",
+            "start": 0,
+            "end": 44
+        },
+        {
+            "text": ".",
+            "confidence": 0.8326699733734131,
+            "severity": "critical",
+            "start": 45,
+            "end": 46
+        }
+    ],
+    [
+        {
+            "text": "अधिवक्ता, श्री. मुखबिर, भेजें या प्रीचर, अध्याय जनरलों, मार्च । करारीगर और राज्य के लिए सीखा वकील ।",
+            "confidence": 0.9321890473365784,
+            "severity": "critical",
+            "start": 0,
+            "end": 103
+        }
+    ],
+    [
+        {
+            "text": "माननीय और एपीओ;बीएलई",
+            "confidence": 0.7064793705940247,
+            "severity": "major",
+            "start": 0,
+            "end": 20
+        },
+        {
+            "text": "वेदी, जे माननीय और एपीओ;बीएलई",
+            "confidence": 0.7260997891426086,
+            "severity": "major",
+            "start": 38,
+            "end": 67
+        },
+        {
+            "text": "सु",
+            "confidence": 0.5554048418998718,
+            "severity": "major",
+            "start": 70,
+            "end": 72
+        },
+        {
+            "text": "देवी",
+            "confidence": 0.499545156955719,
+            "severity": "major",
+            "start": 73,
+            "end": 78
+        }
+    ],
+    [],
+    [
+        {
+            "text": "पार्टियों के लिए सीखा वकील सुना है",
+            "confidence": 0.5984397530555725,
+            "severity": "major",
+            "start": 10,
+            "end": 44
+        },
+        {
+            "text": "रिकॉर्ड का उपयोग किया है",
+            "confidence": 0.42877456545829773,
+            "severity": "major",
+            "start": 47,
+            "end": 72
+        }
+    ],
+    [
+        {
+            "text": "ठोस न्याय करें",
+            "confidence": 0.5117015838623047,
+            "severity": "critical",
+            "start": 115,
+            "end": 130
+        }
+    ],
+    [
+        {
+            "text": "सह",
+            "confidence": 0.6098730564117432,
+            "severity": "major",
+            "start": 55,
+            "end": 58
+        }
+    ],
+    [
+        {
+            "text": "अंतिम देखे गए सिद्धांत",
+            "confidence": 0.4938966929912567,
+            "severity": "major",
+            "start": 16,
+            "end": 39
+        },
+        {
+            "text": "दृढ़ विश्वास का",
+            "confidence": 0.51630699634552,
+            "severity": "critical",
+            "start": 52,
+            "end": 68
+        }
+    ],
+    [
+        {
+            "text": "बालक",
+            "confidence": 0.6169832348823547,
+            "severity": "major",
+            "start": 13,
+            "end": 18
+        }
+    ],
+    [
+        {
+            "text": "जिस पर",
+            "confidence": 0.5533695816993713,
+            "severity": "major",
+            "start": 25,
+            "end": 32
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "माननीय अश्विनी कुमार सिंह, जे त्रिभुवन कुमार मिश्रा बनाम बिहार राज्य और अन्य । डीआईजी।29251 की 2013. 4 अप्रैल, 2017 को निर्णय लिया गया ।",
+            "confidence": 0.6485032439231873,
+            "severity": "critical",
+            "start": 0,
+            "end": 139
+        }
+    ],
+    [
+        {
+            "text": "विवाद",
+            "confidence": 0.6716808080673218,
+            "severity": "major",
+            "start": 39,
+            "end": 45
+        },
+        {
+            "text": "मामले में निकटता से",
+            "confidence": 0.6645849347114563,
+            "severity": "major",
+            "start": 48,
+            "end": 68
+        },
+        {
+            "text": "पैरोडॉक्स",
+            "confidence": 0.6878008246421814,
+            "severity": "major",
+            "start": 111,
+            "end": 121
+        }
+    ],
+    [],
+    [
+        {
+            "text": "पीड़ित",
+            "confidence": 0.6117832064628601,
+            "severity": "major",
+            "start": 95,
+            "end": 102
+        }
+    ],
+    [
+        {
+            "text": "एक फ्रैश",
+            "confidence": 0.6940118074417114,
+            "severity": "critical",
+            "start": 12,
+            "end": 21
+        },
+        {
+            "text": ", एक परिमित",
+            "confidence": 0.8015964031219482,
+            "severity": "critical",
+            "start": 22,
+            "end": 33
+        }
+    ],
+    [
+        {
+            "text": "इस अवसर पर कार्यकारी मुख्य न्यायाधीश अंजना मिश्रा और सुधीर सिंह, जेजे.",
+            "confidence": 0.7975468635559082,
+            "severity": "critical",
+            "start": 0,
+            "end": 71
+        }
+    ],
+    [
+        {
+            "text": "कर्ता द्वारा",
+            "confidence": 0.5292354822158813,
+            "severity": "major",
+            "start": 8,
+            "end": 20
+        },
+        {
+            "text": "01.01.2006 को पूरी करने की आवश्यकता थी और 30",
+            "confidence": 0.6210083365440369,
+            "severity": "major",
+            "start": 35,
+            "end": 80
+        },
+        {
+            "text": "2006 को किया जा रहा रोजगार",
+            "confidence": 0.7037930488586426,
+            "severity": "major",
+            "start": 84,
+            "end": 110
+        },
+        {
+            "text": "उसे",
+            "confidence": 0.6231026649475098,
+            "severity": "major",
+            "start": 112,
+            "end": 116
+        },
+        {
+            "text": "को पूरी करने की आवश्यकता थी",
+            "confidence": 0.5739387273788452,
+            "severity": "major",
+            "start": 142,
+            "end": 170
+        }
+    ],
+    [
+        {
+            "text": "वत वकील प्रस्तुत करते",
+            "confidence": 0.5289804339408875,
+            "severity": "major",
+            "start": 12,
+            "end": 33
+        }
+    ],
+    [],
+    [
+        {
+            "text": "अनुपालन करता है",
+            "confidence": 0.4408131539821625,
+            "severity": "critical",
+            "start": 41,
+            "end": 57
+        }
+    ],
+    [
+        {
+            "text": "बचाव",
+            "confidence": 0.6568596363067627,
+            "severity": "major",
+            "start": 89,
+            "end": 94
+        },
+        {
+            "text": "जाना है",
+            "confidence": 0.7747853994369507,
+            "severity": "major",
+            "start": 113,
+            "end": 121
+        }
+    ],
+    [
+        {
+            "text": "प्रस्तुत किया जाता",
+            "confidence": 0.8010005950927734,
+            "severity": "major",
+            "start": 38,
+            "end": 57
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "सीआर",
+            "confidence": 0.5681498646736145,
+            "severity": "major",
+            "start": 50,
+            "end": 55
+        },
+        {
+            "text": "बयान भी । पी. सी.",
+            "confidence": 0.6762968301773071,
+            "severity": "major",
+            "start": 67,
+            "end": 85
+        },
+        {
+            "text": "बचाव का मामला कुल इनकार है",
+            "confidence": 0.7006326913833618,
+            "severity": "major",
+            "start": 86,
+            "end": 113
+        }
+    ],
+    [
+        {
+            "text": "माननीय अहंकारवादी अमानुल्लाह, जे., 18297 के सीडब्ल्यूजेजेसी नंबर 2016 में रिपोर्ट किया गया । 17 मार्च, 2017 को निर्णय लिया गया ।",
+            "confidence": 0.75631183385849,
+            "severity": "critical",
+            "start": 0,
+            "end": 132
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "मामला बनाया गया",
+            "confidence": 0.6408576369285583,
+            "severity": "major",
+            "start": 70,
+            "end": 86
+        },
+        {
+            "text": "मे",
+            "confidence": 0.4931440055370331,
+            "severity": "major",
+            "start": 111,
+            "end": 113
+        }
+    ],
+    [
+        {
+            "text": "णित निषेध का निषेध",
+            "confidence": 0.7581614851951599,
+            "severity": "major",
+            "start": 42,
+            "end": 60
+        }
+    ],
+    [
+        {
+            "text": "माननीय और एपीओ;बीएलई वीरेंद्र कुमार, जे माननीय और एपीओ; बीएलई शोभा कुमारी और एक अन्य बनाम बिहार राज्य और अन्य जे.जे. सी. नंबर 493 ऑफ 2015 । 14 फरवरी, 2017 को निर्णय लिया गया ।",
+            "confidence": 0.7707857489585876,
+            "severity": "critical",
+            "start": 0,
+            "end": 179
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "जांच केस नं",
+            "confidence": 0.5948591232299805,
+            "severity": "critical",
+            "start": 7,
+            "end": 19
+        },
+        {
+            "text": ". 283 के 2012",
+            "confidence": 0.6649532318115234,
+            "severity": "critical",
+            "start": 20,
+            "end": 33
+        },
+        {
+            "text": "इसकी पूरी कार्यवाही को शिकायत के मामले से उत्पन्न होने वाले रद्द कर दिया गया है । 613 की 2012",
+            "confidence": 0.7099225521087646,
+            "severity": "critical",
+            "start": 36,
+            "end": 131
+        },
+        {
+            "text": ".",
+            "confidence": 0.6068001985549927,
+            "severity": "critical",
+            "start": 132,
+            "end": 133
+        }
+    ],
+    [
+        {
+            "text": "। एक",
+            "confidence": 0.4717034101486206,
+            "severity": "major",
+            "start": 138,
+            "end": 144
+        },
+        {
+            "text": "ला साह की सार्वजनिक वितरण दुकान से संबंधित",
+            "confidence": 0.5816142559051514,
+            "severity": "major",
+            "start": 147,
+            "end": 189
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "लेने",
+            "confidence": 0.5222771763801575,
+            "severity": "major",
+            "start": 22,
+            "end": 27
+        },
+        {
+            "text": "&उद्धरण",
+            "confidence": 0.4762689471244812,
+            "severity": "major",
+            "start": 72,
+            "end": 80
+        }
+    ],
+    [
+        {
+            "text": "पहले होना चाहिए",
+            "confidence": 0.6604393720626831,
+            "severity": "major",
+            "start": 63,
+            "end": 79
+        }
+    ],
+    [
+        {
+            "text": "मामले में",
+            "confidence": 0.5302073955535889,
+            "severity": "major",
+            "start": 0,
+            "end": 9
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "ार्थी",
+            "confidence": 0.591864824295044,
+            "severity": "major",
+            "start": 12,
+            "end": 17
+        },
+        {
+            "text": "अतिरिक्त न्यायिक इकबालिया बयान",
+            "confidence": 0.6176857352256775,
+            "severity": "major",
+            "start": 20,
+            "end": 51
+        }
+    ],
+    [],
+    [
+        {
+            "text": "नंगे अवलोकन",
+            "confidence": 0.8934423923492432,
+            "severity": "critical",
+            "start": 11,
+            "end": 23
+        }
+    ],
+    [],
+    [
+        {
+            "text": "दृष्टिकोण",
+            "confidence": 0.5607731938362122,
+            "severity": "major",
+            "start": 11,
+            "end": 21
+        }
+    ],
+    [
+        {
+            "text": "विद्वत वकील प्रस्तुत करते हैं",
+            "confidence": 0.7325507998466492,
+            "severity": "major",
+            "start": 8,
+            "end": 37
+        },
+        {
+            "text": "प्रत्यर्थी",
+            "confidence": 0.5945852994918823,
+            "severity": "major",
+            "start": 40,
+            "end": 51
+        },
+        {
+            "text": "बढ़",
+            "confidence": 0.491545170545578,
+            "severity": "major",
+            "start": 111,
+            "end": 115
+        },
+        {
+            "text": "जाता है",
+            "confidence": 0.888052225112915,
+            "severity": "major",
+            "start": 199,
+            "end": 207
+        }
+    ],
+    [
+        {
+            "text": "मुखबिर",
+            "confidence": 0.741736888885498,
+            "severity": "critical",
+            "start": 41,
+            "end": 48
+        },
+        {
+            "text": "एक यौन दाग",
+            "confidence": 0.7249822020530701,
+            "severity": "critical",
+            "start": 51,
+            "end": 62
+        },
+        {
+            "text": "ता है",
+            "confidence": 0.418032169342041,
+            "severity": "critical",
+            "start": 72,
+            "end": 77
+        }
+    ],
+    [
+        {
+            "text": "अधिकार निहित",
+            "confidence": 0.631559431552887,
+            "severity": "major",
+            "start": 120,
+            "end": 133
+        },
+        {
+            "text": "&",
+            "confidence": 0.5063902735710144,
+            "severity": "major",
+            "start": 172,
+            "end": 174
+        },
+        {
+            "text": "द्ध",
+            "confidence": 0.45294666290283203,
+            "severity": "major",
+            "start": 175,
+            "end": 178
+        }
+    ],
+    [],
+    [
+        {
+            "text": "प्रारंभ और उपयोग",
+            "confidence": 0.5253790616989136,
+            "severity": "major",
+            "start": 111,
+            "end": 128
+        }
+    ],
+    [
+        {
+            "text": "एमएसटी के",
+            "confidence": 0.5226508378982544,
+            "severity": "critical",
+            "start": 5,
+            "end": 15
+        },
+        {
+            "text": "। उमा देवी और मानते हैं",
+            "confidence": 0.5134285688400269,
+            "severity": "critical",
+            "start": 74,
+            "end": 99
+        }
+    ],
+    [
+        {
+            "text": "नोटिस देने",
+            "confidence": 0.5853055715560913,
+            "severity": "major",
+            "start": 2,
+            "end": 12
+        },
+        {
+            "text": "हुआ । 2.",
+            "confidence": 0.6117088198661804,
+            "severity": "major",
+            "start": 54,
+            "end": 63
+        }
+    ],
+    [
+        {
+            "text": "आवेदन की अनुमति है",
+            "confidence": 0.7740182876586914,
+            "severity": "major",
+            "start": 33,
+            "end": 52
+        },
+        {
+            "text": "अलग रखा गया है",
+            "confidence": 0.6886416673660278,
+            "severity": "major",
+            "start": 83,
+            "end": 98
+        }
+    ],
+    [
+        {
+            "text": "यत शुरू होने के",
+            "confidence": 0.5234212875366211,
+            "severity": "major",
+            "start": 6,
+            "end": 21
+        }
+    ],
+    [],
+    [
+        {
+            "text": "दया का",
+            "confidence": 0.44351014494895935,
+            "severity": "critical",
+            "start": 24,
+            "end": 31
+        }
+    ],
+    [],
+    [
+        {
+            "text": "ियों",
+            "confidence": 0.5560842752456665,
+            "severity": "major",
+            "start": 15,
+            "end": 19
+        },
+        {
+            "text": "लिए सीखे हुए काउंसल्स को सुना",
+            "confidence": 0.6878417134284973,
+            "severity": "major",
+            "start": 22,
+            "end": 52
+        }
+    ],
+    [],
+    [
+        {
+            "text": "लोक भूमि",
+            "confidence": 0.8503431081771851,
+            "severity": "major",
+            "start": 7,
+            "end": 16
+        }
+    ],
+    [
+        {
+            "text": "किया",
+            "confidence": 0.48760777711868286,
+            "severity": "major",
+            "start": 14,
+            "end": 19
+        },
+        {
+            "text": "अधिकार",
+            "confidence": 0.5596812963485718,
+            "severity": "major",
+            "start": 46,
+            "end": 53
+        },
+        {
+            "text": "मामले में दावा",
+            "confidence": 0.6444611549377441,
+            "severity": "major",
+            "start": 56,
+            "end": 71
+        }
+    ],
+    [
+        {
+            "text": "में",
+            "confidence": 0.5940485596656799,
+            "severity": "major",
+            "start": 42,
+            "end": 46
+        },
+        {
+            "text": "अधिकार है जिसके साथ यह",
+            "confidence": 0.6230751872062683,
+            "severity": "major",
+            "start": 54,
+            "end": 77
+        },
+        {
+            "text": "का",
+            "confidence": 0.4909464716911316,
+            "severity": "major",
+            "start": 147,
+            "end": 150
+        }
+    ],
+    [],
+    [
+        {
+            "text": "प्रस्तुत किया",
+            "confidence": 0.5305095911026001,
+            "severity": "major",
+            "start": 20,
+            "end": 34
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "साथ परोसा",
+            "confidence": 0.6363632678985596,
+            "severity": "critical",
+            "start": 54,
+            "end": 64
+        }
+    ],
+    [
+        {
+            "text": "संभावित संचालन है",
+            "confidence": 0.5644128918647766,
+            "severity": "major",
+            "start": 78,
+            "end": 96
+        }
+    ],
+    [
+        {
+            "text": "(मैं",
+            "confidence": 0.6607900261878967,
+            "severity": "major",
+            "start": 0,
+            "end": 4
+        },
+        {
+            "text": "रोटी विजेता की सेवा में मृत्यु से उत्पन्न होने वाले परिवार में अचानक संकट को पूरा करने के",
+            "confidence": 0.7055445313453674,
+            "severity": "major",
+            "start": 6,
+            "end": 96
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "डब्ल्यू",
+            "confidence": 0.58058100938797,
+            "severity": "major",
+            "start": 31,
+            "end": 38
+        }
+    ],
+    [],
+    [
+        {
+            "text": "दिखाना",
+            "confidence": 0.45163673162460327,
+            "severity": "critical",
+            "start": 188,
+            "end": 195
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "अनुकंपा नियुक्ति पर अनुकंपा नियुक्ति पर",
+            "confidence": 0.9033800363540649,
+            "severity": "critical",
+            "start": 4,
+            "end": 44
+        }
+    ],
+    [],
+    [
+        {
+            "text": "अपराध का गठन होता है",
+            "confidence": 0.7817709445953369,
+            "severity": "major",
+            "start": 27,
+            "end": 48
+        },
+        {
+            "text": "स्वीकार्य",
+            "confidence": 0.5844048261642456,
+            "severity": "major",
+            "start": 95,
+            "end": 105
+        },
+        {
+            "text": "विचार किया गया है",
+            "confidence": 0.6979190111160278,
+            "severity": "major",
+            "start": 148,
+            "end": 166
+        }
+    ],
+    [
+        {
+            "text": "की घटना के संबंध",
+            "confidence": 0.5863078832626343,
+            "severity": "major",
+            "start": 23,
+            "end": 40
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "पूर्व ।",
+            "confidence": 0.711970329284668,
+            "severity": "major",
+            "start": 11,
+            "end": 19
+        },
+        {
+            "text": "चर हैं",
+            "confidence": 0.5290095210075378,
+            "severity": "major",
+            "start": 75,
+            "end": 81
+        },
+        {
+            "text": "अवलोकन",
+            "confidence": 0.5586669445037842,
+            "severity": "major",
+            "start": 94,
+            "end": 101
+        }
+    ],
+    [
+        {
+            "text": "वकील प्रस्तुत करते",
+            "confidence": 0.5341227650642395,
+            "severity": "major",
+            "start": 7,
+            "end": 26
+        }
+    ],
+    [
+        {
+            "text": "अनुमति है",
+            "confidence": 0.5947184562683105,
+            "severity": "major",
+            "start": 42,
+            "end": 52
+        }
+    ],
+    [
+        {
+            "text": "कि अदालत के पास उस स्थान पर अधिकार क्षेत्र होगा जहां विशेष रूप से गोद लेने वाली एजेंसी स्थित है",
+            "confidence": 0.7361747622489929,
+            "severity": "major",
+            "start": 3,
+            "end": 98
+        }
+    ],
+    [
+        {
+            "text": "क्टर",
+            "confidence": 0.45204004645347595,
+            "severity": "major",
+            "start": 27,
+            "end": 31
+        },
+        {
+            "text": "स्मस्ती",
+            "confidence": 0.6575643420219421,
+            "severity": "major",
+            "start": 34,
+            "end": 41
+        },
+        {
+            "text": "एक किरायेदारी अपील",
+            "confidence": 0.518474280834198,
+            "severity": "major",
+            "start": 53,
+            "end": 72
+        },
+        {
+            "text": "दलसी",
+            "confidence": 0.4551987648010254,
+            "severity": "major",
+            "start": 99,
+            "end": 104
+        },
+        {
+            "text": "सामान्य",
+            "confidence": 0.431425541639328,
+            "severity": "major",
+            "start": 135,
+            "end": 143
+        },
+        {
+            "text": "पर जोर दिया गया",
+            "confidence": 0.7870680689811707,
+            "severity": "critical",
+            "start": 148,
+            "end": 164
+        }
+    ],
+    [
+        {
+            "text": "रिट",
+            "confidence": 0.7958178520202637,
+            "severity": "major",
+            "start": 31,
+            "end": 35
+        }
+    ],
+    [
+        {
+            "text": "संचालन जो परमादेश की रिट को बनाए रखने योग्य होगा, किसी",
+            "confidence": 0.7663110494613647,
+            "severity": "major",
+            "start": 27,
+            "end": 82
+        },
+        {
+            "text": "को स्थापित करना नहीं है",
+            "confidence": 0.7737041115760803,
+            "severity": "major",
+            "start": 102,
+            "end": 126
+        }
+    ],
+    [
+        {
+            "text": "युक्त टुकड़े चंदेरोर गाँव",
+            "confidence": 0.6111935377120972,
+            "severity": "critical",
+            "start": 4,
+            "end": 29
+        },
+        {
+            "text": ", उगीपुर",
+            "confidence": 0.6925886869430542,
+            "severity": "critical",
+            "start": 30,
+            "end": 38
+        },
+        {
+            "text": ",",
+            "confidence": 0.5445185899734497,
+            "severity": "critical",
+            "start": 39,
+            "end": 40
+        },
+        {
+            "text": "स्मस्तीपुर",
+            "confidence": 0.7322076559066772,
+            "severity": "critical",
+            "start": 41,
+            "end": 51
+        }
+    ],
+    [
+        {
+            "text": "सबनाम",
+            "confidence": 0.5925419926643372,
+            "severity": "major",
+            "start": 18,
+            "end": 24
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "विचार",
+            "confidence": 0.6259427070617676,
+            "severity": "major",
+            "start": 37,
+            "end": 43
+        },
+        {
+            "text": "भी समाप्त होनी है",
+            "confidence": 0.7055026888847351,
+            "severity": "major",
+            "start": 64,
+            "end": 82
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "जहां कानून",
+            "confidence": 0.5159425139427185,
+            "severity": "major",
+            "start": 14,
+            "end": 25
+        },
+        {
+            "text": "किया जाना है",
+            "confidence": 0.6457130312919617,
+            "severity": "major",
+            "start": 41,
+            "end": 54
+        },
+        {
+            "text": "सोलेटियम के लिए प्रदान नहीं करता है",
+            "confidence": 0.6530283689498901,
+            "severity": "major",
+            "start": 94,
+            "end": 130
+        },
+        {
+            "text": "&उद्धरण",
+            "confidence": 0.6424349546432495,
+            "severity": "major",
+            "start": 133,
+            "end": 141
+        }
+    ],
+    [],
+    [
+        {
+            "text": "मजिस्ट्रेट",
+            "confidence": 0.599669337272644,
+            "severity": "major",
+            "start": 0,
+            "end": 10
+        },
+        {
+            "text": "मन का आवेदन",
+            "confidence": 0.5507959127426147,
+            "severity": "critical",
+            "start": 17,
+            "end": 29
+        }
+    ],
+    [],
+    [
+        {
+            "text": "की",
+            "confidence": 0.38050055503845215,
+            "severity": "critical",
+            "start": 54,
+            "end": 57
+        }
+    ],
+    [
+        {
+            "text": "फिट",
+            "confidence": 0.7429180145263672,
+            "severity": "major",
+            "start": 31,
+            "end": 35
+        }
+    ],
+    [
+        {
+            "text": "अपराध का गठन होता है",
+            "confidence": 0.7876613140106201,
+            "severity": "major",
+            "start": 27,
+            "end": 48
+        },
+        {
+            "text": "स्वीकार्य",
+            "confidence": 0.5957090854644775,
+            "severity": "major",
+            "start": 95,
+            "end": 105
+        },
+        {
+            "text": "विचार किया गया है",
+            "confidence": 0.705450177192688,
+            "severity": "major",
+            "start": 148,
+            "end": 166
+        }
+    ],
+    [
+        {
+            "text": "खिलाफ सख्ती से",
+            "confidence": 0.47207093238830566,
+            "severity": "critical",
+            "start": 99,
+            "end": 114
+        },
+        {
+            "text": "ंगी",
+            "confidence": 0.4441992938518524,
+            "severity": "major",
+            "start": 121,
+            "end": 124
+        }
+    ],
+    [
+        {
+            "text": "2-नोटिस की कानूनी सेवा के बावजूद, विपरीत पार्टी नंबर 2 ने इस मामले",
+            "confidence": 0.7166825532913208,
+            "severity": "major",
+            "start": 0,
+            "end": 67
+        },
+        {
+            "text": "उपस्थित होने और चुनाव लड़ने",
+            "confidence": 0.5471860766410828,
+            "severity": "major",
+            "start": 71,
+            "end": 99
+        },
+        {
+            "text": "फैसला",
+            "confidence": 0.439085453748703,
+            "severity": "major",
+            "start": 102,
+            "end": 108
+        }
+    ],
+    [],
+    [
+        {
+            "text": "अधिवक्ता: - याचिकाकर्ता के वकील को सुना और राज्य के लिए सरकारी वकील को सीखा ।",
+            "confidence": 0.8384710550308228,
+            "severity": "critical",
+            "start": 0,
+            "end": 77
+        }
+    ],
+    [
+        {
+            "text": "क्रॉस अपील",
+            "confidence": 0.787073016166687,
+            "severity": "major",
+            "start": 35,
+            "end": 46
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "समाप्त",
+            "confidence": 0.6151018142700195,
+            "severity": "critical",
+            "start": 88,
+            "end": 95
+        },
+        {
+            "text": "होता",
+            "confidence": 0.5190554857254028,
+            "severity": "critical",
+            "start": 100,
+            "end": 105
+        }
+    ],
+    [
+        {
+            "text": "तत्काल मामले",
+            "confidence": 0.723387598991394,
+            "severity": "major",
+            "start": 8,
+            "end": 21
+        }
+    ],
+    [
+        {
+            "text": "कॉल पर",
+            "confidence": 0.6671861410140991,
+            "severity": "major",
+            "start": 0,
+            "end": 6
+        }
+    ],
+    [
+        {
+            "text": "भूमि",
+            "confidence": 0.37678202986717224,
+            "severity": "major",
+            "start": 5,
+            "end": 10
+        },
+        {
+            "text": "अलगाव",
+            "confidence": 0.5570883750915527,
+            "severity": "critical",
+            "start": 13,
+            "end": 19
+        },
+        {
+            "text": "8 तक",
+            "confidence": 0.38263794779777527,
+            "severity": "critical",
+            "start": 50,
+            "end": 55
+        },
+        {
+            "text": "के",
+            "confidence": 0.4153405427932739,
+            "severity": "major",
+            "start": 85,
+            "end": 88
+        },
+        {
+            "text": "कृत कब्जे हों",
+            "confidence": 0.4629076421260834,
+            "severity": "major",
+            "start": 93,
+            "end": 106
+        }
+    ],
+    [
+        {
+            "text": "पर रहने",
+            "confidence": 0.5552588105201721,
+            "severity": "critical",
+            "start": 40,
+            "end": 48
+        },
+        {
+            "text": "लिए",
+            "confidence": 0.4544528126716614,
+            "severity": "major",
+            "start": 51,
+            "end": 55
+        }
+    ],
+    [
+        {
+            "text": "दे",
+            "confidence": 0.5016703605651855,
+            "severity": "major",
+            "start": 99,
+            "end": 102
+        }
+    ],
+    [
+        {
+            "text": "उसके सदस्यों",
+            "confidence": 0.7051793336868286,
+            "severity": "major",
+            "start": 44,
+            "end": 57
+        }
+    ],
+    [
+        {
+            "text": "रजिस्टर्ड डीड से",
+            "confidence": 0.5806171894073486,
+            "severity": "major",
+            "start": 3,
+            "end": 19
+        },
+        {
+            "text": "से 7",
+            "confidence": 0.48155152797698975,
+            "severity": "major",
+            "start": 92,
+            "end": 97
+        },
+        {
+            "text": "चैनपुर में",
+            "confidence": 0.5120644569396973,
+            "severity": "major",
+            "start": 99,
+            "end": 110
+        },
+        {
+            "text": "ा",
+            "confidence": 0.44708138704299927,
+            "severity": "major",
+            "start": 115,
+            "end": 116
+        }
+    ],
+    [],
+    [
+        {
+            "text": "बहुमत",
+            "confidence": 0.5208576321601868,
+            "severity": "major",
+            "start": 16,
+            "end": 22
+        }
+    ],
+    [
+        {
+            "text": "परमादेश की एक रिट की परिधि",
+            "confidence": 0.6097390055656433,
+            "severity": "major",
+            "start": 0,
+            "end": 26
+        },
+        {
+            "text": "प्रकृति स्पष्ट",
+            "confidence": 0.45993417501449585,
+            "severity": "major",
+            "start": 29,
+            "end": 44
+        },
+        {
+            "text": "से हिब्रू के स्वास्थ्य के खंड में बताई गई है, समान रूप से अनिवार्य है",
+            "confidence": 0.5587546229362488,
+            "severity": "major",
+            "start": 48,
+            "end": 118
+        },
+        {
+            "text": "”",
+            "confidence": 0.4262397885322571,
+            "severity": "major",
+            "start": 121,
+            "end": 123
+        }
+    ],
+    [],
+    [
+        {
+            "text": "अधिक",
+            "confidence": 0.47637033462524414,
+            "severity": "major",
+            "start": 7,
+            "end": 12
+        },
+        {
+            "text": "सीबीआई",
+            "confidence": 0.36955273151397705,
+            "severity": "major",
+            "start": 14,
+            "end": 21
+        },
+        {
+            "text": "में सीबीआई",
+            "confidence": 0.3904620409011841,
+            "severity": "major",
+            "start": 43,
+            "end": 54
+        },
+        {
+            "text": "बोझ",
+            "confidence": 0.42427611351013184,
+            "severity": "major",
+            "start": 57,
+            "end": 61
+        },
+        {
+            "text": "जांच को",
+            "confidence": 0.43909376859664917,
+            "severity": "major",
+            "start": 70,
+            "end": 78
+        },
+        {
+            "text": "की",
+            "confidence": 0.4173468053340912,
+            "severity": "major",
+            "start": 93,
+            "end": 96
+        },
+        {
+            "text": "होगी जो",
+            "confidence": 0.39081692695617676,
+            "severity": "major",
+            "start": 110,
+            "end": 118
+        },
+        {
+            "text": "ही अधिक बोझ है",
+            "confidence": 0.5366864800453186,
+            "severity": "critical",
+            "start": 126,
+            "end": 141
+        }
+    ],
+    [],
+    [
+        {
+            "text": "अनियंत्रित",
+            "confidence": 0.4825774133205414,
+            "severity": "major",
+            "start": 39,
+            "end": 50
+        },
+        {
+            "text": "कमीशन",
+            "confidence": 0.7840536832809448,
+            "severity": "major",
+            "start": 107,
+            "end": 113
+        },
+        {
+            "text": "मामला बनाते हैं",
+            "confidence": 0.6388561725616455,
+            "severity": "major",
+            "start": 155,
+            "end": 171
+        }
+    ],
+    [],
+    [
+        {
+            "text": "मुख",
+            "confidence": 0.4590059518814087,
+            "severity": "major",
+            "start": 0,
+            "end": 3
+        },
+        {
+            "text": "र",
+            "confidence": 0.3685699999332428,
+            "severity": "critical",
+            "start": 5,
+            "end": 6
+        },
+        {
+            "text": "खाली करने",
+            "confidence": 0.48623353242874146,
+            "severity": "major",
+            "start": 33,
+            "end": 43
+        },
+        {
+            "text": "आह्वान",
+            "confidence": 0.5098463296890259,
+            "severity": "major",
+            "start": 46,
+            "end": 53
+        }
+    ],
+    [
+        {
+            "text": "की अनुमति है और लगाए गए आदेश",
+            "confidence": 0.6733003258705139,
+            "severity": "major",
+            "start": 17,
+            "end": 46
+        },
+        {
+            "text": "गया है",
+            "confidence": 0.6411069631576538,
+            "severity": "major",
+            "start": 62,
+            "end": 69
+        }
+    ],
+    [
+        {
+            "text": "से निपटते",
+            "confidence": 0.538853645324707,
+            "severity": "major",
+            "start": 33,
+            "end": 43
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "कब्जे वाले",
+            "confidence": 0.612558901309967,
+            "severity": "critical",
+            "start": 42,
+            "end": 53
+        }
+    ],
+    [
+        {
+            "text": "बिंदु",
+            "confidence": 0.5401567220687866,
+            "severity": "major",
+            "start": 11,
+            "end": 17
+        },
+        {
+            "text": "तय किया",
+            "confidence": 0.6579607129096985,
+            "severity": "major",
+            "start": 57,
+            "end": 65
+        },
+        {
+            "text": "अनुपात",
+            "confidence": 0.7923096418380737,
+            "severity": "major",
+            "start": 80,
+            "end": 87
+        }
+    ],
+    [],
+    [
+        {
+            "text": "डबल",
+            "confidence": 0.48248276114463806,
+            "severity": "major",
+            "start": 0,
+            "end": 3
+        },
+        {
+            "text": "पूर्व",
+            "confidence": 0.46502628922462463,
+            "severity": "major",
+            "start": 16,
+            "end": 22
+        },
+        {
+            "text": "मुद्दे तैयार",
+            "confidence": 0.4870253801345825,
+            "severity": "major",
+            "start": 130,
+            "end": 143
+        }
+    ],
+    [
+        {
+            "text": "सु",
+            "confidence": 0.6258556842803955,
+            "severity": "major",
+            "start": 18,
+            "end": 21
+        },
+        {
+            "text": "मिल",
+            "confidence": 0.6490570306777954,
+            "severity": "major",
+            "start": 63,
+            "end": 67
+        }
+    ],
+    [
+        {
+            "text": "सीखा हुआ परामर्श",
+            "confidence": 0.5290480256080627,
+            "severity": "critical",
+            "start": 25,
+            "end": 42
+        },
+        {
+            "text": "भर",
+            "confidence": 0.5151390433311462,
+            "severity": "major",
+            "start": 130,
+            "end": 132
+        }
+    ],
+    [
+        {
+            "text": "जैसा कि तत्काल मामले में, उनकी ओर से किए गए औसत और प्रत्येक पहलू पर याची के दावे को सीधे चुनौती देने की मांग की गई है, हर कदम पर खारिज कर दिया गया है",
+            "confidence": 0.7005544304847717,
+            "severity": "critical",
+            "start": 0,
+            "end": 150
+        },
+        {
+            "text": ".",
+            "confidence": 0.5315532684326172,
+            "severity": "critical",
+            "start": 151,
+            "end": 152
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "text": "मुख",
+            "confidence": 0.47377946972846985,
+            "severity": "major",
+            "start": 84,
+            "end": 88
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": "पार्लर का काम करते थे",
+            "confidence": 0.4458477199077606,
+            "severity": "major",
+            "start": 61,
+            "end": 83
+        }
+    ],
+    [
+        {
+            "text": "ाधिकार",
+            "confidence": 0.6896395087242126,
+            "severity": "major",
+            "start": 15,
+            "end": 21
+        },
+        {
+            "text": "कार्यवाही",
+            "confidence": 0.7190274000167847,
+            "severity": "major",
+            "start": 44,
+            "end": 54
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "text": ", कैट मामले के तहत खारिज कर दिया है 179 वर्ष 2009",
+            "confidence": 0.6234011650085449,
+            "severity": "critical",
+            "start": 6,
+            "end": 55
+        },
+        {
+            "text": ".",
+            "confidence": 0.633468508720398,
+            "severity": "critical",
+            "start": 56,
+            "end": 57
+        }
+    ],
+    [
+        {
+            "text": "लिए सीखा काउंसल सुना",
+            "confidence": 0.652590274810791,
+            "severity": "critical",
+            "start": 56,
+            "end": 77
+        }
+    ],
+    [
+        {
+            "text": "किया जाता है",
+            "confidence": 0.5658936500549316,
+            "severity": "major",
+            "start": 57,
+            "end": 70
+        }
+    ],
+    [
+        {
+            "text": "भौतिक बिं",
+            "confidence": 0.6165273785591125,
+            "severity": "major",
+            "start": 68,
+            "end": 78
+        }
+    ],
+    [
+        {
+            "text": "कड़ाई",
+            "confidence": 0.3880353569984436,
+            "severity": "major",
+            "start": 93,
+            "end": 99
+        },
+        {
+            "text": "करने के लिए",
+            "confidence": 0.48855865001678467,
+            "severity": "critical",
+            "start": 117,
+            "end": 129
+        }
+    ],
+    [
+        {
+            "text": "है",
+            "confidence": 0.5288013219833374,
+            "severity": "critical",
+            "start": 34,
+            "end": 37
+        },
+        {
+            "text": "अधिक निडरता होगी",
+            "confidence": 0.4651963710784912,
+            "severity": "critical",
+            "start": 39,
+            "end": 56
+        }
+    ],
+    [
+        {
+            "text": "&उद्धरण",
+            "confidence": 0.6168432831764221,
+            "severity": "major",
+            "start": 131,
+            "end": 139
+        }
+    ],
+    [],
+    [
+        {
+            "text": "उन्होंने प्रस्तुत किया",
+            "confidence": 0.6705293655395508,
+            "severity": "major",
+            "start": 0,
+            "end": 22
+        },
+        {
+            "text": "कथित शिकायत",
+            "confidence": 0.6958960294723511,
+            "severity": "major",
+            "start": 25,
+            "end": 37
+        },
+        {
+            "text": "त्मक है",
+            "confidence": 0.5880082845687866,
+            "severity": "major",
+            "start": 48,
+            "end": 55
+        },
+        {
+            "text": "इसे पैरा-आई-मकसद के साथ स्थापित",
+            "confidence": 0.7772201299667358,
+            "severity": "major",
+            "start": 58,
+            "end": 90
+        },
+        {
+            "text": "गया",
+            "confidence": 0.4860178828239441,
+            "severity": "major",
+            "start": 95,
+            "end": 99
+        }
+    ]
+]
